@@ -1,0 +1,224 @@
+VTF1.0
+'Predict.     Visual Text Format
+Times New Roman,11,N   00
+Times New Roman,11,B   01
+MS Sans Serif,9,N      02
+MS Sans Serif,9,B      03
+Courier New,11,N       04
+Courier New,11,B       05
+Terminal,9,N           06
+B_279,12,N             07
+B_279,12,B             08
+Symbol,12,B            09
+Times New Roman,10,N   10
+Arial,8,N             11
+
+'
+' Star Chart Object Definitions
+'
+[StarCharts]
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Nk    
+    Sun.Caption     = ã     
+    Mercury.Caption = ×     
+    Venus.Caption   = Ñ     
+    Mars.Caption    = ùN    
+    Jupiter.Caption = ®     
+    Saturn.Caption  = N²    
+    Rahu.Caption    = Wô    
+    Ketu.Caption    = úL    
+    Lagnam.Caption  = X     
+    Gulikan.Caption = Uô    
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle=csSouthIndian
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 11
+    Font.Name   = Times New Roman
+    Font.Style  = N
+    Width       = 50
+    Height      = 50
+    MarkAscendant   = False
+    ShowTwelfth     = True
+    Moon.Color      = clBlack
+    Sun.Color       = clBlack
+    Mercury.Color   = clBlack
+    Venus.Color     = clBlack
+    Mars.Color      = clBlack
+    Jupiter.Color   = clBlack
+    Saturn.Color    = clBlack
+    Rahu.Color      = clBlack
+    Ketu.Color      = clBlack
+    Lagnam.Color    = clBlack
+    Gulikan.Color   = clBlack
+    Twelfth.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Lô    
+    Sun.Caption     = Ao    
+    Mercury.Caption = ªÚ    
+    Venus.Caption   = VU    
+    Mars.Caption    = Ï°    
+    Jupiter.Caption = T¬    
+    Saturn.Caption  = Ck    
+    Rahu.Caption    = qV    
+    Ketu.Caption    = E     
+    Lagnam.Caption  = ç     
+    Gulikan.Caption =  
+    Lagnam.Caption  = X     
+    Gulikan.Caption = ç     
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+#define {blu}      = "{c9}"
+#define {mgn}      = "{c5}"
+#define {dbl}      = "{c1}"
+#define {grn}      = "{c2}"
+#define {red}      = "{c12}"
+#define {blk}      = "{c0}"
+#define {gry}      = "{c7}"
+#define {cyn}      = "{c3}"
+#define {tabchar}  = "	"
+#define {title}    = "{s}{blu}{f8}"
+#define {endtitle} = "{r}"
+
+{PageBreak}
+
+{"}{blu}{f8}úLôNôW TXm{f7}{gry}
+{=}{l0}{blk}
+{header}
+{tab}
+{f7}ùTVo	{f1} : ram{f7} (Bi){blk}
+{f7}úLôNôW ¨ûX	{f1} : 10-{f8}_÷u{f1}-2015
+{f7}©\kR Wô£	{f1} : {f8}LPLm{f7}
+
+{endtab}
+{endheader}
+{header}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f7}éWhPô§${f0}10-{f7}_÷u{f0}-2015${f0}03.20.00 pm${f8}úLôNôW ¨ûX${f7}¾oLômNm{f0}   -077.35${f7}AbômNm{f0}   +12.59" Moo =  12  Sun =  2  Mer =  2  Ven =  4  Mar =  2  Jup =  4  Sat =  8  Rah =  6  Ket =  12  Lag =  5  Gul =  5  }
+{endheader}
+
+{poke}{f7}
+¡WLeL°u ClùTôÝûRV ¨ûXûVÙm, _ôRLj§p CÚdÏm ¨ûXûVÙm ùTôßjÕ, úLôNôWl TXu ùNôpXlTÓ¡\Õ. ã¬Vu, ÏÚ, N² B¡VûYL°u SPUôhPm EeLs YôrdûLûV A§LUôLl Tô§dÏm. £XNUVm, AûYL°u TXuLs JußdùLôuß G§WôLúYô ApXÕ Juû\ùVôuß ¿dÏYRôLúYô ApXÕ TXlTÓjÕYRôLúYô CÚdÏm. EeLÞûPV ùSÚe¡V G§oLôXm ¸rdLiPYôß CÚdÏm.
+{header}
+
+{poke}{mgn}{f8}
+ã¬V²u NôWTXu
+{endheader}
+
+{poke}{blk}{f7}
+ã¬Vu JÚ UôRj§tÏ JÚ Wô£«p CÚd¡\ôo.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 10-{s}{f8}_÷u{r}-2015  >>  15-{s}{f8}_÷u{r}-2015 ){f7}
+{endheader}
+
+{poke}{f7}
+BiÏZkûRVô] RôeLs GûRÙm úNôRû] ùNnÕ TôodL úYiÓm Guß ®Úm×ÅoLs. RôeLs ªÏkR ATôVm ®û[®dLd á¥V Lô¬VeL°p DÓThPôÛm, Cû\Y²u ûL«p RôeLs ªÏkR Tj§WUôL CÚlÀoLs. ReLÞûPV ùTtú\ôoLs ùNnÙm ®VôTôWeL°p ªÏkR CXôTm AûPYôoLs GuT§p NkúRLm CpûX. ReLs Åh¥tÏ YÚm ®Úk§]Úm E\®]Úm ReLÞdÏ SpX T¬Ñl ùTôÚsLû[Ùm, BTWQeLû[Ùm ùLôiÓ YÚYôoLs. RôeLs ÏÓmTj§p VôúWàm T¬Ñf ºhÓL°p T¬Ñ ùTt\ôp, AÕ ReL°u A§oxPj§]ôpRôu. ¿eLs N¬YW EQÜ EiÔYÕ CpûX. CÕ EeLs ùTtú\ôÚdÏ U]fNeLPjûR EiPôdÏm.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 15-{s}{f8}_÷u{r}-2015  >>  15-{s}{f8}_øûX{r}-2015 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+BiÏZkûRVô] ReLÞdÏ CkRd LôXj§u ã¬V²u ùTVof£ NôRLUô]RôL CpûX. ùTtú\ôoLÞdÏ HtThÓs[ ©Wf£û]Ls, U]jÕuTeLs B¡VYt±u ¨ZpLs ReLs ÁÕm áP ®ZXôm. A]ôY£VUô] ©WVôQeLs HtTÓm, ¿eLÞm A§p áPfùNpX úYi¥«ÚdÏm. LônfNp, Tp úSônLs B¡V ÕuTeLs R®odLlTP Ø¥VôRûY. ReL°Pj§p LôQlTÓ¡u\ AûU§«uûU, U]fNgNXm ùLôsÞRp, ùTtú\ô¬Pj§Ûm U] CßdLjûR EiPôdÏ¡u\]. CkR SôhL°p R®odL Ø¥VôR £X ®ZôdLs ReLs Åh¥p ¨LÝm.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 15-{s}{f8}_øûX{r}-2015  >>  14-{s}{f8}BLvÓ{r}-2015 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+TôNj§tÏ¬V EeL[Õ ùTtú\ôoL°u Bi UL]ôL ¿eLs CÚd¡uÈoLs. úRôt\j§Ûm, U]lúTôd¡Ûm, §\ûUL°Ûm ReL°Pj§p §¼o Uôt\eLs ¨LrkÕ ùLôi¥Úd¡u\]. EeLs ùTtú\ôoLs CkR Uôt\eLû[ ùYÏ BYÛPu LY²jÕd ùLôi¥Úd¡\ôoLs. RôeLs Ñtßl×\fãr¨ûX, ùTtú\ô¬u Uú]ôTôYeLs B¡VûYL°p UôßRpLs HtTÓYûR G§oùLôs[ úYi¥ CÚdÏm. RôeLs úUtùLôiP Ñtßl TVQeLû[ Ut\Yo AàT®jÕ U¡rkRûRl úTôp W£dL Ø¥VôÕ. RôeLs GûRúVô CZkÕ ®hPûRl úTôX GiQ Yônl×Ls Es[]. ReLÞûPV úRôt\Øm, ÏQô§NVeLÞm, EeLs ÏÓmTj§p Es[ Ut\ Ød¡VUô] SiToLÞPu Jl× úSôdLlTÓ¡u\].
+{header}
+
+{poke}{mgn}{f8}
+ÏÚ®u NôWTXu
+{endheader}
+
+{poke}{blk}{f7}
+ÏÚ JÚ BiÓ JÚ Wô£«p ¨t¡\ôo. ÏÚ®u TôoûY Ød¡VUô]RôL Es[Õ.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 10-{s}{f8}_÷u{r}-2015  >>  23-{s}{f8}BLvÓ{r}-2015 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+BiÏZkûRVô] ¿eLs EeLÞûPV ®û[VôhÓj úRôZoLs £XûW ®ÚmTôUp, AYoLÞPu TûLûU ùLôsÅoLs. CkR UôReL°p, ¿eLs Y[Úm ùTôÝÕ ªLÜm ùU­kÕ LôQlTÓÅoLs. CÕ EeLs RôndÏ ªÏkR U]fNeLPjûR EiPôdÏm. ReLÞdÏj úRûYlTÓm úTôúRô, ApXÕ AYoLû[ G§oTôodÏm úTôúRô ReL[ôp ®ÚmTlTPdá¥VYoLs ApXÕ ùTtú\ôoLs VôûWÙm RôeLs LôQØ¥VôÕ. CÕúY ReLÞdÏ ªÏkR úLÓ ®û[®dÏm AmNUôÏm. ùLüWYªdL TR®L°p CÚkÕ Årf£, ×§RôLj ReLs Åh¥tÏ YÚTYoLs LôWQUôL, Au×, £\kR LY²l× B¡V] HtTP Yônl×iÓ. ReLû[d LY²jÕd ùLôs[ úYß JÚYÚûPV BRW®p ®PlTÓYÕ AY£VUô¡\Õ.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 23-{s}{f8}BLvÓ{r}-2015  >>  18-{s}{f8}BLvÓ{r}-2016 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+BiÏZkûRVô] ReL[Õ ©\kR Sô[ô]Õ ùLôiPôPlThPôÛm, CpXô®hPôÛm AÕ ReLs RôVôÚdÏ ªÏkR U] U¡rf£ûV A°dLd á¥V JÚ ¨Lrf£VôÏm. RôeLsRôu AYÚûPV U]§p NkúRô`jûR EiPôdÏm JÚ ûUVd LÚYôL CÚlÀoLs. ReLs ÏÓmTj§p Es[YoLÞm, ªL ùSÚe¡VYoLÞm ReL°PªÚkÕ ªÏkR NkúRô`jûR AûP¡\ôoLs. ReLs ÏÓmTj§tÏf £\kR BºoYôRjûRÙm, ùTôÚ[ôRôW XôTeLû[Ùm EiPôdÏ¡ÈoLs. ReLs ©\kR §]jûR Jh¥ GlúTôÕm RLlT]ôÚdÏ Ko EVoÜ CÚkÕ ùLôiúP CÚdÏm.
+{header}
+
+{poke}{mgn}{f8}
+N²«u NôWTXu
+{endheader}
+
+{poke}{blk}{f7}
+JÚ Wô£«p N² 2 1/2 BiÓ CÚd¡\ôo.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 10-{s}{f8}_÷u{r}-2015  >>  23-{s}{f8}úU{r}-2017 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+BiÏZkRôVôL ©\k§ÚdÏm EeL[Õ ÏÓmTj§p YkÕ úNÚm ×§V SToLs, ReLÞdÏ JÚ ©Wf£û]VôLúY CÚlTôoLs. RôeLs ùY°úV R²VôL CÚlTûRÙm, çWUôL CÚlTûRÙm ®ÚmT Uôh¼oLs. ReLÞdÏ ùYÏ NÁTj§úXúV A§oxPLWUô], NkúRô`jûRj RWd á¥VÕUô] LôXm Es[Õ GuTÕ U¡rf£dÏ¬VúR. ÏÓmTj§p A¥dL¥ ùY°ëo ùNuß YWYônl×Ls Es[]. RôeLs Ne¸Rj§Ûm, SP]j§Ûm JÚ SpX BoYjûR Y[ojÕd ùLôsÅoLs. RôeLs GkRf NkRolTj§Ûm, ¨Lrf£L°Ûm EPàdÏPu RôURªu± RôUôLúY ©\oçiÓR­u± Lô¬VeLû[f ùNnÅoLs.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 23-{s}{f8}úU{r}-2017  >>   6-{s}{f8}SYmTo{r}-2019 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+BiÏZkûRVô] ¿eLs CRtÏ EP]¥VôL Øk§V LôXj§p SûPùTt\ AàTYeLÞdÏ Uô\ôLj RôeLs ªLf NkúRô`Uô] JÚ LôX LhPj§p CÚd¡ÈoLs. ReL°Pj§p ªLÜm ®hÓd ùLôÓjÕl TZÏm TX SiToLû[l ùTßÅoLs. Lp®ûVj ÕYdLÜm, Ts°dáPm ùNpXÜm CÕ JÚ SpXLôXm. £ß úRoÜL°Ûm TÃhûNL°Ûm SpX ùYt±Ls ¡ûPdÏm. ®ûX U§l× ªdL T¬Ñl ùTôÚhLû[ AûPÅoLs. ReLs Åh¥tÏ YÚm ®Úk§]oLs U¡rf£ÙûPVYoL[ôLÜm, Au×Pu TZÏTYoL[ôLÜm LôQlTÓ¡\ôoLs. SpX Øû\«p SPkÕ ©\¬PªÚkÕ SuU§lûTl ùTßYÕ GuTÕ ReLs ûL«pRôu CÚd¡\Õ. RôeLs ÑV£kRû]Ùm, ùNVp §\àm EûPVYo. GlúTôÕm ×Wh£LWUô]YWôL CÚd¡ÈoLs GuTRtLô] A±Ï±Ls ReL°Pm LôQlTÓ¡u\].
+
+{poke}{f7}
+SpYôrjÕdLÞPu
+
+{f0}K7 -  COMPUTERS
+Bommidi{f11}
+
+[Predict. 8.7S Tam-1-150610]

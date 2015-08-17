@@ -1,0 +1,1655 @@
+VTF1.0
+'Predict.     Visual Text Format
+Times New Roman,11,N   00
+Times New Roman,11,B   01
+MS Sans Serif,9,N      02
+MS Sans Serif,9,B      03
+Courier New,11,N       04
+Courier New,11,B       05
+Terminal,9,N           06
+B_279,12,N             07
+B_279,12,B             08
+Symbol,12,B            09
+Times New Roman,10,N   10
+Arial,8,N             11
+
+'
+' Star Chart Object Definitions
+'
+[StarCharts]
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Nk    
+    Sun.Caption     = ã     
+    Mercury.Caption = ×     
+    Venus.Caption   = Ñ     
+    Mars.Caption    = ùN    
+    Jupiter.Caption = ®     
+    Saturn.Caption  = N²    
+    Rahu.Caption    = Wô    
+    Ketu.Caption    = úL    
+    Lagnam.Caption  = X     
+    Gulikan.Caption = Uô    
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle=csSouthIndian
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 11
+    Font.Name   = Times New Roman
+    Font.Style  = N
+    Width       = 50
+    Height      = 50
+    MarkAscendant   = False
+    ShowTwelfth     = True
+    Moon.Color      = clBlack
+    Sun.Color       = clBlack
+    Mercury.Color   = clBlack
+    Venus.Color     = clBlack
+    Mars.Color      = clBlack
+    Jupiter.Color   = clBlack
+    Saturn.Color    = clBlack
+    Rahu.Color      = clBlack
+    Ketu.Color      = clBlack
+    Lagnam.Color    = clBlack
+    Gulikan.Color   = clBlack
+    Twelfth.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Lô    
+    Sun.Caption     = Ao    
+    Mercury.Caption = ªÚ    
+    Venus.Caption   = VU    
+    Mars.Caption    = Ï°    
+    Jupiter.Caption = T¬    
+    Saturn.Caption  = Ck    
+    Rahu.Caption    = qV    
+    Ketu.Caption    = E     
+    Lagnam.Caption  = ç     
+    Gulikan.Caption =  
+    Lagnam.Caption  = X     
+    Gulikan.Caption = ç     
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+#define {blu}      = "{c9}"
+#define {mgn}      = "{c5}"
+#define {dbl}      = "{c1}"
+#define {grn}      = "{c2}"
+#define {red}      = "{c12}"
+#define {blk}      = "{c0}"
+#define {gry}      = "{c7}"
+#define {cyn}      = "{c3}"
+#define {tabchar}  = "	"
+#define {title}    = "{s}{blu}{f8}"
+#define {endtitle} = "{r}"
+
+#define {gry} = "{c0}"
+
+{"}{f1}{blu}Predict. Astrology,            {gry}
+{=}{l0}
+{tab sectiongap = 0.5 }
+{f7}{blk}ùTVo{f0}	: ram nandhakumar
+{f7}Tôp{f0}	: {f7}Bi{f0}
+{f7}©\kR úR§{f0}	: 12 {f7}ùNlPmTo{f0}, 2012  {f7}×Ru{f0}
+{f7}©\kR úSWm{f0} (Hr.Min.Sec)	: 03.20.00 PM; Standard Time
+{f7}úSW UiPXm{f0} (Hrs.Mins)	: 05.30 {f7}dÃu®f£tÏ ¡ZdúL{f0}
+{f7}úSWm N¬ùNnV{f0}	: Standard Time
+{f7}©\kR CPm{f0}	: Bangalore
+{f7}¾oLômNm{f0}{f0} (Deg.Mins)	: 077.35 {f7}¡ZdÏ{f0}
+{f7}AbômNm{f0} (Deg.Mins)	: 12.59 {f7}YPdÏ{f0}
+{f7}AV]ômN{f0}	: {f7}£jW Tb
+{f7}RNô Øû\{f0}	: {f7}®múNôjR¬, YÚPm{f0} = 365.25 {f7}SôhLs{f0}
+{f7}©\kR ShNj§Wm	{f0}: {red}{f8}éNm{blk}
+{f7}ShNj§W TôRm{f0}	: 2 
+{f7}ShNj§Wô§Tu	{f0}: {f7}N²
+{f7}©\kR Wô£	{f0}: {f7}LPLm
+{f7}Wô£ A§T§	{f0}: {f7}Nk§Wu
+{f7}Xd¡]m	{f0}: {f7}ULWm
+{f7}Xd¡]ô§T§	{f0}: {f7}N²
+{f7}§§	{f0}: {f7}ÕYôR£, ¡ÚxQ Tbm (úRn©û\)
+{f7}LWQm	{f0}: {f7}Tu±
+{f7}¨j§V úVôLm	{f0}: {f7}T¬L
+{f7}ã¬V ERVm{f0} (Hrs.Mins)	: 06.09AM Standard Time
+{f7}ã¬V AvRU]m{f0} (Hrs.Mins)	: 06.23PM      ''    '' 
+{f7}ú_ô§PlT¥ ©\kR úR§	{f0}: {f7}×Ru
+{f7}ÑúRN úSWm{f0}	: Standard Time - 20 Mins
+
+{f7}Ck§V ú_ô§PlT¥{f0}
+
+{endtab}
+{'}{f11}[Predict. 8.7S Tam-1-150610]
+
+{header}
+{blu}{f8}NV] v×PeLs{f7}{blk}
+{endheader}
+
+ÙúW]v, ùSl¥ëu, ×ðhúPô B¡V ¡WaeLû[Ùm úNojÕ
+
+úUpSôhÓlT¥ EeLÞûPV Wô£ Lu²
+{header}
+{tab sectiongap = 0.65 }
+{l5}
+{mgn}{f8}¡Wam	¾oLômNm	¡Wam	¾oLômNm
+{f7}	Tô. L. ®.		Tô. L. ®.
+{blk}{l3}{dbl}
+{endheader}
+Xd¡]m	{f0}299:51:06{f7}	ÏÚ	{f0}75:25:42 {f7} 
+Nk§Wu	{f0}123:38:35{f7}	N²	{f0}207:18:52 {f7} 
+ã¬Vu	{f0}170:02:44{f7}	ÙúW]v	{f0}7:13:08 {f7}YdWm
+×Ru	{f0}171:44:49{f7} 	ùSl¥ëu	{f0}331:13:11 {f7}YdWm
+Ñd¡Wu	{f0}126:19:54{f7} 	×ðhúPô	{f0}276:56:01 {f7}YdWm
+ùNqYôn	{f0}222:57:18{f7} 	ÕÚYm	{f0}239:26:54{f7}
+{endtab}
+{blk}
+Ck§V ú_ô§Pj§p A¥lTûPVô] ¨WV] Ã§Vô] ¡Wa ¨ûXLs úUtÏ±dLlThP NôV] Øû\«­ÚkÕ ùT\lThP]. _ôRLeLs, LQdÏLs, TXuLs VôÜm Ck§V ú_ô§P Øû\lT¥Rôu LQd¡PlThÓs[Õ.
+
+{header}
+{blu}{f8}¨WôV] v×PeLs{f7}{blk}
+{endheader}
+
+Ck§V ú_ô§Pm ¡WaeL°u ¨WôV] Øû\ûV ©uTtß¡\Õ. AÕ úUpSôhÓ Øû\lT¥ L¦dLlThP NôV] ¨ûX«­ÚkÕ AV]ômNjûR L¯jÕ ùT\lThPÕ.
+
+AV]ômNjûR L¦lT§p TX Øû\Ls Es[]. CkR _ôRLm £jW Tb AV]ômNjûR ©uTt±VÕ.
+£jW Tb = {f0} 24 {f7}TôûL.{f0} 2 {f7}LûX.{f0} 19 {f7}®LûX.
+{tab SectionGap = 0.2}
+{header}
+{l5}
+{mgn}{f8}¡Wam	¾oLômNm	Wô£	Wô£ v×Pm	ShNj§Wm	TôRm
+{f7}	Tô. L. ®.		Tô. L. ®.	 	 
+{blk}{l3}
+{endheader}
+{dbl}{f7}Xd]m	{f0}275:48:47	{f7}ULWm	{f0}5:48:47{f7}	Ej§WôPm	{f0} 3 
+{f7}Nk§Wu	{f0}99:36:17	{f7}LPLm	{f0}9:36:17{f7}  	éNm	{f0} 2 
+{f7}ã¬Vu	{f0}146:00:26	{f7}£mUm	{f0}26:00:26{f7}  	éWm	{f0} 4 
+{f7}×Ru	{f0}147:42:30	{f7}£mUm	{f0}27:42:30{f7}  	Ej§Wm	{f0} 1 
+{f7}Ñd¡Wu	{f0}102:17:36	{f7}LPLm	{f0}12:17:36{f7}  	éNm	{f0} 3 
+{f7}ùNqYôn	{f0}198:55:00	{f7}ÕXôm	{f0}18:55:00{f7}  	vYô§	{f0} 4 
+{f7}®VôZu	{f0}51:23:23	{f7}¬`Tm	{f0}21:23:23{f7}  	úWô¶¦	{f0} 4 
+{f7}N²	{f0}183:16:34	{f7}ÕXôm	{f0}3:16:34{f7}  	£j§ûW	{f0} 3 
+{f7}WôÏ	{f0}215:24:36	{f7}®Úf£Lm	{f0}5:24:36{f7}  	Aà`m	{f0} 1 
+{f7}úLÕ	{f0}35:24:36	{f7}¬`Tm	{f0}5:24:36{f7}  	Lôoj§ûL	{f0} 3 
+{f7}Ï°Lu	{f0}226:48:26	{f7}®Úf£Lm	{f0}16:48:26{f7}  	úLhûP	{f0} 1 
+{blk}
+{endtab}
+{tab}
+{header}
+{blu}{f8}ShNj§Wô§T§ / ET ShNj§Wô§T§ / ET ET ShNj§Wô§T§
+{blk}{l5}
+{mgn}¡Wam	ShNj§Wm	ShNj§Wô§Tu	ET	ET ET
+ 	 	 	ShNj§Wô§T§	ShNj§Wô§T§
+{blk}{l3}
+{endheader}
+{dbl}{f7}Xd]m	Ej§WôPm	ã¬Vu	×Ru	ã¬Vu
+Nk§Wu	éNm	N²	Ñd¡Wu	N²
+ã¬Vu	éWm	Ñd¡Wu	úLÕ	Ñd¡Wu
+×Ru	Ej§Wm	ã¬Vu	Nk§Wu	®VôZu
+Ñd¡Wu	éNm	N²	ùNqYôn	®VôZu
+ùNqYôn	vYô§	WôÏ	Nk§Wu	úLÕ
+®VôZu	úWô¶¦	Nk§Wu	Ñd¡Wu	WôÏ
+N²	£j§ûW	ùNqYôn	Ñd¡Wu	Nk§Wu
+WôÏ	Aà`m	N²	N²	®VôZu
+úLÕ	Lôoj§ûL	ã¬Vu	×Ru	úLÕ
+Ï°Lu	úLhûP	×Ru	×Ru	×Ru
+{blk}
+{endtab}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f7}éNm${f0}12-{f7}ùNlPmTo{f0}-2012${f0}03.20.00 pm${f8}Wô£${f7}¾oLômNm{f0}   -077.35${f7}AbômNm{f0}   +12.59{f7}{blk}" Moo =  4  Sun =  5  Mer =  5  Ven =  4  Mar =  7  Jup =  2  Sat =  7  Rah =  8  Ket =  2  Lag =  10  Gul =  8  }
+{endheader}
+{f7}RNô CÚl×{f0} = {f7}N²{f0} {f0}10 {f7}YÚPm{f0}, 0 {f7}UôRm{f0}, 23 {f7}úR§
+
+{header}
+{blu}{f8}ET¡Wam{f7}{blk}
+
+JqùYôÚ ¡Waj§tÏm JÚ ET¡Wam Es[Õ. Nk§Wu, Ñd¡Wu, WôÏ, úLÕ B¡V ¡Waj§u ET¡WaeLs ã¬VàûPV v×Pj§­ÚkÕ L¦dLlTÓ¡\Õ.
+{endheader}
+
+{header}
+{blu}{f8}ÕUô§ ET¡WaeLs
+{tab}
+{blk}{l5}
+{mgn}¡Wam	ET¡Wam	L¦dÏm Øû\{f7}
+{blk}{l3}{dbl}
+{endheader}
+ùNqYôn	çUu	ã¬VàûPV v×Pm{f0} + 133 {f7}TôûL{f0}. 20 {f7}LûX.
+WôÏ	®V§TôRu	{f0}360 - {f7}çUu
+Nk§Wu	T¬úYPu	{f0}180 + {f7}®V§TôRu
+Ñd¡Wu	Ck§W RàÑ	{f0}360 - {f7}T¬úYPu
+úLÕ	ETúLÕ	Ck§W RàÑ{f0} + 16 {f7}TôûL{f0}. 40 {f7}LûX.
+{endtab}
+{blk}
+ã¬Vu, ×Ru, ÏÚ, N² ET¡WaeLÞPu áP ùNqYô«u ET¡WaØm Aa£u ApXÕ CWô Aa£u A¥lTP«p LQd¡PlTÓm. Aav ApXÕ CW ALv GhÓ NU A[®p ©¬dLlTÓm.
+
+ØRp ©¬Ü Auû\V A§T§«u ©¬Ü Ut\ûY ARtÏ©u ùRôPokÕYÚm. GhPôYÕ ©¬ÜdÏ GkR A§T§Ùm CpûX.CW®p ©\kRYoLÞdÏ GhÓ TÏ§«p ØRp HÝ IkRôYÕ YôW A§T§«­ÚkÕ LQd¡PlTÓm.
+
+ET ¡Waj§u ¨ûXLs LQd¡ÓYRtÏ TX Y¯Ls Es[]JÚ Øû\«p ¡WaeLs Bh£ ùNnÙm TÏ§«p BWmTj§­ÚkÕ Xd¡]m LQd¡PlTÓm. Cuù]ôÚ Øû\«p Ø¥®­ÚkÕ Xd¡]m LQd¡PlTÓm.
+
+N²«u ET¡WaUô] Ï°Lû] LQd¡ÓYRtÏ êu\ôYÕ Øû\Ùm EiÓ. A§p ERVUôÏm úSWj§p ¨ûXVô] U§l×L°u A¥lTûP«p LQd¡PlTÓm.BvhúWô®`²p AÕ Uôk§ùVuß á\lTÓm. AÕ Ut\ ¡WaeLÞPu áP _ôRLj§p CPm ùTßm.
+{header}
+{tab}
+{l5}
+{mgn}{f8}¡ZûU	TL­p ©\l×	CW®p ©\l×{f7}
+{blk}{l3}{dbl}
+{endheader}
+Oô«ß	{f0}26 {f7}L¥ûL (Sô¯ûL)	{f0}10 {f7}L¥ûL (Sô¯ûL)
+§eLs	{f0}22	6{f7}
+ùNqYôn	{f0}18	2{f7}
+×Ru	{f0}14	26{f7}
+®VôZu	{f0}10	22{f7}
+ùYs°	{f0}6	18{f7}
+N²	{f0}2	14{f7}
+{endtab}
+{blk}
+{header}
+{blu}{f8}Ï°Lô§Vo v×PeLs{f7}
+{blk}
+AàLlThP Øû\ : ùRôPdLj§Ûs[ Xd¡]m
+{tab}
+{l5}
+{mgn}{f8}¡Wam	ET¡Wam	ùRôPdLm	Ø¥Ü{f7}
+{blk}{l3}{dbl}
+{endheader}
+{f7}ã¬Vu	LôXu	{f0}12:16:00	13:47:44
+{f7}×Ru	AojR©WLWu	{f0}06:09:00	07:40:45
+{f7}ùNqYôn	ªÚjÙ	{f0}15:19:29	16:51:15
+{f7}ÏÚ	VULiPu	{f0}07:40:45	09:12:29
+{f7}N²	Ï°Lu	{f0}10:44:15	12:16:00
+{endtab}
+{blk}
+{header}
+{blu}{f8}ET¡Wa v×PeLs
+{tab SectionGap = 0.2}
+{blk}{l5}
+{mgn}ET¡Wam	¾oLômNm	Wô£	Wô£ v×Pm	ShNj§Wm	TôRm
+{f7}	Tô. L. ®.		Tô. L. ®.		
+{blk}{l3}{dbl}
+{endheader}
+{f7}LôX	{f0}232:20:59	{f7}®Úf£Lm	{f0}22:20:59{f7} 	úLhûP	{f0} 2 
+{f7}AoR lWaW	{f0}144:50:28	{f7}£mUm	{f0}24:50:28{f7} 	éWm	{f0} 4 
+{f7}ªÚj§Ù	{f0}275:41:10	{f7}ULWm	{f0}5:41:10{f7} 	Ej§WôPm	{f0} 3 
+{f7}VULiPL	{f0}167:35:45	{f7}Lu²	{f0}17:35:45{f7} 	avRm	{f0} 3 
+{f7}Ï°Lu	{f0}211:28:12	{f7}®Úf£Lm	{f0}1:28:12{f7} 	®NôLm	{f0} 4 
+{f7}T¬úY`m	{f0}260:39:33	{f7}RàÑ	{f0}20:39:33{f7} 	éWôPm	{f0} 3 
+{f7}Ck§WNôTm	{f0}99:20:26	{f7}LPLm	{f0}9:20:26{f7} 	éNm	{f0} 2 
+{f7}qV§TôR	{f0}80:39:33	{f7}ªÕ]m	{f0}20:39:33{f7} 	×]oéNm	{f0} 1 
+{f7}ETúLÕ	{f0}116:00:26	{f7}LPLm	{f0}26:00:26{f7} 	B«pVm	{f0} 3 
+{f7}çUúLÕ	{f0}279:20:26	{f7}ULWm	{f0}9:20:26{f7} 	Ej§WôPm	{f0} 4 
+{endtab}
+{blk}
+{header}
+{blu}{f8}ET ¡Wa A§T§Ls
+{tab}
+{blk}{l5}
+{mgn}¡Wam	ShNj§Wm	ShNj§Wô§Tu	ET	ET ET
+ 	 	 	ShNj§Wô§T§	ShNj§Wô§T§{f7}
+{blk}{l3}{dbl}
+{endheader}
+LôX	úLhûP	×Ru	Nk§Wu	ùNqYôn
+AoR lWaW	éWm	Ñd¡Wu	×Ru	Nk§Wu
+ªÚj§Ù	Ej§WôPm	ã¬Vu	×Ru	Ñd¡Wu
+VULiPL	avRm	Nk§Wu	N²	®VôZu
+Ï°Lu	®NôLm	®VôZu	WôÏ	WôÏ
+T¬úY`m	éWôPm	Ñd¡Wu	®VôZu	×Ru
+Ck§WNôTm	éNm	N²	Ñd¡Wu	®VôZu
+qV§TôR	×]oéNm	®VôZu	®VôZu	×Ru
+ETúLÕ	B«pVm	×Ru	WôÏ	ùNqYôn
+çUúLÕ	Ej§WôPm	ã¬Vu	Ñd¡Wu	N²
+{endtab}
+{blk}
+{header standalone}
+{chart Template = 2 MarkAscendant = False  Leading = 15  Caption = "{dbl}{f8}ET¡Wam$Wô£{blk}" Moo =  8  Sun =  5  Mer =  10  Ven =  6  Mar =  8  Jup =  9  Sat =  4  Rah =  3  Ket =  4  Lag =  10  Gul =  10  }
+{endheader}
+{header}
+{blu}{f8}TôY AhPYûQ
+{tab}
+{blk}{l5}
+{mgn}TôYm	ùRôPdLm	SÓ	Ø¥Ü	¡WaeLs{f7}
+	Tô. L. ®.	Tô. L. ®.	Tô. L. ®.	TôYj§p
+{blk}{l3}{dbl}
+{endheader}
+{f0} 1	262:23:06	275:48:47	292:23:06	{f7}
+{f0} 2	292:23:06	308:57:24	325:31:42	{f7}
+{f0} 3	325:31:42	342:06:01	358:40:19	{f7}
+{f0} 4	358:40:19	15:14:37	28:40:19	{f7}
+{f0} 5	28:40:19	42:06:01	55:31:42	{f7} ®   úL 
+{f0} 6	55:31:42	68:57:24	82:23:06	{f7}
+{f0} 7	82:23:06	95:48:47	112:23:06	{f7} Nk  Ñ  
+{f0} 8	112:23:06	128:57:24	145:31:42	{f7}
+{f0} 9	145:31:42	162:06:01	178:40:19	{f7} ã   ×  
+{f0}10	178:40:19	195:14:37	208:40:19	{f7} ùN  N² 
+{f0}11	208:40:19	222:06:01	235:31:42	{f7} Wô  Uô 
+{f0}12	235:31:42	248:57:24	262:23:06	{f7}
+{endtab}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}TôYm{f7}{blk}" Moo =  4  Sun =  6  Mer =  6  Ven =  4  Mar =  7  Jup =  2  Sat =  7  Rah =  8  Ket =  2  Lag =  10  Gul =  8  }
+{endheader}
+{header}
+{blu}{f8}YoLô§T§
+{tab SectionGap = 0.1}
+{blk}{l5}{mgn}
+	X  	Nk 	ã  	×  	Ñ  	ùN 	®  	N² 	Wô 	úL 	Uô 
+{blk}{l3}
+{endheader}
+{dbl}{f7}Wô£	N² 	Nk 	ã  	ã  	Nk 	Ñ  	Ñ  	Ñ  	ùN 	Ñ  	ùN 
+úaôûW	Nk 	Nk 	Nk 	Nk 	Nk 	Nk 	ã  	ã  	Nk 	Nk 	ã  
+§úWdúLôQm	N² 	Nk 	ùN 	ùN 	ùN 	N² 	N² 	Ñ  	ùN 	Ñ  	®  
+NÕojRômNm	N² 	Ñ  	Ñ  	Ñ  	Ñ  	ùN 	ùN 	Ñ  	ùN 	Ñ  	Ñ  
+NlRômNm	ã  	®  	N² 	N² 	®  	N² 	®  	Ñ  	×  	®  	ã  
+SYômNm	N² 	×  	ùN 	®  	Ñ  	®  	Nk 	Ñ  	ã  	N² 	®  
+RNômNm	Ñ  	×  	ùN 	Ñ  	Nk 	ùN 	ã  	ùN 	ã  	N² 	®  
+ÕYôRNômNm	®  	Ñ  	×  	Nk 	ùN 	Ñ  	N² 	ùN 	N² 	Nk 	Ñ  
+ú`ôPNômNm	Nk 	×  	×  	Ñ  	Ñ  	N² 	Nk 	Ñ  	Ñ  	Ñ  	ùN 
+§¬mNômNm	×  	×  	Ñ  	Ñ  	®  	×  	N² 	ùN 	×  	×  	®  
+{endtab}
+{blk}
+{header}
+{tab SectionGap = 0.25 }
+{blu}{f8}úaôûW ( ©¬Ü - 2 ) : NmTjÕ{f0}
+{blk}{l5}
+{red}{f8}ã¬V úaôûW	{mgn}Nk§W úaôûW{f7}
+{blk}{l3}
+{endheader}
+{red}{f1}-{f7}	{mgn}Nk§Wu
+{red}{f1}-{f7}	{mgn}ã¬Vu
+{red}{f1}-{f7}	{mgn}×Ru
+{red}{f1}-{f7}	{mgn}Ñd¡Wu
+{red}{f1}-{f7}	{mgn}ùNqYôn
+{red}®VôZu	{mgn}{f1}-{f7}
+{red}N²	{mgn}{f1}-{f7}
+{red}{f1}-{f7}	{mgn}WôÏ
+{red}{f1}-{f7}	{mgn}úLÕ
+{red}{f1}-{f7}	{mgn}Xd]m
+{red}Ï°Lu	{mgn}{f1}-{f7}
+{blk}
+{endtab}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}§úWdúLôQm${f7}NúLôRWm{blk}{f7}" Moo =  4  Sun =  1  Mer =  1  Ven =  8  Mar =  11  Jup =  10  Sat =  7  Rah =  8  Ket =  2  Lag =  10  Gul =  12  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}NÕojRômNm${f7}Bv§{blk}{f7}" Moo =  7  Sun =  2  Mer =  2  Ven =  7  Mar =  1  Jup =  8  Sat =  7  Rah =  8  Ket =  2  Lag =  10  Gul =  2  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}NlRômNm${f7}ÏZkûRLs{blk}{f7}" Moo =  12  Sun =  11  Mer =  11  Ven =  12  Mar =  11  Jup =  12  Sat =  7  Rah =  3  Ket =  9  Lag =  5  Gul =  5  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}SYômNm${f7}§ÚUQ YôrdûL{blk}{f7}" Moo =  6  Sun =  8  Mer =  9  Ven =  7  Mar =  12  Jup =  4  Sat =  7  Rah =  5  Ket =  11  Lag =  11  Gul =  9  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}RNômNm${f7}ùRô¯p{blk}{f7}" Moo =  3  Sun =  1  Mer =  2  Ven =  4  Mar =  1  Jup =  5  Sat =  8  Rah =  5  Ket =  11  Lag =  7  Gul =  9  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}ÕYôRNômNm${f7}RônRLlTu{blk}{f7}" Moo =  7  Sun =  3  Mer =  4  Ven =  8  Mar =  2  Jup =  10  Sat =  8  Rah =  10  Ket =  4  Lag =  12  Gul =  2  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}ú`ôPNômNm${f7}U¡rf£{blk}{f7}" Moo =  6  Sun =  6  Mer =  7  Ven =  7  Mar =  11  Jup =  4  Sat =  2  Rah =  7  Ket =  7  Lag =  4  Gul =  1  }
+{endheader}
+{header}
+
+{blu}{f8}AxPLYodLm
+{tab SectionGap = 0.2}
+{blk}{l5}
+	{mgn}Nk 	ã  	×  	Ñ  	ùN 	®  	N² 	ùUôjRm
+{blk}{f7}{l3}{dbl}
+{f7}úU`m	{f0} 3 	 6 	 7 	 3 	 3 	 5 	 3 	 30 
+{f7}¬`Tm	{f0} 5 	 5 	 5 	 4 	 5 	 7 	 4 	 35 
+{f7}ªÕ]m	{f0} 4 	 6 	 5 	 5 	 5 	 4 	 4 	 33 
+{f7}LPLm	{f0} 2 	 3 	 5 	 4 	 2 	 3 	 2 	 21 
+{f7}£mUm	{f0} 4 	 3 	 6 	 5 	 2 	 6 	 3 	 29 
+{f7}Lu²	{f0} 2 	 3 	 1 	 5 	 1 	 4 	 4 	 20 
+{f7}ÕXôm	{f0} 4 	 5 	 7 	 3 	 6 	 3 	 2 	 30 
+{f7}®Úf£Lm	{f0} 5 	 4 	 4 	 3 	 2 	 7 	 2 	 27 
+{f7}RàÑ	{f0} 5 	 4 	 4 	 4 	 4 	 4 	 4 	 29 
+{f7}ULWm	{f0} 3 	 5 	 5 	 4 	 5 	 4 	 2 	 28 
+{f7}ÏmTm	{f0} 5 	 1 	 3 	 6 	 2 	 4 	 3 	 24 
+{f7}Á]m	{f0} 7 	 3 	 2 	 6 	 2 	 5 	 6 	 31 
+{blk}{l5}{dbl}
+	 49 	 48 	 54 	 52 	 39 	 56 	 39 	 337 
+{blk}{l3}
+{endtab}
+{endheader}
+{header}
+{blu}{f8}AxPLYodLm AhPYûQLs{f7}{blk}
+{endheader}
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Nk§Wu$AxPLYodLm${f0} 49" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  5  Mercury.Caption =  4  Venus.Caption =  2  Mars.Caption =  4  Jupiter.Caption =  2  Saturn.Caption =  4  Rahu.Caption =  5  Ketu.Caption =  5  Lagnam.Caption =  3  Gulikan.Caption =  5  Twelfth.Caption =  7  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ã¬Vu$AxPLYodLm${f0} 48" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  6  Sun.Caption =  5  Mercury.Caption =  6  Venus.Caption =  3  Mars.Caption =  3  Jupiter.Caption =  3  Saturn.Caption =  5  Rahu.Caption =  4  Ketu.Caption =  4  Lagnam.Caption =  5  Gulikan.Caption =  1  Twelfth.Caption =  3  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}×Ru$AxPLYodLm${f0} 54" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  7  Sun.Caption =  5  Mercury.Caption =  5  Venus.Caption =  5  Mars.Caption =  6  Jupiter.Caption =  1  Saturn.Caption =  7  Rahu.Caption =  4  Ketu.Caption =  4  Lagnam.Caption =  5  Gulikan.Caption =  3  Twelfth.Caption =  2  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Ñd¡Wu$AxPLYodLm${f0} 52" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  4  Mercury.Caption =  5  Venus.Caption =  4  Mars.Caption =  5  Jupiter.Caption =  5  Saturn.Caption =  3  Rahu.Caption =  3  Ketu.Caption =  4  Lagnam.Caption =  4  Gulikan.Caption =  6  Twelfth.Caption =  6  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ùNqYôn$AxPLYodLm${f0} 39" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  5  Mercury.Caption =  5  Venus.Caption =  2  Mars.Caption =  2  Jupiter.Caption =  1  Saturn.Caption =  6  Rahu.Caption =  2  Ketu.Caption =  4  Lagnam.Caption =  5  Gulikan.Caption =  2  Twelfth.Caption =  2  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}®VôZu$AxPLYodLm${f0} 56" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  5  Sun.Caption =  7  Mercury.Caption =  4  Venus.Caption =  3  Mars.Caption =  6  Jupiter.Caption =  4  Saturn.Caption =  3  Rahu.Caption =  7  Ketu.Caption =  4  Lagnam.Caption =  4  Gulikan.Caption =  4  Twelfth.Caption =  5  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}N²$AxPLYodLm${f0} 39" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  4  Mercury.Caption =  4  Venus.Caption =  2  Mars.Caption =  3  Jupiter.Caption =  4  Saturn.Caption =  2  Rahu.Caption =  2  Ketu.Caption =  4  Lagnam.Caption =  2  Gulikan.Caption =  3  Twelfth.Caption =  6  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}NoY$AxPLYodLm${f0} 337" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  30  Sun.Caption =  35  Mercury.Caption =  33  Venus.Caption =  21  Mars.Caption =  29  Jupiter.Caption =  20  Saturn.Caption =  30  Rahu.Caption =  27  Ketu.Caption =  29  Lagnam.Caption =  28  Gulikan.Caption =  24  Twelfth.Caption =  31  }
+{header}
+{blu}{f8}AxPLYodLm - §¬úLôQm úNôRû]{f7}{blk}
+{endheader}
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Nk§Wu$AxPLYodLm${f0} 16" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  3  Mercury.Caption =  0  Venus.Caption =  0  Mars.Caption =  1  Jupiter.Caption =  0  Saturn.Caption =  0  Rahu.Caption =  3  Ketu.Caption =  2  Lagnam.Caption =  1  Gulikan.Caption =  1  Twelfth.Caption =  5  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ã¬Vu$AxPLYodLm${f0} 18" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  2  Mercury.Caption =  5  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  1  Ketu.Caption =  1  Lagnam.Caption =  2  Gulikan.Caption =  0  Twelfth.Caption =  0  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}×Ru$AxPLYodLm${f0} 24" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  4  Mercury.Caption =  2  Venus.Caption =  3  Mars.Caption =  2  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  2  Ketu.Caption =  0  Lagnam.Caption =  4  Gulikan.Caption =  0  Twelfth.Caption =  0  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Ñd¡Wu$AxPLYodLm${f0} 13" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  0  Mercury.Caption =  2  Venus.Caption =  1  Mars.Caption =  2  Jupiter.Caption =  1  Saturn.Caption =  0  Rahu.Caption =  0  Ketu.Caption =  1  Lagnam.Caption =  0  Gulikan.Caption =  3  Twelfth.Caption =  3  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ùNqYôn$AxPLYodLm${f0} 18" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  1  Sun.Caption =  4  Mercury.Caption =  3  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  0  Ketu.Caption =  2  Lagnam.Caption =  4  Gulikan.Caption =  0  Twelfth.Caption =  0  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}®VôZu$AxPLYodLm${f0} 14" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  1  Sun.Caption =  3  Mercury.Caption =  1  Venus.Caption =  0  Mars.Caption =  2  Jupiter.Caption =  0  Saturn.Caption =  0  Rahu.Caption =  4  Ketu.Caption =  0  Lagnam.Caption =  0  Gulikan.Caption =  1  Twelfth.Caption =  2  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}N²$AxPLYodLm${f0} 12" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  2  Mercury.Caption =  2  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  2  Saturn.Caption =  0  Rahu.Caption =  0  Ketu.Caption =  1  Lagnam.Caption =  0  Gulikan.Caption =  1  Twelfth.Caption =  4  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}NoY$AxPLYodLm${f0} 115" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  8  Sun.Caption =  18  Mercury.Caption =  15  Venus.Caption =  4  Mars.Caption =  7  Jupiter.Caption =  3  Saturn.Caption =  12  Rahu.Caption =  10  Ketu.Caption =  7  Lagnam.Caption =  11  Gulikan.Caption =  6  Twelfth.Caption =  14  }
+{header}
+{blu}{f8}AxPLYodLm - HLô§Tj§Vm úNôRû]{f7}{blk}
+{endheader}
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Nk§Wu$AxPLYodLm${f0} 11" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  3  Mercury.Caption =  0  Venus.Caption =  0  Mars.Caption =  1  Jupiter.Caption =  0  Saturn.Caption =  0  Rahu.Caption =  3  Ketu.Caption =  2  Lagnam.Caption =  0  Gulikan.Caption =  0  Twelfth.Caption =  2  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ã¬Vu$AxPLYodLm${f0} 16" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  1  Sun.Caption =  2  Mercury.Caption =  5  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  1  Ketu.Caption =  1  Lagnam.Caption =  2  Gulikan.Caption =  0  Twelfth.Caption =  0  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}×Ru$AxPLYodLm${f0} 23" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  2  Sun.Caption =  4  Mercury.Caption =  2  Venus.Caption =  3  Mars.Caption =  2  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  2  Ketu.Caption =  0  Lagnam.Caption =  4  Gulikan.Caption =  0  Twelfth.Caption =  0  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Ñd¡Wu$AxPLYodLm${f0} 11" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  0  Mercury.Caption =  2  Venus.Caption =  1  Mars.Caption =  2  Jupiter.Caption =  1  Saturn.Caption =  0  Rahu.Caption =  0  Ketu.Caption =  1  Lagnam.Caption =  0  Gulikan.Caption =  3  Twelfth.Caption =  1  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ùNqYôn$AxPLYodLm${f0} 18" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  1  Sun.Caption =  4  Mercury.Caption =  3  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  0  Ketu.Caption =  2  Lagnam.Caption =  4  Gulikan.Caption =  0  Twelfth.Caption =  0  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}®VôZu$AxPLYodLm${f0} 11" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  1  Sun.Caption =  3  Mercury.Caption =  1  Venus.Caption =  0  Mars.Caption =  2  Jupiter.Caption =  0  Saturn.Caption =  0  Rahu.Caption =  1  Ketu.Caption =  0  Lagnam.Caption =  0  Gulikan.Caption =  1  Twelfth.Caption =  2  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}N²$AxPLYodLm${f0} 9" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  2  Mercury.Caption =  2  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  2  Saturn.Caption =  0  Rahu.Caption =  0  Ketu.Caption =  1  Lagnam.Caption =  0  Gulikan.Caption =  1  Twelfth.Caption =  1  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}NoY$AxPLYodLm${f0} 99" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  5  Sun.Caption =  18  Mercury.Caption =  15  Venus.Caption =  4  Mars.Caption =  7  Jupiter.Caption =  3  Saturn.Caption =  12  Rahu.Caption =  7  Ketu.Caption =  7  Lagnam.Caption =  10  Gulikan.Caption =  5  Twelfth.Caption =  6  }
+{header}
+{blu}{f8}®múNôjR¬ §ûN«u ®YWm{f7}{blk}
+{endheader}
+{tab}
+
+{f7}RNô CÚl×{f0} = {f7}N² {f0}10 {f7}YÚPm{f0}, 0 {f7}UôRm{f0}, 23 {f7}úR§
+
+{header}
+{blu}{f7}§ûN Uôß¡u\ YÚPm {f0}{blk}
+{l5}
+{mgn}{f8}§ûN	BWmT YVÕ{f0}
+{blk}{l3}
+{endheader}
+{dbl}{f7}×Ru	{f0}10{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}úLÕ	{f0}27{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}Ñd¡Wu	{f0}34{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}ã¬Vu	{f0}54{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}Nk§Wu	{f0}60{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}ùNqYôn	{f0}70{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}WôÏ	{f0}77{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{endtab}
+{blk}
+{header}
+{blu}{f8}RNô×d§LÞûPV ®YWeLs
+{tab}
+{blk}{l5}
+{mgn}{f8}§ûN	×d§	ùRôPdLm	Ø¥Ü
+{blk}{l3}{dbl}
+{endheader}
+{f7}N²	Ñ	{f0}12-09-2012	26-09-2013
+{f7}"	ã	{f0}26-09-2013	08-09-2014
+{f7}"	Nk	{f0}08-09-2014	08-04-2016
+{f7}"	ùN	{f0}08-04-2016	18-05-2017
+{f7}"	Wô	{f0}18-05-2017	24-03-2020
+{f7}"	®	{f0}24-03-2020	05-10-2022
+{f7} 	 	{f0} 	 
+{f7}×	×	{f0}05-10-2022	03-03-2025
+{f7}"	úL	{f0}03-03-2025	28-02-2026
+{f7}"	Ñ	{f0}28-02-2026	29-12-2028
+{f7}"	ã	{f0}29-12-2028	04-11-2029
+{f7}"	Nk	{f0}04-11-2029	06-04-2031
+{f7}"	ùN	{f0}06-04-2031	02-04-2032
+{f7}"	Wô	{f0}02-04-2032	20-10-2034
+{f7}"	®	{f0}20-10-2034	25-01-2037
+{f7}"	N²	{f0}25-01-2037	05-10-2039
+{f7} 	 	{f0} 	 
+{f7}úL	úL	{f0}05-10-2039	02-03-2040
+{f7}"	Ñ	{f0}02-03-2040	03-05-2041
+{f7}"	ã	{f0}03-05-2041	07-09-2041
+{f7}"	Nk	{f0}07-09-2041	08-04-2042
+{f7}"	ùN	{f0}08-04-2042	05-09-2042
+{f7}"	Wô	{f0}05-09-2042	23-09-2043
+{f7}"	®	{f0}23-09-2043	29-08-2044
+{f7}"	N²	{f0}29-08-2044	08-10-2045
+{f7}"	×	{f0}08-10-2045	05-10-2046
+{f7} 	 	{f0} 	 
+{f7}Ñ	Ñ	{f0}05-10-2046	04-02-2050
+{f7}"	ã	{f0}04-02-2050	04-02-2051
+{f7}"	Nk	{f0}04-02-2051	05-10-2052
+{f7}"	ùN	{f0}05-10-2052	05-12-2053
+{f7}"	Wô	{f0}05-12-2053	04-12-2056
+{f7}"	®	{f0}04-12-2056	05-08-2059
+{f7}"	N²	{f0}05-08-2059	05-10-2062
+{f7}"	×	{f0}05-10-2062	05-08-2065
+{f7}"	úL	{f0}05-08-2065	05-10-2066
+{f7} 	 	{f0} 	 
+{f7}ã	ã	{f0}05-10-2066	23-01-2067
+{f7}"	Nk	{f0}23-01-2067	24-07-2067
+{f7}"	ùN	{f0}24-07-2067	29-11-2067
+{f7}"	Wô	{f0}29-11-2067	23-10-2068
+{f7}"	®	{f0}23-10-2068	11-08-2069
+{f7}"	N²	{f0}11-08-2069	24-07-2070
+{f7}"	×	{f0}24-07-2070	30-05-2071
+{f7}"	úL	{f0}30-05-2071	05-10-2071
+{f7}"	Ñ	{f0}05-10-2071	05-10-2072
+{f7} 	 	{f0} 	 
+{f7}Nk	Nk	{f0}05-10-2072	05-08-2073
+{f7}"	ùN	{f0}05-08-2073	06-03-2074
+{f7}"	Wô	{f0}06-03-2074	05-09-2075
+{f7}"	®	{f0}05-09-2075	04-01-2077
+{f7}"	N²	{f0}04-01-2077	05-08-2078
+{f7}"	×	{f0}05-08-2078	05-01-2080
+{f7}"	úL	{f0}05-01-2080	05-08-2080
+{f7}"	Ñ	{f0}05-08-2080	05-04-2082
+{f7}"	ã	{f0}05-04-2082	05-10-2082
+{f7} 	 	{f0} 	 
+{f7}ùN	ùN	{f0}05-10-2082	03-03-2083
+{f7}"	Wô	{f0}03-03-2083	21-03-2084
+{f7}"	®	{f0}21-03-2084	25-02-2085
+{f7}"	N²	{f0}25-02-2085	05-04-2086
+{f7}"	×	{f0}05-04-2086	03-04-2087
+{f7}"	úL	{f0}03-04-2087	30-08-2087
+{f7}"	Ñ	{f0}30-08-2087	29-10-2088
+{f7}"	ã	{f0}29-10-2088	06-03-2089
+{f7}"	Nk	{f0}06-03-2089	05-10-2089
+{f7} 	 	{f0} 	 
+{f7}Wô	Wô	{f0}05-10-2089	17-06-2092
+{f7}"	®	{f0}17-06-2092	11-11-2094
+{f7}"	N²	{f0}11-11-2094	17-09-2097
+{f7}"	×	{f0}17-09-2097	06-04-2100
+{f7}"	úL	{f0}06-04-2100	24-04-2101
+{f7}"	Ñ	{f0}24-04-2101	24-04-2104
+{f7}"	ã	{f0}24-04-2104	19-03-2105
+{f7}"	Nk	{f0}19-03-2105	18-09-2106
+{f7}"	ùN	{f0}18-09-2106	06-10-2107
+
+{endtab}
+{blk}{f7}BÙs
+
+{header}
+{blu}{f8}RNô ×d§Ls ®YWj§p LûP£VôL ùLôÓdLlThP YÚPm EeLs BÙû[ Ï±dLôÕ.{f7}
+{endheader}
+
+{tab SectionGap = 0.1 }
+{header}
+{mgn}{f8}N²{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : Nk§Wu{dbl}
+{endheader}
+
+{f1}1.{f8}Nk{f0}{f0}	08-09-2014	>>	26-10-2014	  	{f0}{f1}2.{f8}ùN{f0}{f0}	26-10-2014	>>	29-11-2014
+{f1}3.{f8}Wô{f0}{f0}	29-11-2014	>>	23-02-2015	  	{f0}{f1}4.{f8}®{f0}{f0}	23-02-2015	>>	11-05-2015
+{f1}5.{f8}N²{f0}{f0}	11-05-2015	>>	11-08-2015	  	{f0}{f1}6.{f8}×{f0}{f0}	11-08-2015	>>	01-11-2015
+{f1}7.{f8}úL{f0}{f0}	01-11-2015	>>	05-12-2015	  	{f0}{f1}8.{f8}Ñ{f0}{f0}	05-12-2015	>>	10-03-2016
+{f1}9.{f8}ã{f0}{f0}	10-03-2016	>>	08-04-2016	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}N²{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ùNqYôn{dbl}
+{endheader}
+
+{f1}1.{f8}ùN{f0}{f0}	08-04-2016	>>	02-05-2016	  	{f0}{f1}2.{f8}Wô{f0}{f0}	02-05-2016	>>	01-07-2016
+{f1}3.{f8}®{f0}{f0}	01-07-2016	>>	24-08-2016	  	{f0}{f1}4.{f8}N²{f0}{f0}	24-08-2016	>>	27-10-2016
+{f1}5.{f8}×{f0}{f0}	27-10-2016	>>	24-12-2016	  	{f0}{f1}6.{f8}úL{f0}{f0}	24-12-2016	>>	16-01-2017
+{f1}7.{f8}Ñ{f0}{f0}	16-01-2017	>>	25-03-2017	  	{f0}{f1}8.{f8}ã{f0}{f0}	25-03-2017	>>	14-04-2017
+{f1}9.{f8}Nk{f0}{f0}	14-04-2017	>>	18-05-2017	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}N²{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : WôÏ{dbl}
+{endheader}
+
+{f1}1.{f8}Wô{f0}{f0}	18-05-2017	>>	21-10-2017	  	{f0}{f1}2.{f8}®{f0}{f0}	21-10-2017	>>	09-03-2018
+{f1}3.{f8}N²{f0}{f0}	09-03-2018	>>	21-08-2018	  	{f0}{f1}4.{f8}×{f0}{f0}	21-08-2018	>>	15-01-2019
+{f1}5.{f8}úL{f0}{f0}	15-01-2019	>>	17-03-2019	  	{f0}{f1}6.{f8}Ñ{f0}{f0}	17-03-2019	>>	06-09-2019
+{f1}7.{f8}ã{f0}{f0}	06-09-2019	>>	28-10-2019	  	{f0}{f1}8.{f8}Nk{f0}{f0}	28-10-2019	>>	23-01-2020
+{f1}9.{f8}ùN{f0}{f0}	23-01-2020	>>	24-03-2020	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}N²{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ®VôZu{dbl}
+{endheader}
+
+{f1}1.{f8}®{f0}{f0}	24-03-2020	>>	25-07-2020	  	{f0}{f1}2.{f8}N²{f0}{f0}	25-07-2020	>>	19-12-2020
+{f1}3.{f8}×{f0}{f0}	19-12-2020	>>	29-04-2021	  	{f0}{f1}4.{f8}úL{f0}{f0}	29-04-2021	>>	22-06-2021
+{f1}5.{f8}Ñ{f0}{f0}	22-06-2021	>>	23-11-2021	  	{f0}{f1}6.{f8}ã{f0}{f0}	23-11-2021	>>	08-01-2022
+{f1}7.{f8}Nk{f0}{f0}	08-01-2022	>>	26-03-2022	  	{f0}{f1}8.{f8}ùN{f0}{f0}	26-03-2022	>>	19-05-2022
+{f1}9.{f8}Wô{f0}{f0}	19-05-2022	>>	05-10-2022	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ×Ru{dbl}
+{endheader}
+
+{f1}1.{f8}×{f0}{f0}	05-10-2022	>>	07-02-2023	  	{f0}{f1}2.{f8}úL{f0}{f0}	07-02-2023	>>	30-03-2023
+{f1}3.{f8}Ñ{f0}{f0}	30-03-2023	>>	24-08-2023	  	{f0}{f1}4.{f8}ã{f0}{f0}	24-08-2023	>>	07-10-2023
+{f1}5.{f8}Nk{f0}{f0}	07-10-2023	>>	19-12-2023	  	{f0}{f1}6.{f8}ùN{f0}{f0}	19-12-2023	>>	08-02-2024
+{f1}7.{f8}Wô{f0}{f0}	08-02-2024	>>	19-06-2024	  	{f0}{f1}8.{f8}®{f0}{f0}	19-06-2024	>>	14-10-2024
+{f1}9.{f8}N²{f0}{f0}	14-10-2024	>>	03-03-2025	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : úLÕ{dbl}
+{endheader}
+
+{f1}1.{f8}úL{f0}{f0}	03-03-2025	>>	24-03-2025	  	{f0}{f1}2.{f8}Ñ{f0}{f0}	24-03-2025	>>	23-05-2025
+{f1}3.{f8}ã{f0}{f0}	23-05-2025	>>	10-06-2025	  	{f0}{f1}4.{f8}Nk{f0}{f0}	10-06-2025	>>	11-07-2025
+{f1}5.{f8}ùN{f0}{f0}	11-07-2025	>>	01-08-2025	  	{f0}{f1}6.{f8}Wô{f0}{f0}	01-08-2025	>>	24-09-2025
+{f1}7.{f8}®{f0}{f0}	24-09-2025	>>	11-11-2025	  	{f0}{f1}8.{f8}N²{f0}{f0}	11-11-2025	>>	08-01-2026
+{f1}9.{f8}×{f0}{f0}	08-01-2026	>>	28-02-2026	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : Ñd¡Wu{dbl}
+{endheader}
+
+{f1}1.{f8}Ñ{f0}{f0}	28-02-2026	>>	19-08-2026	  	{f0}{f1}2.{f8}ã{f0}{f0}	19-08-2026	>>	10-10-2026
+{f1}3.{f8}Nk{f0}{f0}	10-10-2026	>>	04-01-2027	  	{f0}{f1}4.{f8}ùN{f0}{f0}	04-01-2027	>>	06-03-2027
+{f1}5.{f8}Wô{f0}{f0}	06-03-2027	>>	08-08-2027	  	{f0}{f1}6.{f8}®{f0}{f0}	08-08-2027	>>	24-12-2027
+{f1}7.{f8}N²{f0}{f0}	24-12-2027	>>	05-06-2028	  	{f0}{f1}8.{f8}×{f0}{f0}	05-06-2028	>>	29-10-2028
+{f1}9.{f8}úL{f0}{f0}	29-10-2028	>>	29-12-2028	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ã¬Vu{dbl}
+{endheader}
+
+{f1}1.{f8}ã{f0}{f0}	29-12-2028	>>	13-01-2029	  	{f0}{f1}2.{f8}Nk{f0}{f0}	13-01-2029	>>	08-02-2029
+{f1}3.{f8}ùN{f0}{f0}	08-02-2029	>>	26-02-2029	  	{f0}{f1}4.{f8}Wô{f0}{f0}	26-02-2029	>>	14-04-2029
+{f1}5.{f8}®{f0}{f0}	14-04-2029	>>	25-05-2029	  	{f0}{f1}6.{f8}N²{f0}{f0}	25-05-2029	>>	13-07-2029
+{f1}7.{f8}×{f0}{f0}	13-07-2029	>>	26-08-2029	  	{f0}{f1}8.{f8}úL{f0}{f0}	26-08-2029	>>	14-09-2029
+{f1}9.{f8}Ñ{f0}{f0}	14-09-2029	>>	04-11-2029	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : Nk§Wu{dbl}
+{endheader}
+
+{f1}1.{f8}Nk{f0}{f0}	04-11-2029	>>	17-12-2029	  	{f0}{f1}2.{f8}ùN{f0}{f0}	17-12-2029	>>	17-01-2030
+{f1}3.{f8}Wô{f0}{f0}	17-01-2030	>>	04-04-2030	  	{f0}{f1}4.{f8}®{f0}{f0}	04-04-2030	>>	12-06-2030
+{f1}5.{f8}N²{f0}{f0}	12-06-2030	>>	02-09-2030	  	{f0}{f1}6.{f8}×{f0}{f0}	02-09-2030	>>	14-11-2030
+{f1}7.{f8}úL{f0}{f0}	14-11-2030	>>	15-12-2030	  	{f0}{f1}8.{f8}Ñ{f0}{f0}	15-12-2030	>>	11-03-2031
+{f1}9.{f8}ã{f0}{f0}	11-03-2031	>>	06-04-2031	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ùNqYôn{dbl}
+{endheader}
+
+{f1}1.{f8}ùN{f0}{f0}	06-04-2031	>>	27-04-2031	  	{f0}{f1}2.{f8}Wô{f0}{f0}	27-04-2031	>>	20-06-2031
+{f1}3.{f8}®{f0}{f0}	20-06-2031	>>	07-08-2031	  	{f0}{f1}4.{f8}N²{f0}{f0}	07-08-2031	>>	04-10-2031
+{f1}5.{f8}×{f0}{f0}	04-10-2031	>>	24-11-2031	  	{f0}{f1}6.{f8}úL{f0}{f0}	24-11-2031	>>	15-12-2031
+{f1}7.{f8}Ñ{f0}{f0}	15-12-2031	>>	14-02-2032	  	{f0}{f1}8.{f8}ã{f0}{f0}	14-02-2032	>>	03-03-2032
+{f1}9.{f8}Nk{f0}{f0}	03-03-2032	>>	02-04-2032	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : WôÏ{dbl}
+{endheader}
+
+{f1}1.{f8}Wô{f0}{f0}	02-04-2032	>>	20-08-2032	  	{f0}{f1}2.{f8}®{f0}{f0}	20-08-2032	>>	22-12-2032
+{f1}3.{f8}N²{f0}{f0}	22-12-2032	>>	18-05-2033	  	{f0}{f1}4.{f8}×{f0}{f0}	18-05-2033	>>	27-09-2033
+{f1}5.{f8}úL{f0}{f0}	27-09-2033	>>	21-11-2033	  	{f0}{f1}6.{f8}Ñ{f0}{f0}	21-11-2033	>>	25-04-2034
+{f1}7.{f8}ã{f0}{f0}	25-04-2034	>>	10-06-2034	  	{f0}{f1}8.{f8}Nk{f0}{f0}	10-06-2034	>>	27-08-2034
+{f1}9.{f8}ùN{f0}{f0}	27-08-2034	>>	20-10-2034	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ®VôZu{dbl}
+{endheader}
+
+{f1}1.{f8}®{f0}{f0}	20-10-2034	>>	08-02-2035	  	{f0}{f1}2.{f8}N²{f0}{f0}	08-02-2035	>>	19-06-2035
+{f1}3.{f8}×{f0}{f0}	19-06-2035	>>	14-10-2035	  	{f0}{f1}4.{f8}úL{f0}{f0}	14-10-2035	>>	01-12-2035
+{f1}5.{f8}Ñ{f0}{f0}	01-12-2035	>>	17-04-2036	  	{f0}{f1}6.{f8}ã{f0}{f0}	17-04-2036	>>	29-05-2036
+{f1}7.{f8}Nk{f0}{f0}	29-05-2036	>>	06-08-2036	  	{f0}{f1}8.{f8}ùN{f0}{f0}	06-08-2036	>>	23-09-2036
+{f1}9.{f8}Wô{f0}{f0}	23-09-2036	>>	25-01-2037	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : N²{dbl}
+{endheader}
+
+{f1}1.{f8}N²{f0}{f0}	25-01-2037	>>	30-06-2037	  	{f0}{f1}2.{f8}×{f0}{f0}	30-06-2037	>>	16-11-2037
+{f1}3.{f8}úL{f0}{f0}	16-11-2037	>>	12-01-2038	  	{f0}{f1}4.{f8}Ñ{f0}{f0}	12-01-2038	>>	25-06-2038
+{f1}5.{f8}ã{f0}{f0}	25-06-2038	>>	13-08-2038	  	{f0}{f1}6.{f8}Nk{f0}{f0}	13-08-2038	>>	03-11-2038
+{f1}7.{f8}ùN{f0}{f0}	03-11-2038	>>	31-12-2038	  	{f0}{f1}8.{f8}Wô{f0}{f0}	31-12-2038	>>	27-05-2039
+{f1}9.{f8}®{f0}{f0}	27-05-2039	>>	05-10-2039	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}úLÕ{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : úLÕ{dbl}
+{endheader}
+
+{f1}1.{f8}úL{f0}{f0}	05-10-2039	>>	14-10-2039	  	{f0}{f1}2.{f8}Ñ{f0}{f0}	14-10-2039	>>	08-11-2039
+{f1}3.{f8}ã{f0}{f0}	08-11-2039	>>	15-11-2039	  	{f0}{f1}4.{f8}Nk{f0}{f0}	15-11-2039	>>	28-11-2039
+{f1}5.{f8}ùN{f0}{f0}	28-11-2039	>>	06-12-2039	  	{f0}{f1}6.{f8}Wô{f0}{f0}	06-12-2039	>>	29-12-2039
+{f1}7.{f8}®{f0}{f0}	29-12-2039	>>	18-01-2040	  	{f0}{f1}8.{f8}N²{f0}{f0}	18-01-2040	>>	10-02-2040
+{f1}9.{f8}×{f0}{f0}	10-02-2040	>>	02-03-2040	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}úLÕ{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : Ñd¡Wu{dbl}
+{endheader}
+
+{f1}1.{f8}Ñ{f0}{f0}	02-03-2040	>>	12-05-2040	  	{f0}{f1}2.{f8}ã{f0}{f0}	12-05-2040	>>	03-06-2040
+{f1}3.{f8}Nk{f0}{f0}	03-06-2040	>>	08-07-2040	  	{f0}{f1}4.{f8}ùN{f0}{f0}	08-07-2040	>>	02-08-2040
+{f1}5.{f8}Wô{f0}{f0}	02-08-2040	>>	05-10-2040	  	{f0}{f1}6.{f8}®{f0}{f0}	05-10-2040	>>	01-12-2040
+{f1}7.{f8}N²{f0}{f0}	01-12-2040	>>	06-02-2041	  	{f0}{f1}8.{f8}×{f0}{f0}	06-02-2041	>>	08-04-2041
+{f1}9.{f8}úL{f0}{f0}	08-04-2041	>>	03-05-2041	  	{f0}{f0}			
+
+{endtab}
+{PageBreak}
+
+{"}{blu}{f8}¡Wa¨ûX BWônf£{f7}{gry}
+{=}{l0}{blk}
+{header}
+{tab}
+{blu}{f8}TôYô§T§Ls{f7}
+{blk}
+{endheader}
+{blk}Ju\ôm	TôYô§T§	(úLk§Wm)	: {mgn}N²
+{blk}CWiPôm	     ,,	(TQTWm)	: {mgn}N²
+{blk}êu\ôm	     ,,	(BúTôd­Um)	: {mgn}®VôZu
+{blk}SôuLôm	     ,,	(úLk§Wm)	: {mgn}ùNqYôn
+{blk}IkRôm	     ,,	(§¬úLôQm)	: {mgn}Ñd¡Wu
+{blk}B\ôm	     ,,	(BúTôd­Um)	: {mgn}×Ru
+{blk}HZôm	     ,,	(úLk§Wm)	: {mgn}Nk§Wu
+{blk}GhPôm	     ,,	(TQTWm)	: {mgn}ã¬Vu
+{blk}JuTRôm	     ,,	(§¬úLôQm)	: {mgn}×Ru
+{blk}TjRôm	     ,,	(úLk§Wm)	: {mgn}Ñd¡Wu
+{blk}T§ù]ôu\ôm	     ,,	(TQTWm)	: {mgn}ùNqYôn
+{blk}Tu²WiPôm	     ,,	(BúTôd­Um)	: {mgn}®VôZu
+{blk}
+{endtab}
+{header}
+{blu}{f8}¡Wa úNodûLLs{f7}{blk}
+{endheader}
+{tab}
+
+Nk§Wu	úNodûL  Ñd¡Wu   
+ã¬Vu	úNodûL  ×Ru   
+×Ru	úNodûL  ã¬Vu   
+Ñd¡Wu	úNodûL  Nk§Wu   
+ùNqYôn	úNodûL  N²   
+®VôZu	úNodûL  úLÕ   
+N²	úNodûL  ùNqYôn   
+{endtab}
+
+{header}
+{blu}{f8}¡WaeLÞûPV TôoûYLs{f7}{blk}
+{endheader}
+
+{tab}
+Nk§Wu	TôoûYÙs[ Xd]m   
+Ñd¡Wu	TôoûYÙs[ Xd]m   
+ùNqYôn	TôoûYÙs[ ®VôZu   úLÕ   Xd]m   
+®VôZu	TôoûYÙs[ WôÏ   Xd]m   
+N²	TôoûYÙs[ Nk§Wu   Ñd¡Wu   
+{endtab}
+
+{header}
+{blu}{f8}vRô]eLÞdÏs[ ¡Wa TôoûYLs{f7}{blk}
+{endheader}
+
+{tab}
+Nk§Wu	TôoûY Ju\ôm   
+ã¬Vu	TôoûY CWiPôm   
+×Ru	TôoûY CWiPôm   
+Ñd¡Wu	TôoûY Ju\ôm   
+ùNqYôn	TôoûY Ju\ôm   SôuLôm   IkRôm   
+®VôZu	TôoûY Ju\ôm   JuTRôm   T§ù]ôu\ôm   
+N²	TôoûY SôuLôm   HZôm   Tu²WiPôm   
+{endtab}
+
+{header}
+{blu}{f8}ÑT AÑT ¡WaeLs{f7}{blk}
+{endheader}
+
+ÏÚ Ñd¡Wu Y[o©û\ Nk§Wu B¡V ¡WaeLÞdÏ ÑTôY ÑT TXm Es[Õ.ÑdXTb `x¥ §§ ØRp ¡ÚxQTb `x¥ §§ YûW Es[ Y[o©û\ Nk§Wu ÑT TXØs[Õ.
+
+CkR _ôRLj§p úRn©û\ Nk§Wu B]§]ôp Nk§WàdÏ ÑT TXªpûX.
+
+TôY ¡WaeLÞPu ×Ru úNÚmúTôÕ ×Ru TôT ¡WaUôL UôÚ¡\Õ.
+
+EeLÞûPV _ôRLj§p ×Ru TôT ¡WLeLÞPu úNokÕs[Rôp AÕ TôT¡WaUôL ¨t¡\Õ.
+
+{tab}
+	Nk§Wu	-	{red}TôY ¡Wam{blk}
+	ã¬Vu	-	{red}TôY ¡Wam{blk}
+	×Ru	-	{red}TôY ¡Wam{blk}
+	Ñd¡Wu	-	{grn}ÑT ¡Wam{blk}
+	ùNqYôn	-	{red}TôY ¡Wam{blk}
+	®VôZu	-	{grn}ÑT ¡Wam{blk}
+	N²	-	{red}TôY ¡Wam{blk}
+	WôÏ	-	{red}TôY ¡Wam{blk}
+	úLÕ	-	{red}TôY ¡Wam{blk}
+{endtab}
+
+{header}
+{blu}{f8}¡WaeLÞûPV B§Tj§Vm ùLôiÓs[ vRô] TXeLs{f7}
+
+{endheader}
+{blk}¡WaeLû[ ÑT ¡WaeLs AÑT ¡WaeLs Guß ©¬j§ÚkRôÛm ARàûPV vRô] TXm ûYjúR _ôRLj§àûPV TXm ¨oQ«dLúYiÓm.
+
+Juß, IkÕ Utßm JuTRôm vRô] ¡WaeLs GlùTôÝÕm ÑT ¡WaeL[ôL LÚRlTPúYiÓm.
+
+ÑTôY AÑT ¡WaeLs Juß, SôuÏ Utßm TjRôm vRô]eLÞdÏ A§T§L[ôL YÚmùTôÝÕ ÑT ¡WaeL[ôL Uôß¡u\].
+
+êuß, Bß Utßm T§ù]ôu\ôm vRô] A§T§Ls AÑT ¡WaeL[ôL LÚRlTÓ¡u\].
+
+ÑTôY ÑT ¡WaeLs SôuÏ, HÝ Utßm T§ù]ôu\ôm vRô] A§T§L[ôL YÚmùTôÝÕ úLk§Wô§Tj§V úRô`j§]ôp AÑT ¡WaeL[ôL Uôß¡u\].
+
+CWiÓ, GhÓ Utßm Tu²WiPôm vRô] A§T§Ls ÑT RuûUÙm AÑT RuûUÙm CpXôR NU ¡WaeL[ôÏm.
+
+ã¬Vàm, Nk§Wàm R®W Ut\ IkÕ ¡WaeLs GpXôm JqùYôußm CWiÓ vRô]eLÞdÏ A§T§L[ô¡\ôoLs.
+
+£X ú_ô§PoLs GhPôm vRô] A§T§ûV GlùTôÝÕm AÑT ¡WaUôLúY LQd¡Ó¡\ôoLs. B]ôÛm BRôWéoYUô] ú_ô§P èpLs GhPôm vRô] A§T§ûV ARàûPV Utû\V vRô] B§Tj§Vm ûYjúR LQd¡PúYiÓm Guß áß¡\Õ.
+
+AàLlThP Øû\ : {f0}Nature of Mercury determined by association
+
+{tab}
+{header}
+{l5}
+{mgn}{f8}¡Wam	B§Tj§Vm	ÑTôY ¨ûX{f7}
+{blk}{l3}
+{endheader}
+{blk}Nk§Wu	{f0} 7   {f7}	{red}TôY ¡Wam
+{blk}ã¬Vu	{f0} 8   {f7}	{cyn}NU ¨ûX
+{blk}×Ru	{f0} 6   {f7}{f0} 9   {f7}	{grn}ÑT ¡Wam
+{blk}Ñd¡Wu	{f0} 5   {f7}{f0}10   {f7}	{grn}ÑT ¡Wam
+{blk}ùNqYôn	{f0} 4   {f7}{f0}11   {f7}	{red}TôY ¡Wam
+{blk}®VôZu	{f0} 3   {f7}{f0}12   {f7}	{red}TôY ¡Wam
+{blk}N²	{f0} 1   {f7}{f0} 2   {f7}	{grn}ÑT ¡Wam
+{endtab}
+{blk}
+{tab SectionGap = 0.2 }
+{PageBreak}
+{header}
+{blu}{f8}ûSNo¡L Sh× ®YWeLs
+{blk}{l5}{mgn}
+	Nk 	ã  	×  	Ñ  	ùN 	®  	N² 
+{blk}{f7}{l3}
+{endheader}
+{mgn}{f8}Nk {f7}	{blk} ...	{grn}Sh×	{grn}Sh×	{cyn}NUm	{cyn}NUm	{cyn}NUm	{cyn}NUm
+{mgn}{f8}ã  {f7}	{grn}Sh×	{blk} ...	{cyn}NUm	{red}®úWô§	{grn}Sh×	{grn}Sh×	{red}®úWô§
+{mgn}{f8}×  {f7}	{red}®úWô§	{grn}Sh×	{blk} ...	{grn}Sh×	{cyn}NUm	{cyn}NUm	{cyn}NUm
+{mgn}{f8}Ñ  {f7}	{red}®úWô§	{red}®úWô§	{grn}Sh×	{blk} ...	{cyn}NUm	{cyn}NUm	{grn}Sh×
+{mgn}{f8}ùN {f7}	{grn}Sh×	{grn}Sh×	{red}®úWô§	{cyn}NUm	{blk} ...	{grn}Sh×	{cyn}NUm
+{mgn}{f8}®  {f7}	{grn}Sh×	{grn}Sh×	{red}®úWô§	{red}®úWô§	{grn}Sh×	{blk} ...	{cyn}NUm
+{mgn}{f8}N² {f7}	{red}®úWô§	{red}®úWô§	{grn}Sh×	{grn}Sh×	{red}®úWô§	{cyn}NUm	{blk} ...
+{blk}
+{header}
+{blu}{f8}RôtLô­L Sh× ®YWeLs
+{blk}{l5}{mgn}
+{f8}	Nk {f8}	ã  {f8}	×  {f8}	Ñ  {f8}	ùN {f8}	®  {f8}	N² 
+{blk}{f7}{l3}
+{endheader}
+{mgn}{f8}Nk {f7}	{blk} ...	{grn}Sh×	{grn}Sh×	{red}®úWô§	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}ã  {f7}	{grn}Sh×	{blk} ...	{red}®úWô§	{grn}Sh×	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}×  {f7}	{grn}Sh×	{red}®úWô§	{blk} ...	{grn}Sh×	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}Ñ  {f7}	{red}®úWô§	{grn}Sh×	{grn}Sh×	{blk} ...	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}ùN {f7}	{grn}Sh×	{grn}Sh×	{grn}Sh×	{grn}Sh×	{blk} ...	{red}®úWô§	{red}®úWô§
+{mgn}{f8}®  {f7}	{grn}Sh×	{grn}Sh×	{grn}Sh×	{grn}Sh×	{red}®úWô§	{blk} ...	{red}®úWô§
+{mgn}{f8}N² {f7}	{grn}Sh×	{grn}Sh×	{grn}Sh×	{grn}Sh×	{red}®úWô§	{red}®úWô§	{blk} ...
+{blk}
+{header}
+{blu}{f8}ImUPeÏ Sh× ®YWeLs
+{blk}{l5}{mgn}
+	Nk 	ã  	×  	Ñ  	ùN 	®  	N² 
+{blk}{f7}{l3}{mgn}
+{endheader}
+{mgn}{f8}Nk {f7}	{blk} ...	{blu}A§ ®.	{blu}A§ ®.	{red}®úWô§	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}ã  {f7}	{blu}A§ ®.	{blk} ...	{red}®úWô§	{cyn}NUm	{blu}A§ ®.	{blu}A§ ®.	{cyn}NUm
+{mgn}{f8}×  {f7}	{cyn}NUm	{cyn}NUm	{blk} ...	{blu}A§ ®.	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}Ñ  {f7}	{mgn}A§ S.	{cyn}NUm	{blu}A§ ®.	{blk} ...	{grn}Sh×	{grn}Sh×	{blu}A§ ®.
+{mgn}{f8}ùN {f7}	{blu}A§ ®.	{blu}A§ ®.	{cyn}NUm	{grn}Sh×	{blk} ...	{cyn}NUm	{red}®úWô§
+{mgn}{f8}®  {f7}	{blu}A§ ®.	{blu}A§ ®.	{cyn}NUm	{cyn}NUm	{cyn}NUm	{blk} ...	{red}®úWô§
+{mgn}{f8}N² {f7}	{cyn}NUm	{cyn}NUm	{blu}A§ ®.	{blu}A§ ®.	{mgn}A§ S.	{red}®úWô§	{blk} ...
+{blk}
+{endtab}
+{mgn}®. = ®úWô§, S.  = Sh×
+{blk}
+{PageBreak}
+{header}
+{blu}{f8}`x¥ AmNj§p §¬dTXm
+
+{tab SectionGap = 1 }
+{mgn}{f7}TôodÏm ¡Wam	TôodLlTÓm ¡Wam
+{endtab}
+{tab SectionGap = 0.2}
+{blk}{f8}{l5}{mgn}
+	Nk 	ã  	×  	Ñ  	ùN 	®  	N² 
+{blk}{f7}{l3}
+{endheader}
+{dbl}{f8}ÑT TôoûY{f7}
+
+{dbl}{f8}Ñd¡Wu{f0}{blk}	    .  	 6.86	 7.71	    .  	 41.69	    .  	 35.98
+	   	   	   	   	   	   	   
+{dbl}{f8}®VôZu{f0}{blk}	 9.11	 42.69	 41.84	 10.45	 2.47	    .  	 18.11
+	   	   	   	   	 30.00	   	 30.00
+{header}
+{blk}{l5}
+{mgn}{f8}ÑT TXm{f0}	 9.11	 49.55	 49.55	 10.45	 74.16	    .  	 84.10
+{blk}{l3}
+{endheader}
+{dbl}{f8}AÑT TôoûY{f7}
+
+{dbl}{f8}Nk§Wu{f0}{blk}	    .  	-8.20	-9.05	    .  	-40.34	    .  	-38.67
+	 	 	 	 	 	 	 
+{dbl}{f8}ã¬Vu{f0}{blk}	    .  	    .  	    .  	    .  	-11.45	-17.31	-3.63
+	 	 	 	 	 	 	 
+{dbl}{f8}×Ru{f0}{blk}	    .  	    .  	    .  	    .  	-10.60	-18.16	-2.78
+	 	 	 	 	 	 	 
+{dbl}{f8}ùNqYôn{f0}{blk}	-19.66	    .  	    .  	-18.31	    .  	-43.76	    .  
+	 	 	 	 	 	-15.00	 
+{dbl}{f8}N²{f0}{blk}	-11.84	    .  	    .  	-10.49	    .  	-35.94	    .  
+	-45.00	 	 	-45.00	 	 	 
+{header}
+{blk}{l5}
+{mgn}{f8}AÑT TXm{f0}	-76.49	-8.20	-9.05	-73.80	-62.40	-130.17	-45.09
+{blk}{l3}
+{endheader}
+{dbl}{f8}§Úx¥ ©iPm{f0}{blk}	-67.38	 41.35	 40.50	-63.35	 11.76	-130.17	 39.01
+
+{dbl}{f8}§ÚdTXm{f0}{blk}	-16.85	 10.34	 10.12	-15.84	 2.94	-32.54	 9.75
+{f7}{l3}
+
+{header}
+{tab}
+{PageBreak}
+{blu}{f8}`hTX AhPYû]
+{blk}{l5}{mgn}
+	Nk 	ã  	×  	Ñ  	ùN 	®  	N² 
+{blk}{l3}
+{endheader}
+{dbl}{f8}EfN TXm{f0}{blk}
+	 37.80	 14.66	 54.24	 24.90	 26.97	 45.46	 54.43
+{dbl}{f8}NlRYoL_ TXm{f0}{blk}
+	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+{dbl}{f8}K_ÙdUWô£ TXm{f0}{blk}
+	 30.00	 15.00	 30.00	 15.00	 15.00	 0 	 30.00
+{dbl}{f8}úLk§W TXm{f0}{blk}
+	 60.00	 30.00	 30.00	 60.00	 60.00	 30.00	 60.00
+{dbl}{f8}§úWdLôQ TXm{f0}{blk}
+	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+{dbl}{f8}ùUôjR vRô] TXm{f0}{blk}
+	 281.55	 175.91	 204.24	 193.65	 176.97	 169.21	 245.68
+{dbl}{f8}ùUôjR §dTXm{f0}{blk}
+	 31.88	 43.59	 17.30	 30.98	 58.78	 14.81	 30.85
+{dbl}{f8}SR Eu]R TXm{f0}{blk}
+	 15.33	 44.67	 60.00	 44.67	 15.33	 44.67	 15.33
+{dbl}{f8}Tb TXm{f0}{blk}
+	 89.07	 44.53	 44.53	 15.47	 44.53	 15.47	 44.53
+{dbl}{f8}§¬TôL TXm{f0}{blk}
+	 0 	 0 	 0 	 0 	 0 	 60.00	 60.00
+{dbl}{f8}YÚP TXm{f0}{blk}
+	 0 	 15.00	 0 	 0 	 0 	 0 	 0 
+{dbl}{f8}UôR TXm{f0}{blk}
+	 0 	 30.00	 0 	 0 	 0 	 0 	 0 
+{dbl}{f8}YôW TXm{f0}{blk}
+	 0 	 0 	 45.00	 0 	 0 	 0 	 0 
+{dbl}{f8}úaôW TXm{f0}{blk}
+	 0 	 0 	 0 	 0 	 0 	 0 	 60.00
+{dbl}{f8}AV] TXm{f0}{blk}
+	 5.40	 70.01	 34.15	 53.72	 9.97	 58.95	 43.37
+{dbl}{f8}ÙjR TXm{f0}{blk}
+	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+{dbl}{f8}ùUôjR LôX TXm{f0}{blk}
+	 109.80	 204.21	 183.68	 113.85	 69.84	 179.08	 223.24
+{dbl}{f8}ùUôjR úNxP TXm{f0}{blk}
+	 0 	 0 	 2.17	 30.97	 24.04	 34.51	 11.11
+{dbl}{f8}ùUôjR ûS^o¡L TXm{f0}{blk}
+	 51.43	 60.00	 25.70	 42.85	 17.14	 34.28	 8.57
+{dbl}{f8}ùUôjR §ÚdTXm{f0}{blk}
+	-16.85	 10.34	 10.12	-15.84	 2.94	-32.54	 9.75
+{dbl}{f8}ùUôjR `hTXm{f0}{blk}
+	 457.81	 494.05	 443.21	 396.47	 349.71	 399.35	 529.20
+{dbl}{f8}ùUôjR `hTXm (ìTô){f0}{blk}
+	 7.63	 8.23	 7.39	 6.61	 5.83	 6.66	 8.82
+{dbl}{f8}Ïû\kR A[Ü{f0}{blk}
+	 6.00	 5.00	 7.00	 5.50	 5.00	 6.50	 5.00
+{dbl}{f8}`hTXj§u ®¡R TeÏ{f0}{blk}
+	 1.27	 1.65	 1.06	 1.20	 1.17	 1.02	 1.76
+{dbl}{f8}ARu Y¬ûN{f0}{blk}
+	 3	 2	 6	 4	 5	 7	 1
+{l3}
+
+{header}
+{blu}{f8}CxP TX / LxP TX AhPYû]
+{endheader}
+{blk}{l5}
+{dbl}{f8}CxP TXm{f0}{blk}	 24.18	 22.10	 10.85	 27.77	 25.47	 39.61	 24.60
+{dbl}{f8}LxP TXm{f0}{blk}	 31.44	 34.78	 18.26	 31.92	 34.46	 19.25	 16.51
+{l3}
+{endtab}
+
+{PageBreak}
+{header}
+{tab}
+{blu}{f8}`x¥ AmNj§p TôY §ÚdTXm
+
+{mgn}{f7}TôodÏm ¡Wam	§ÚxV TôYm{f8}
+{endtab}
+{tab SectionGap = 0.09}
+{blk}{l5}{mgn}{f1}
+1	2	3	4	5	6	7	8	9	10	11	12
+{blk}{l3}
+{mgn}{f8}ÑT TôoûY{f7}
+
+{dbl}{f8}Nk§Wu{f0}{blk}
+13.10	11.33	7.19	3.05	.	.	.	.	4.37	10.55	6.88	0.16
+ 	 	 	 	 	 	 	 	 	 	 	 
+{dbl}{f8}Ñd¡Wu{f0}{blk}
+11.76	11.67	7.52	3.38	0.02	.	.	.	3.73	10.88	7.52	0.83
+ 	 	 	 	 	 	 	 	 	 	 	 
+{dbl}{f8}®VôZu{f0}{blk}
+37.79	21.22	4.64	.	.	.	7.21	32.57	34.64	6.15	41.42	51.22
+ 	30.00	 	 	 	 	 	 	 	30.00	 	 
+
+{header}
+{dbl}{f8}ÑT TXm{f0}{blk}
+{l5}
+62.65	74.21	19.36	6.43	0.02	.	7.21	32.57	42.74	57.57	55.82	52.21
+{l3}
+{endheader}
+{mgn}{f8}AÑT TôoûY{f7}
+
+{dbl}{f8}ã¬Vu{f0}{blk}
+-5.05	-6.47	-12.99	-8.85	-5.49	-2.13	.	.	.	-2.40	-7.77	-9.63
+ 	 	 	 	 	 	 	 	 	 	 	 
+{dbl}{f8}×Ru{f0}{blk}
+-21.90	-22.50	-52.80	-36.23	-22.80	-9.38	.	.	.	-8.77	-29.39	-39.38
+ 	 	 	 	 	 	 	 	 	 	 	 
+{dbl}{f8}ùNqYôn{f0}{blk}
+-7.97	-8.74	-1.70	-13.16	-12.10	-8.74	-5.39	-1.24	.	.	.	-2.51
+ 	-3.75	 	 	 	-3.75	 	 	 	 	 	 
+{dbl}{f8}N²{f0}{blk}
+-10.93	-6.08	-4.41	-13.50	-10.15	-6.79	-3.43	.	.	.	-1.10	-5.17
+ 	 	 	 	 	 	-11.25	 	 	 	 	-11.25
+{header}
+{dbl}{f8}AÑT TXm{f0}{blk}
+{l5}
+-45.85	-47.55	-71.91	-71.75	-50.54	-30.79	-20.07	-1.24	.	-11.17	-38.27	-67.93
+{l3}
+{endheader}
+{header}
+{blu}{f8}§Úx¥ ©iPm / §ÚdTXm{f0}{blk}
+{l5}
+16.80	26.67	-52.55	-65.32	-50.52	-30.79	-12.86	31.32	42.74	46.40	17.55	-15.72
+{l3}
+{endheader}
+{endtab}
+
+{tab SectionGap = 0.12}
+{header}
+{blu}{f8}TôY TX AhPYû]
+{blk}{l5}{mgn}
+1	2	3	4	5	6	7	8	9	10	11	12
+{blk}{l3}
+{dbl}{f8}TôYô§T§ TXm{f10}{blk}
+529.20	529.20	399.35	349.71	396.47	443.21	457.81	494.05	443.21	396.47	349.71	399.35
+{dbl}{f8}TôY §dTXm{f10}{blk}
+30.00	50.00	50.00	0	10.00	10.00	30.00	40.00	20.00	30.00	20.00	50.00
+{dbl}{f8}TôY§Úx¥ TXm{f10}{blk}
+16.80	26.67	-52.55	-65.32	-50.52	-30.79	-12.86	31.32	42.74	46.40	17.55	-15.72
+{dbl}{f8}ùUôjRm TôY TXm{f10}{blk}
+576.00	605.87	396.79	284.39	355.96	422.42	474.95	565.37	505.96	472.87	387.26	433.63
+{dbl}{f8}TôY TXm (ìTô){f10}{blk}
+9.60	10.10	6.61	4.74	5.93	7.04	7.92	9.42	8.43	7.88	6.45	7.23
+{dbl}{f8}ARu Y¬ûN{f10}{blk}
+2	1	9	12	11	8	5	3	4	6	10	7
+{l3}
+{endheader}
+{endtab}
+
+{header}
+{blu}{f8}ùNqYôn úRô` ¨oQVm{f7}{blk}
+{endheader}
+
+JqùYôÚ _ôRLj§Ûm ùNqYôn úRô`j§tÏ ªLÜm Ød¡VjÕYm ùLôÓdLlTPúYiÓm. §ÚUQ ùTôÚjRm TôodÏmùTôÝÕ ùNqYôn ¡Waj§àûPV ¨ûX Ød¡VjÕYm ùTß¡\Õ. ùNqYôn HZôm vRô]j§úXô ApXÕ GhPôm Rô]j§úXô Es[§]ôp ùNqYôn úRô`m EiÓ Guß TXÚm ùNôpÛYôoLs. HZôm ApXÕ GhPôm vRô]j§Ûs[ ùNqYôn Rô`j§tÏ TX ®XdÏLs Es[RôL ARôWéoYUô] èpLs áß¡u\]. CkR Øû\«p Es[ ùNqYôn úRô` ¨oQVm ¸úZ ùLôÓdLlThÓs[Õ.
+
+EeLÞûPV _ôRLj§p ùNqYôn TjRôm vRô]j§p Es[Õ.
+
+EeLÞûPV _ôRLj§p Xd¡]j§­ÚkÕ ùNqYôn úRô`m CpûX.
+
+{header}
+{dbl}{f7}Xd¡]j§­ÚkÕ ùNqYôn úRô`jûR N¬ TôodL{f8}{blk}
+{endheader}
+
+{grn}ùNqYôn úRô`m CkR _ôRLj§p CpûX.
+
+{header}
+{blu}{f8}AvReLRjûR N¬ TôodL{f7}{blk}
+{endheader}
+
+¡WaeLs ã¬VàdÏ AÚLôûU«p YÚmùTôÝÕ AvReLRUôÏm. AvReLRUûPkR ¡Wam ùLÓ TXû]úV ùNnÙm. ã¬V²­ÚkÕ Nk§Wu Tu²WiÓ, ùNqYôn T§ú]Ý, ×Ru T§Øuß, ÏÚ T§ù]ôuß, Ñd¡Wu JuTÕ, N² T§û]kÕ TôûLdÏs YÚmùTôÝÕ AvReLRm AûPÙm.
+
+×Ru AvReLRm AûPkÕs[Rô
+
+{header}
+{blu}{f8}¡Wa ÙjRm{f7}{blk}
+{endheader}
+
+ã¬Vu Nk§Wû] R®ojÕ Ut\ ¡WaeLs JußdùLôuß JÚ TôûLdÏs YÚmùTôÝÕ ÙjRUûPÙm. ¡Wa ÙjRj§p GkR ¡Wam ùYt±VûPÙm GuTûRl Tt± LÚjÕ úYßTôÓLs CÚkRôÛm ¸úZ ùNôp­VT¥ L¦dLlTPXôm.
+Ut\ ¡WaeL°p YPd¡Ûs[ ¡Wam ùYt± AûPÙm.
+
+{f8}CkR _ôRLj§p JÚ ¡WaØm ÙjRj§p CpûX{f7}
+
+{header}
+{blu}{f8}EfNm, ¿Nm, AvReLRm, ÙjRm, Yd¡Wm B¡VYt±u ùUôjR TXm. {f7}{blk}
+{tab}
+{blk}{l5}{mgn}
+{f8}¡Wam	EfNm{f1}/{f8}	AvReLRm	¡Wa ÙjRm	Yd¡Wm{f7}
+{f8} 	¿Nm	 	 	 {f7}
+{blk}{l3}{dbl}
+{endheader}
+Nk 	            	   	      	     
+ã  	            	   	      	     
+×  	            	AvReLRm	      	     
+Ñ  	            	   	      	     
+ùN 	            	   	      	     
+®  	            	   	      	     
+N² 	EfNm	   	      	     
+{blk}{l3}
+
+{endtab}
+{header}
+{blu}{f8}_ôRLj§p ¡Wa CûQl×L°u £\l×{f7}{blk}
+{endheader}
+
+{poke}{f7}
+úVôLeLs GuTÕ Ï±l©hP vRô]eL°p _ôRL ¡WaeLs úNok§ÚlTRôÏm. CûYúV JÚYÚûPV G§oLôX YôrdûL ¨ûXLû[ Ï±l©Ó¡u\]. £X úVôLeLs, ¡WaeLs NôRôWQ Øû\«p úNok§ÚlTRôÛm, Ut\ £X úVôLeLs AúR ¡WaeLs ©WjúVLUô] vRô] AûUl×LÞPu á¥«ÚlTRôÛm HtTÓ¡u\]. ×WôQ ú_ô§P èpLs ètßdÏ úUtThP ¡Wa úNodûLLû[Ùm ARu TXuLû[Ùm ®Y¬d¡u\]. £XYtû\ SpX úVôLeL[ôLÜm Utßm £XYtû\ ¾V úVôLeL[ôLÜm ùR¬®d¡u\].
+
+EeLÞûPV _ôRLj§p LôQlTÓ¡u\ Ød¡VUô] úVôLeLs ¸úZ RWlThÓs[Õ. AYt±u ÑÚdLUô] TXuLÞm Ï±l©PlThÓs[].
+
+{header}
+{mgn}{f8}NN Uaô úVôLm{blk}{f7}
+{endheader}
+
+úVôLm : N² úLk§Wj§p EfNÅh¥p CÚkRôp
+
+{poke}{f7}
+^^UaôúVôLj§u TX]ôL CWôÔYm, LôYpÕû\, NhPCXôLô ØR­VYt±p Ej§úVôLm ùTßÅoLs. ¿eLs GkR ¨ûX«p CÚkRôÛm BiûU ùRô²dÏm. AWNúRôWûQ EPu ©\kRRôÏm. EeLÞdÏ AúSL T¦VôhLÞm, ER®VôhLÞm CÚlTôoLs. EeL[Õ BÙs GÝTÕ YVÕdÏ úU­ÚdÏm. £XNUVeL°p _]eLs EeLû[ ùLhPYo Gußm, EeLs SPY¥dûL úLs®dÏ±Vô]Õ Gußm LÚÕYôoLs. ¿eLs JÚ NeLj§u RûXYWôL CÚlÀoLs. ¿eLs R]YkRoLÞûPV NeLj§p AeLm Y¡lÀoLs.
+
+{header}
+{mgn}{f8}Ñ]Tô úVôLm{blk}{f7}
+{endheader}
+
+úVôLm : ã¬Vû] R®ojÕ Ut\ ¡WaeLs Nk§WàdÏ CWiPôªPj§p CÚkRôp.
+
+{poke}{f7}
+_ôRLj§p Nk§WWô£«­ÚkÕ 2-YÕ CPm ùNqYôn, ×Ru, ®VôZu, Ñd¡Wu ApXÕ N² R²VôLúYô ApXÕ úNokúRô CÚkRôp Ñ]TúVôLm EiPô¡\Õ. Ñ]TúVôLj§p ©\kR BPYoLs CVtûLVôL Bv§Ls ªdLYWôÙm, ×j§dáoûUÙm ×LÝm EûPVYWôÙm CÚlTôoLs. TôoûY«Ûm NlRj§]ôÛm EiPôÏm NkúRô`eLû[ AàT®lTôoLs. ùTôÕYôL RuØVt£Vôp EVoYôoLs.
+
+{header}
+{mgn}{f8}NRô NgNôW úVôLm{blk}{f7}
+{endheader}
+
+úVôLm : Xd¡]ô§T§ NW Wô£«p CÚlTÕ
+
+{poke}{f7}
+EeLÞdÏ A§L AûXfNp CÚdÏm. úYûXÙm, A§LlT¥Vô] TVQeLs EûPVRôL CÚdÏm. ¿eLs ¨fNVUô] ùR°Yô] Ï±dúLôÞPu CpXô®hPôp JÚ SôúPô¥ úTôX YôZúYi¥«ÚdÏm.
+
+{header}
+{mgn}{f8}UôjÚ êXR] úVôLm{blk}{f7}
+{endheader}
+
+úVôLm : CWiPôm ÅhÓ A§T§ SôuLôm ÅhÓ A§T§ÙPu úNok§ÚkRôp.
+
+{poke}{f7}
+EeLÞûPV RôVôÚûPV B£«]ôÛm, ER®«]ôÛm A§L TQm EeLû[ YkÕ úNÚm.
+
+{PageBreak}
+
+{"}{blu}{f8}TXuLs{f7}{gry}
+{=}{l0}{blk}
+{header}
+{mgn}{f8}ùTVo{f1} : {mgn}ram {f0}[{f7}Bi{f0}]{f7}{blk}
+{endheader}
+
+{poke}
+{^}c
+
+ØuàûW
+{=}
+EeL[Õ SûPØû\ YôrdûL«p ¡WLeL°u êXm HtTÓm Tô§l×dLû[l Tt±V ®YWeLs ¸úZ RWlThÓs[]. £X ®`VeLs §ÚmTj §ÚmT YWXôm. úUÛm £X ®`VeLs úYß JÚ CPj§p á\lThÓs[RtÏ ØWiThPRôL CÚdLXôm. CûYùVpXôm, ®R®R ¡WLeL°u RuûULû[Ùm, ¡WLeL°ûPúV Es[ Tô§l×dLû[Ùm ùTôßjÕ CÚdÏm.
+{header}
+
+{mgn}{f8}©\kR ShNj§Wm{f1} : {mgn}{f8}éNm{blk}
+{endheader}
+
+{poke}{f7}
+EeLs ù_uU ShNj§Wm éNm. ¿eLs AûU§Vô]Yo, U¡rf£Vô]Yo. EeL[Õ A±Ü ÖhTj§\û] ØÝYÕm ETúVô¡jRôp ¿eLs £\kR Lt\±OWôn CÚlÀoLs. ¿eLs Ut\YoLs G§oTôolTûR ®P AYoLÞdÏ A§Lm ER®Vôn CÚlÀoLs. GkR NkRolTeL°Ûm ùYhLlTP Uôh¼oLs. ¨ûXVô] CXdÏLû[ GlúTôÕm ¿eLs ùLôi¥ÚdL úYiÓm. ¿eLs úRôp®Lû[ Htßd ùLôs[ Uôh¼oLs. B]ôp ùRôPokÕ LÓûUVôL EûZlÀoLs. ùTÚmTôÛm, EeLs ÏZkûRl TÚYj§p HtThP AàTYeLs LôWQUôL, ¿eLs GlúTôÕm ÑRk§WUôLúY ùNVpTÓÅoLs. RôeLs Lt\ Øû\Vô] Lp®«u LôWQUôL, RôeLs ùTt\ SXuLû[d LPkÕ, ¿eLs EeL[Õ A±ûY ®Új§ ùNnÅoLs. ¿eLs ©\¬Pm ªL C²ûUVôLl úTÑÅoLs. RôeLs ReLû[l Tt±úV GlúTôÕm GiÔ¡\Yo Guß UdLs ReLû[l Tt± GiÔYôoLs. RôeLs, ReL[Õ EiûUVô] ¨ûXûVlTt±l ©\¬Pm U]§p T§Ùm YiQm ùNnYRtÏ EiûUVô] ØVt£Ls GÓjÕd ùLôsÞUôß BúXôNû] á\lTÓ¡\Õ. CmØVt£Vô]Õ ©\ÚdÏj ReLú[ôÓ Es[ E\ÜLû[ C²ûUVôdÏYRtÏ ERÜm.
+
+éN ShNj§Wj§u ªÚLm, ®Úbm, LQm, úVô² úTôu\ûY ©uYÚUôß
+
+ªÚLm þ BÓ, ®Úbm þ AWÑ, LQm þ úRYm, úVô² þ Bi T· þ ¿oLôLm, éRm þ YôÙ, úRYûR þ VUu, SôUm þ a÷,úa,úaô,P
+
+éN ShNj§Wj§p ©\kÕs[ ¿eLs Nôv§W ®§L°uT¥ úUúX Ï±l©hÓs[ EeLs T· ªÚLeLÞdÏ ÕuTm ®û[®dLôUÛm, LY]UôL TôÕLôjÕm YkRôp ¿iP BÙÞm, NLX ùNüTôd¡VeLÞm ¨û\Ü\ ùTßÅoLs.
+{header}
+
+{mgn}{f8}§§{f1} : {mgn}{f8}ÕYôR£{blk}
+{endheader}
+
+{poke}{f7}
+ÕYôR£ §§«p ©\kR ¿eLs Õ¦Üs[YWôLÜm, £\kR ùNpYôdÏ EûPVYWôLÜm §LrÅo. SiToL°u AuûTÙm, BRWûYÙm ùTßÅoLs. ùNpYjûR®P U²Rô©Uô]j§p A§L SôhPm EûPVYWôÅo.
+{header}
+
+{mgn}{f8}¨j§V úVôLm{f1} : {mgn}{f8}T¬L{blk}
+{endheader}
+
+{poke}{f7}
+T¬LúVôLj§p ©\kR ¿eLs úTfÑj §\àPu YôRô¥ G§¬Lû[ ùYpÛm §\ûUûVl ùTt\Yo. YôrdûL Øuú]t\j§u WL£VØm CÕ Gu\ôÛm, YWm× Á\ô§ÚlTÕ SXm. C[ûUlTÚYm ØRp WôÔYm, úTôodLÚ®Ls GuT]Yt±p SôhPØiPôÏm. LhÓlTôPt\, Øû\úLPô] NfNWÜLû[ EiPôdÏm CVpûTd ûL®P úYi¥VÕ AY£Vm. EPp EVWm Ntú\ Ïû\Yô«ÚdÏm.
+{header}
+
+{mgn}{f8}Xd¡]m{f1} : {f8}ULWm{blk}
+{endheader}
+
+{poke}{f7}
+ULW Wô£«p E§j§ÚlTRôp ¿eLs ¡ûPjRûRd ùLôiÓ ¨û\Ü LôÔm U]lTdÏYm Es[Yo. ùU­kR ùS¥V NÃWj úRôt\ØûPVYo. RdL NUVj§p ©\ûW HUôt\j RVeL Uôh¼oLs. CWdLØm, LpùSgNØm JÚeúL AûUkRYo G]d á\Xôm. ©\ÚdÏ ERY Øu YÚÅoLs. é, TZeLs ØR­V ®YNôVj§Ûm, Ri½o NmTkRlThP Õû\L°Ûm XôTm ¡ûPdÏm. ®ÚkúRômT­p £\kRYo. £\kR UdLs ùNpYeL°]ôp ùTôÚs §Wh¥ B]kRm AûPÅoLs. ùNpYôdÏm ùTÚ¡«ÚdÏm. ùTiL°]ôp SuûU EiPôÏm. BÓUôÓLû[l úTôt± Y[olTYo. A¬V YWúYt×, U¬VôûR úTôu\ CuT¨ûXLû[ AàT®lÀoLs. ¬`TWô£ 5-Bm ÅPôL AûUk§ÚlTRôp U]eLYÚm Suù]±L°p U]m Fu±, ùTi ÏZkûRLû[l ùTtß Cu×ßÅoLs.
+
+8-Bm CPm £mUWô£VôL AûUk§ÚlTRôp Y]®XeÏLs, ®`léf£Ls AiPôUp TôÕLôjÕdùLôs[ úYiÓm. LY]d Ïû\Yôp ùTôÚs L[Ü úTôÏm ãr¨ûXLs EÚYôLXôm. LPÜsTd§ Ïû\YôLd LôQlTÓm. G§Wô°«u U]U±kÕ úTÑYRôp, Lh£ UôßYRôLl TXÚm NkúR¡d ÏmT¥ SPkÕ ùLôsÅoLs. ãrf£VôÛm, C²ûUVôLl úTÑm RuûUVôÛm GpúXôûWÙm Ru YNlTÓjÕm RuûU LôQlTÓm. úL°dûLl ©¬Vo. 12m ÅÓ RàÑ Wô£VôL AûUVl ùTt±ÚlTRôp SiToLû[Ùm, TeLô°Lû[Ùm úRokùRÓdÏm ùTôÝÕ LY]m úRûY; CpXô®¥p YgNû]dÏm, HUôt\j§tÏm B[ôL úYi¥ YÚm. AWNôeL ®úWôRØm, úUX§Lô¬L°u ùRôpûXÙm EÚYôÏm.
+
+{poke}{f7}
+ReLÞûPV Xd]Uô]Õ, ARu CPj§u ØRXôYÕ §úWdLôQj§p AûUkÕs[Rôp, ëL A¥lTûP«Xô] ®VôTôWeL°p RôeLs ùYt± ùTßÅoLs. ReL°u ùTÚm ùNpYUô]Õ, ReL[Õ R²lThP §\ûU«u LôWQUôL AûUÙm. ReL°Pj§p TX ùT¬V §hPeLs CÚdÏm. B]ôp AûYùVpXôm SûPØû\«p Nôj§VUô]ûYVôLÜm, ùYt± ùT\j RdL ®Rj§Ûm CÚdL úYiÓm GuT§pûX. A§LlT¥Vô] Øu _ôd¡WûRúVôÓ CÚeLs. N¬Vô] LhÓlTô¥pXôUp GpúXôûWÙm SmTô¾oLs. ®VôTôWeL°p RôeLs ùYt± ùTßÅoLs. ùTôÕUdLú[ôÓ ùRôPo× ùLôs[jRdL ®RUô] §hPeLû[Ùm, ùRô¯pLû[Ùm ØVt£dL úYiÓm. ÑWeLj ùRô¯p, ®ûXÙVokR BTWQd LtLs, T¥LeLs CûY R®W ùT¬V ùRô¯tNôûXLs NmTkRUô]Yt±p ØRÄÓ ùNnYÕ, ReLÞdÏf NôRLUôL AûUÙm. ReLs Yôr®p 20,21,30,31,40,45,50 B¡VûY ªL Ød¡VUô] BiÓLs BÏm.
+{header}
+
+{s}{mgn}{f8}TôYô§T§Ls{r}
+{endheader}
+
+EeLs CXd¡]ô§T§ LoUvRô]m G]lTÓm TjRôªpXj§p CÚlTRu LôWQUôL, AuTô] Rôn RkûR«u TôNm ReLÞdÏ RûP«u± ¡hÓm. B]ôp ÏZkûRlTÚYj§p EeL°u ùTtú\ôoLs ªÏkR LhÓlTôÓLÞPàm Utßm LY]jÕPàm BúXôNû]Lû[ A°lTûR, ¿eLs ÑûUVôL EQWdáÓm. ARu LôWQUôL EeL[Õ YôrdûL SpX Øû\«p AûUÙm. ¿eLs LhÓlTôh¥p LôhÓm DÓTôÓ LôWQUôL, êjRYoL°PªÚkÕ EeLÞdÏ úTÚm ×LÝm ¡hÓm. ÑVUôL ùTôÚs DhÓm Yônl× ¨fNVm EeLÞdÏ EiÓ. TX YûLL°Ûm ùNpYm EeLÞdÏ Ï®Ùm GuTûR ¨fNVUôL G§oTôodLXôm.
+
+EeL[Õ CWiPôm TôYô§T§ EeL[Õ TjRôm CpXj§p CÚlTRu LôWQUôL, ¿eLs Ut\YoL°u úTôtßRÛdÏ E¬VYo BÅoLs. SpX TZdLYZdLeLs Utßm TXRWlThP Õû\L°p BoYm LôhÓÅoLs. BûNLû[ J¯lTRtÏ ¿eLs L¥]UôL ÑV LhÓlTôÓ úTQ úYiÓm. GkR®R ®]ôÜm Cu± Au× GuTÕ Lôi©dLúYi¥V Utßm Lôi©dLlTPúYi¥V Ju\ôÏm GuTÕ EeL[Õ LÚjÕ. TX®R ùRô¯pL°p ¿eLs DÓTÓÅoLs. ®YNôVm, ®VôTôWm Utßm RjÕY úTôRû]Ls úTôu\ûY C§p APeÏm. CRu êXm ùTôÚ[ôRôW úUmTôÓ AûPÅoLs.
+
+
+
+
+
+
+
+{header}
+
+{poke}{mgn}{f8}
+ùNpYm, Lp® ØR­VûY
+{endheader}
+
+{poke}{blk}{f7}
+_ôRLj§p SôXôªPm ùNpYm, Lp®, RôVôo, YôL]eLs ØR­VûYûVd Ï±d¡\Õ.
+
+{poke}{f7}
+_ôRLj§p SôXôU§Tu 10-Bm CPj§p LôQlTÓ¡\Õ. AW£V­p ùYt± LôiÀoLs. WNôV]m NmTkRlThPûYL°p BoYm LôhÓÅoLs. G§¬Lû[ ùYt±ùLôsYÕ ReLÞdÏd LxPUôL CWôÕ. ¿eLs AZÏPu CÚlTRôp GpúXôWôÛm LYWlTÓÅoLs. EeLs StùTVûW A§Lm RôU§dLôUp TôÕLôjÕd ùLôsYÕ SpXÕ.
+
+{poke}{f7}
+ùNqYôn SôXôm CPj§u A§T]ôûLVôp. RôeLs KÚ úTôoÅWàdÏ E¬V U] Eß§Ùm, SûPØû\dÏ Ht##\Yôß NUúVô£R ×j§ EûPVYWôLÜmm YôrÅoLs. GkRj ùRô¯p ùNnRôÛm AûR ªÏkR DÓTôhÓPu ùNnÅoLs. T¥lûT®P, SûPØû\«p YôrdûL«p £\kÕ ®[eÏÅoLs.
+{header}
+
+{poke}{mgn}{f8}
+UQ YôrdûL
+{endheader}
+
+{poke}{blk}{f7}
+UQYôrdûL«u TpúYß AmNeLs EeLs _ôRLj§u HZômTôYjRôp ùNVXôt\lTÓ¡u\].
+
+{poke}{f7}
+EeLs HZôU§Tu 7-Ûs[Rôp, £ßY]ôL CÚdÏmúTôÕm, ©\Ïm ÑßÑßlTôLÜm, TXm YônkRYWôLÜm CÚlÀoLs. EeLû[l TôojR Uôj§Wj§úXúV ùTiLs UVe¡ ®ÓYôoLs. EeL°Pm ùSÚe¡l TZÏm ùTiLs, ¿eLs ùY°júRôt\j§p UhÓUpXôUp U]§Ûm SpXYWôL CÚd¡ÈoLs G] GiÔYôoLs. EeLÞPu ®VôTôWm ùNnTYoLs, EeLs ÏQeLû[d LiÓ UVe¡, EeL[ôp LYWlTÓYo. TûZV ÏÓmTj§­ÚkÕ JÚ ùTiûQ UQØ¥lÀoLs. AYÚPu SpX NkúRô`Uô] YôrdûL SPjÕÅoLs. ¿eLs ÅhÓjRûXYWôL CÚd¡ÈoLs G] U]§tÏsú[úV ùTÚûUÙm, NkúRô`Øm ùLôsÅoLs. EeLs Uû]®ûV U]m§\kÕ ×LZUôh¼oLs. ©Wj§úVLf ãr¨ûX«p Rôu EeLs §ÚUQm SPdÏm. AÕ CWiPôYÕ §ÚUQUôLÜm CÚdLXôm. ¿eLs NôUoj§VNô­VôLÜm, L¥] EûZlTô°VôLÜm CÚlÀoLs. AW£Vp NmTkRlThPûYL°p EeLÞdÏ ªL ùSÚe¡V ùRôPo©ÚdÏm. ¿eLs BoYØPu GÓjR ùRô¯­p ùYt±LWUôL YÚÅoLs. UdLÞûPV JjÕûZl×Pu SpX JÚ ¨ûXdÏ YÚÅoLs. RûXdÏm, LiLÞdÏm ETôûRLs YWXôm. C[ûU«úXúV LiQô¥ ETúVô¡dL úYi¥YÚm.
+
+{poke}{f7}
+YPdÏ§ûN«­ÚkÕ YÚTYo EeLÞdÏ £\kR Uû]®VôL AûUV Yônl×s[Õ.
+
+{poke}{f7}
+Nk§Wu HZôYÕ Åh¥p CÚd¡\ôo. Uû]®«u Au×m LY²l×m ØÝûUVôLd ¡ûPdLúYiÓm Gu\ GiQm ùLôi¥ÚlÀoLs. úRûYVt\ NUVeL°p ùTô\ôûUÙm ùLhP GiQeLû[Ùm APd¡ûYdL ØVt£ GÓdLúYiÓm. £±VYV§p ¿eLs G§oTôojR A[®tÏ Rô«u Au×m, AWYûQl×m ¡ûPdLlùT\ôÕ. ¿eLs T¯¾olTYWôLÜm, ùNXYô°VôLÜm CÚkRôp BfN¬VlTÓYRt¡pûX. úSWm YÚmúTôÕ §Új§dùLôs[ GÓdLúYiÓm.
+
+{poke}{f7}
+Ñd¡Wu 7-YÕ Åh¥­ÚlTRôp, ¿eLs úRô¯Lú[ôÓ ùSÚe¡V ùRôPo× ûYjÕdùLôsÞm §\ûU EiÓ. ¿eLs ¾ÅW EQof£ÙûPVYWôLÜm, Au× ¨û\kRYWôLÜm CÚlÀoLs. UÕ®túLô úTôûR UÚk§túLô JÚ Øû\ A¥ûUVô¡®hPôp A§­ÚkÕ ÁsYÕ LxPUôL CÚdÏm. CkR ùLô¥V TZdLj§tÏ A¥ûUVôLôUp CÚdL Uû]®«u ER® úYiÓm.
+
+{poke}{f7}
+Ñd¡Wu CRW ¡WLeL[ôp Tô§dLlThÓs[Rôp AqYlúTôÕ ÏÓmT YôrdûL«p NX]eLs HtTÓm. ùYt±LWUô] UQYôrdûLûV ¨fNVlTÓj§dùLôs[ ¿eLs CÚYÚm _ôd¡WûRVôL CÚdLúYiÓm.
+{header}
+
+{poke}{mgn}{f8}
+¨§, Øuú]t\m, Tôd¡Vm ØR­VûY
+{endheader}
+
+{poke}{blk}{f7}
+JuTRôm A§Tu 8-YÕ CPj§p LôQlTÓ¡\Õ. CR] TX]ôL EeLÞdÏ SpX A§oxPm EiPôÏm. EeLs RkûR«u AuûT ùTßYÕ EeLÞdÏd L¥]UôL CÚdÏm.
+
+{poke}{f7}
+9-m CPm ¾ûU ùNnÙm ¡WLeL[ôp ãZlThÓs[Rôp Ut\ ¡WLeL[ôp HtTÓm SpX TXuLû[ ØÝYÕm AàT®dL Ø¥VôUp úTô¡\Õ.
+
+{poke}{f7}
+TfûN ¨\m EeLÞdÏ A§oxPm RÚm ¨\UôÏm. EVokR U²RoLû[f Nk§dÏm ùTôÝÕm, úTh¥dÏfùNpÛm ùTôÝÕm TfûN ¨\m ùLôiP BûPLû[ A¦kÕ ùNpÛeLs. UWLRm EeLs Lp®dÏ SpX A§oxPm ùLôÓdÏm. NhPm, ®VôTôWm B¡V Õû\L°p EVokR ¨ûXdÏd ùLôiÓ®Óm.
+{header}
+
+{poke}{mgn}{f8}
+úYß úYß TôYeL°p ¡WaeL°u ¨ûX:
+{endheader}
+
+{poke}{blk}{f7}
+¡WaeL°u TôY ¨ûXLû[ ùTôßjÕ EeLÞûPV ÏQô§NVeLs úLô¥hÓ LôhPlTÓ¡u\].
+
+{poke}{f7}
+ã¬Vu GhPôm TôYj§p CÚlTRôp, GpXô®RUô] G_Uô]oLû[Ùm, êjRYoLû[Ùm §Úl§lTÓjÕYÕ GuTÕ EeLÞdÏ Ø¥VôRÕ. ùLôkR°lTô] YôrûL EeLÞdÏ CÚdLXôm. £\lTô] LiQûUl× ùRuTÓ¡\Õ.
+
+{poke}{f7}
+×Ru GhPôm TôYj§p CÚlTRôp, ¿eLs ùUfNjRdLYWôÙm, Ø¥ÜLû[ ¨û\úYt\jRdL EVokR TR®Lû[ Y¡dL §\ûU TûPjRYo GuTûR Lôi©lÀoLs. ÏÓmTj§tÏ ùL[WYm úR¥d ùLôÓlÀoLs. A¥dL¥ HtTÓm ºR[jRôp Tô§l× AûPÅoLs. ¾odLôÙs.
+
+{poke}{f7}
+ùNqYôn TjRôm TôYj§p CÚlTRôp, ¿eLs ÑßÑßlTô] ùNVp§\u TûPjRYo. Yt\ôR Nd§Ùm EjúYLØm EûPVYo. EVokR ùNVp§\u TûPjRYWôn CÚl©àm £XNUVeL°p GpXô úLôQeL°­ÚkÕm BWônkR±VôÕ C]m ×¬VôR £XYtû\ úR¥j§¬ÅoLs. ØuúLôTm EûPVYWôn CÚlTRtÏ Yônl×iÓ.
+
+{poke}{f7}
+ÏÚ Ik§p CÚlTRôp, EeLs ÏZkûRLsTôp Au×m, EVokR CXd¡V BoYØm, £kRû]Ùm ùLôi¥ÚlÀoLs. ¿eLs JÚ SpX AûUfNWôLúYô, ×úWô¡RWôLúYô, ¿§T§VôLúYô, úTfÑYôojûR SPjÕTYWôLúYô CÚlÀoLs.
+
+{poke}{f7}
+N² TjRôm TôYj§p CÚlTRôp, Jl×úSôdÏûL«p, YôrdûL«u BWmTLhPj§p EVokR¨ûX«p CÚlÀoLs. ©\o ùTô\ôûUTPjRdL ¨ûXûV AûPVXôm. Ck¨ûXûV RdL ûYjÕd ùLôs[, ¿eLs úUtdùLôs[ úYi¥V SPY¥dûLLû[l Tt± SuÏ A±k§ÚdL úYiÓm.
+
+{poke}{f7}
+WôÏ T§ù]ôu\ôm TôYj§p CÚlTRôp, ¿eLs ùNpYkRWôLÜm, U¡rf£LWUôÙm, BúWôd¡VUôÙm CÚlÀoLs. EeLÞdÏ LôÕ NmTkRUô] ©Wf£û]Ls EiPôLXôm. SpX ÑTôYm EûPVYo. EeLs RLlT]ô¬u BúWôdL Tô§dLlTPXôm.
+
+{poke}{f7}
+Ik§p úLÕ CÚlTRôp, EeLÞûPV £\l× Uú]ôNd§Ls Y[of£Ïu± CÚdÏm. £X úSWeL°p ¿eLs v§WRuûUVt\YWôn CÚlÀoLs.
+{PageBreak}
+
+{"}{blu}{f8}RNô ×d§ TXuLs{f7}{gry}
+{=}{l0}{blk}
+{poke}{blk}{f7}
+Ck§V _ôRLd L¦l©p, RNô AûUlTô]Õ, EeLs YôrdûLûV TX ¡WLeL°u Tô§l×dÏ EhThP TÏ§Ls, ETTÏ§L[ôLl ©¬d¡\Õ.
+
+NôRôWQUôL G§oTôodLdá¥V TXôTXuLs ¸úZ ùLôÓdLlThÓs[]. TXôTXuL°u Nd§. ¡WLeL°u ¨ûXûVÙm SPUôhPjûRÙm ùTôßjÕ úYßTÓm. CûR N¬VôL A±YRtÏ úUÛm BrkR BWônf£ úRûY.
+
+£ß ÏZkûRLÞdÏl ùTôÚkRôR TXuLs, AYoL°u ùTtú\ôoLÞdÏl ùTôÚkÕYRôLd ùLôs[ úYiÓm. AÕúTôp, LQYu Uû]®«u TXuLû[Ùm AûYLÞdÏ Ht\ÕúTôX GÓjÕd ùLôs[ úYiÓm.
+
+(RNô NUVeLÞdÏ, RNô AhPYûQûVl TôodLÜm. TXuLs, ClùTôÝÕ SPdÏm RûN«­ÚkÕ ùLôÓdLlTh¥Úd¡u\]. ^lRYoLj§p, ¡WLeL°u ¨ûXûVl ùTôßjÕ, AR]Ru Nd§ LQd¡PlThÓs[Õ.)
+{header}
+
+{poke}{mgn}{f8}
+N²RûN
+{endheader}
+
+{poke}{blk}{f7}
+EûZl©u TXû] RhPôUp ùLôÓdLdá¥V U§ë¡Vô] c N² TLYô²u Bt\ÛûPV §ûN«û] Nk§dÏm Eß§TûPjR BiUL]ôL RôeLs ®[eÏ¡uÈoLs. N²TLYôuRôu, ÕuTm, UWQm, Eßl× ØPeLp, úSônLs, U]f NgNXeLs, úSônLs Utßm ©\ Årf£LÞdÏm LôWQUô]Yo. CkRd LôXj§p, EVoÜ, RôrÜ, NkúRô`m, LYûXLs B¡VYt±p E¬V TeÏLû[ G§oúSôdL úYi¥«ÚdÏm. CkRd LôXj§p NmTô§dÏm TQm, AWNôeLm, ApXÕ A§LôWj§p Es[YoLs êXUôLd ¡ûPdÏm. EeLÞdÏ ERÜTYoLs, HYXô[oLs B¡V TpúYß ÏÝ®]o EeLû[ GlúTôÕm ãrkÕ CÚlTôoLs. XôTeLû[l ùTßÅoLs. EeLs Uû]®, UdLs B¡úVôo NmTkRlThP ®Rj§p, CkRd LôXm EeLÞdÏ ªLf £\kRRôL CÚdLôÕ. T§XôL, AYoL[ôp ¿eLs TX ©Wf£û]Lû[ G§oúSôdL úYi¥«ÚdÏm. CkRd LôXj§p EeLs EP­p LôpLs, ûLLs B¡VûYL°p EiPôÏm êhÓ Y­Ls LôWQUôL EP­u BúWôd¡Vm Tô§dLlTÓm.
+
+{poke}{f7}
+NNUaôúVôLm## Es[R]ôp, G§oTôodLôR £X SpX Lô¬VeLs SPdÏm.
+
+{poke}{f7}
+_ôRLj§p N² ¡WLm JÚ SpX YÛYô] CPjûRl ùTt±ÚlTRôp, CkR RNôLôXj§p ReL°u L¥]Uô] EûZl©u LôWQUôLj ReLs úNûY«p SpX EVoÜ AûPÅoLs. RôeLs ®YNôV EtTj§ Utßm CRW EtTj§Ls êXm XôTm ùTßÅoLs. ReL°u êRôûRVoL°u ùNôjÕdLû[l ùTtßdùLôs[ SpX Yônl×Ls EiÓ.
+
+{poke}{f7}
+¡Wa¨ûX«p N²«u ¨ûX §Úl§LWUpX.
+
+{poke}{f7}
+FhPfNjÕ ªdL BLôW YN§Ls CuûU«]ôúXô, ApXÕ HrûU«]ôúXô, RôeLs ¿§Uu\ YZdÏLû[úVô ApXÕ úSônLû[úVô AàT®dL úYi¥«ÚdÏm. Ø§VYoLÞPu NiûPfNfNWÜLÞm U]jRôeLpLÞm, HtTÓm. ÏÓmTj§úXô ApXÕ ReLÞdÏ ªL ùSÚe¡VYoLs ÏÓmTj §úXô UWQeLs NmT®lTûR G§oTôodLXôm. ùUôjRj§p ÕuTeLû[ G§oTôodL úYi¥«ÚdÏm. Øuú]t\j§tLô] EeLs TôûR«p TX®Rd LxPeLÞm, RûPLÞm HtTP Yônl×Ls EiÓ.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  8-04-2016  >>  18-05-2017 ){f7}
+{endheader}
+
+{poke}{f7}
+N² RûN«p ùNqYôn ×j§«p ©WVôQeLs A§LUôÏm. Ts° ¨oYô¡Ls HtTÓjÕm Lp® NmTkRUô] ©WVôQeLÞm, ùTtú\ôoLs HtTôÓ ùNnÙm ¿iP çW ©WVôQeL°Ûm TeÏùLôsÅoLs. £ßYV§p çeLdá¥V ®Vô§«u A±Ï±Lû[ GdLôWQjûRd ùLôiÓm AXh£Vl TÓjRdáPôÕ. CdLôXLhPj§u Ø¥Ü SuûU TVlTRôL CÚdÏm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 18-05-2017  >>  24-03-2020 ){f7}
+{endheader}
+
+{poke}{f7}
+N² RûN«p WôÏ ×j§«p Ï¯Lú[ô, ¡Qt±úXô RÓUô± ®Ým Nôj§VdáßLs ùRuTÓ¡\Õ. ®û[VôÓmúTôÕm ©WVôQm ùNnÙmúTôÕm Ut\T¥ úYûX ùNnÙmúTôÕm _ôd¡WûRVôL CÚdLúYiÓm. £X NLUôQYoLs EeLs Tôp ùTô\ôûUÙm G§ol×m ùLôi¥Úd¡\ôoLs. AYoLû[l Tt± LYûX ùLôs[ úYiPôm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 24-03-2020  >>   5-10-2022 ){f7}
+{endheader}
+
+{poke}{f7}
+N² RûN«p ®VôZ ×j§dLôXj§p SuûULs EiÓ. ÅhÓlTôPjûR Ø¥jÕdùLôÓdLÜm Ts°dÏ ùNuß YW ÕûQVôLÜm ©\o EeLÞdÏ ER® ×¬YôoLs. ùTôÕYôL GpXôúU Su\ôL AûUÙm. YÏl× EVoÜ §\ûUûV Jl×dùLôs[p úTôh¥, TÃhûNL°Ûm ùYt± LôQlTÓ¡\Õ. §ÚUQ ¨Lrf£L°p TeÏ ùLôsÅoLs.
+{header}
+
+{poke}{mgn}{f8}
+×RuRûN
+{endheader}
+
+{poke}{blk}{f7}
+A±ÜéoYUôL ùNVpThÓ ùRô¯p Utßm T¦Ls BtßYRu êXUôL ùTôÚ[ôRôVm AûPVúYiÓm Gu\ Ï±dúLôÞs[ JÚ BiUL]ôL RôeLs ®[e¡ CkR ×Ru Uaô §ûNûV RôeLs Nk##§d¡uÈoLs. ×Ru RûN LôXj§p ùTôÕYôL, YV§p êjRYoLÞm, ReLÞdÏ úUúX T¦×¬TYoLÞm ReLÞdÏ ªÏkR ER® ùNnTYoL[ôL CÚlTôoLs. ¨Xm, ªÚLeLs, T\ûYLs, SpX SiToLs B¡VYoLs êXm U]U¡rf£ ¡ûPdÏm. RôeLs úUt ùLôsÞm Td§éoYUô] Lô¬VeL°]ôÛm, ùNnÙm TX®R SuùLôûP ER®L°]ôÛm, U]§Úl§Ùm, Yôr®p EVoÜm EiPôÏm. CkRd LôXj§Ûm, EPp SXm NmTkRUô] £dLpLÞm EiPôÏm. A±Ü éoYUô] Y[of£LÞm CXd¡V NmTkRUô] ØVt£LÞm HtTP Yônl×iÓ.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  5-10-2022  >>   3-03-2025 ){f7}
+{endheader}
+
+{poke}{f7}
+×R Uaô RûN ×R ×j§ SûPùTßm LôXm EeLs YVÕûPV NL UôQYoL°p## ¿eLs GÓjÕdLôhPôL úTôt\lTÓÅoLs. EeLs ×j§Nô­jR]Øm U] KoûUÙm Y[of£ùTßm. Ts° UôQY UôQ®L°ûPúV áhÓ ùNVpLÞdÏ DodLlTÓÅoLs. ùTôÕ A±Ü Y[of£ LôQ Ø¥¡\Õ. B£¬VoLs Utßm êjR UôQYoLú[ôÓm ùSÚe¡V Sh×\Ü ùLôsÅoLs. ÏÓmTYhPôWj§p §ÚUQ¨Lrf£Ls SûPùTßm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  3-03-2025  >>  28-02-2026 ){f7}
+{endheader}
+
+{poke}{f7}
+×Ru RûN«p úLÕ ×j§«p U]fúNôoÜ ¨XÜm. ÕdLWUô] LûRLs, TôhÓ EeLÞdÏ ùTôÚkÕm. ¨û]lTRtÏ Uô\ôL TX ¨Lrf£Ls úSÚm. CÚl©àm ¿eLs GÕùYpXôm SPkÕ ®ÓúUô Guß TVlTÓ¡ÈoLú[ô AûYùVpXôúU SPkÕ®PôÕ. EeLs ùRôiûP NlRj§Ûm EPp úRôt\j§Ûm Uôt\ØiPôLXôm. A[®tÏ ªg£ úNôoÜPu LôQlTÓÅoLs. UÚjÕY T¬úNôRû] ùNnÕùLôsYÕ SXm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 28-02-2026  >>  29-12-2028 ){f7}
+{endheader}
+
+{poke}{f7}
+×RRûN«p Ñd¡W ×j§«p GpXôúU SpX T¥VôL SPkÕ Øuú]t\m AûPÙm. EeLs R²lThP §\ûU Y[of£ ùTßm. EPu ¿eLs BúUô§d##LlTÓÅoLs. ùTtú\ôoLs EeLs Uú]ôY[of£ûVd LiÓ U¡rYôoLs. Ut\YoLÞdÏ ERÜm GiQm EeLÞdÏ EÚYôÏm. Es AXeLôWeLs EeLû[jùRôÓm. UeL[LWUô] ¨Lrf£L°Ûm CRW ®ZôdL°Ûm LXkÕùLôsÞm Yônl× EiPôÏm. ØuûT®P A§LUô] A[®p ¿eLs AûPVô[m LiÓ ùLôs[lTÓÅoLs.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 29-12-2028  >>   4-11-2029 ){f7}
+{endheader}
+
+{poke}{f7}
+×Ru RûN«p ã¬V ×j§«p EeLs £kRû]Lû[ JÚûUlTÓj§]ôp CXh£VjûR AûPV Ø¥Ùm. ¿eLs ØÝ BoYm ùLôiP ®`VeL°p NôRLUô] T§pLû[ AûPÅoLs. CÚl©àm EeLs AmUôuúNnLÞd Ïm úRôZoLÞdÏm £\kR úSWªpûX G]Xôm. NêL ®ZôdL°p ÑßÑßlTôL TeÏ ùLôsÅoLs. ©WVôQm U¡rf£ RWdá¥VRôL AûUÙm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  4-11-2029  >>   6-04-2031 ){f7}
+{endheader}
+
+{poke}{f7}
+×Ru RûN«p Nk§W ×j§«p NÚUúSônLs HtTPXôm. EeLs EûPLs ûLVôÞm NôUôuLs ØR­VYtû\ ÑjRUôL ûYjÕdùLôs[ A§L LY]m ùNÛjR úYiÓm. Th£Ls, ©Wô¦Ls EeLû[ DodÏm. B]ôp, AûYLú[ôÓ NoY_ôd¡WûRVôL CpXô®¥p BTjÕ HtTPdáÓm. CúRúTôp YôL]eLs ®`Vj§Ûm LY]m úRûY. Li ©WfNû]Ls ùRuTÓm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  6-04-2031  >>   2-04-2032 ){f7}
+{endheader}
+
+{poke}{f7}
+×RRûN ùNqYôn ×j§ LôXj§p RûX NmTkRUô] ©WfNû]Ls ùTôÕYôL EÚYôLXôm. Ø¥ E§ÚRp, RûXY­ ØR­V] LYûXûVd ùLôÓdÏm. EeLs Lp® ¨ûXVjûR Ïß¡V LôX A±®l©p Uôt\ úSWXôm. ÕxPoLs EeLû[úVô, EeLs EûPûULû[úVô, A¯dL ØVt£dLXôm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  2-04-2032  >>  20-10-2034 ){f7}
+{endheader}
+
+{poke}{f7}
+×R§ûN«p WôÏ×j§«p G§¬Ls ªLªL Rk§WUô] Øû\«p EeLÞdÏ G§WôL §hPªÓYôoLs. ¾, NûUVp YôÙ, ªuNôWm ØR­VûYLÞPu A§L _ôd¡WûRVôL CÚdLúYiÓm. Lôtú\ôhPØm ùY°fNØm CpXôR CPjûR AÔLô§ÚjRp SXm. Lp® NmTkRj§p Øuú]t\m EiPôÏm. YÚUô]m EVoYûR Sm©dûLúVôÓ G§oTôodLXôm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 20-10-2034  >>  25-01-2037 ){f7}
+{endheader}
+
+{poke}{f7}
+×RRûN ®VôZ ×d§«p SuûUVô]Õm Øuú]t\Uô]Õm G]Xôm. EPp BúWôd¡VØm Uú]ôTXØm EVÚm. RÏ§ EûPVYoLÞdÏ¬V U¬VôûRûV ùNÛjÕÅoLs. Cß§VôL EeLÞdÏ TVàiPôL Y¯YÏdÏm. EeLÞdÏ ùSÚdLUô]YoLÞûPV §ÚUQ NmTkRUô] Lô¬VeLû[ LY²dÏm ùTôßl× EeLs úRôsL°p ÑUjRlTÓm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 25-01-2037  >>   5-10-2039 ){f7}
+{endheader}
+
+{poke}{f7}
+×Ru §ûN«p N² ×d§«p G§oTôWôR Ï±l©PjRdL UôßRpLs EeLs Uú]ôTôYj§Ûm SPjûR«Ûm EiPôÏm. úTWôûNdLôWWôLj §LrÅoLs. L¥] EûZl©tÏ BoYm Ïû\YôL CÚdÏm. L¥RlúTôdÏYWjÕ A§L A[®p ûLVô[ úYi¥YÚm.
+{header}
+
+{poke}{mgn}{f8}
+úLÕRûN
+{endheader}
+
+{poke}{blk}{f7}
+EXLjÕuTeL°­ÚkÕ ®ÓTPjRdL A[®tÏ U]§²p Oô]UôodLj§û] Nk§d¡u\ BiUL]ôL RôeLs ®[eÏ¡uÈoLs. CkR RNôLôXj§p, RôeLs, ©Wf£û]Ls, ÕuTeLs, AûY NmTkRUô] U]f NgNXeLs B¡VYt±­ÚkÕ G°§p RlT Ø¥VôÕ. N¬Vô] úSWj§p, EeLs ÕuTeLû[ LhÓlTôhÓdÏs ûYj§ÚlTRtÏ¬V LY]m ùNÛjRô®hPôp, ARu ®û[YôL U]¨mU§ CZjRp, úUÛm U]m EûPkÕ úTôYÕ B¡V NeLPeLs HtTPXôm. G]úY RÏ§Vô] E¬V §Vô]Øû\Lû[úVô ApXÕ Uú]ôRjÕY Øû\«Xô] UôtßLû[úVô ûL ùLôsÞeLs. RôeLs Nk§dL úYi¥V ©Wf£û]Ls ¸rdLiP GÕYôLÜm CÚdLXôm. ùTiLs ®`Vj§p ReLs úUXô[oL°u ®úWôRm, HtùL]úY NmTô§jÕs[Ytû\ CZkÕ ®ÓRp, ùLhP ùTVo ùTßRp, AYç\ô] ùNn§Ls, TtL°u ETôûRLs B¡VûYLs £X CdLôXj§p ReLs EP­p RôûPÙm, TtLÞm ªLÜm TXÅ]Uô] TôLeLs. BûLVôp JÚ SpX Tp ûYj§VûW AÔ¡, BúXôNû] ùTtßdùLôsYÕ SpXÕ. úLÕ, EeLÞdÏl TQm, A§LôWm, NkúRô`m úUÛm CRW TX SuûULû[Ùm A°dLXôm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  5-10-2039  >>   2-03-2040 ){f7}
+{endheader}
+
+{poke}{f7}
+úLÕ RûN úLÕ ×d§ LôXm ùNüL¬VUô] LôXUpX. úLs®LÞdÏm ®NôWûQdÏm Es[ôdLlTÓÅoLs. Y¬Yã­lTYoLÞdÏm Utßm AWNôeL A§Lô¬LÞdÏm ¿eLs T§p ùNôpX úYi¥ YÚm. CkR úNôRû]Vô] LôXeL°p EeLs Ru]m©dûLûV ûL®PôÕ TôojÕdùLôsÞeLs.
+
+{s}{f1} 5-10-2046{r}  ØRp
+{header}
+
+{poke}{mgn}{f8}
+ÑdWRûN
+{endheader}
+
+{poke}{blk}{f7}
+YôrdûLûV Ñ©hNLWUôL AàT®jÕ YôZjÕ¥dÏm BiUL]ô] EeLÞdÏ CkR Ñd¡W RûNVô]Õ SuûULû[úV RÚm. CkR §ûNVô]Õ, ReL[Õ ØkûRV ØVt£L°u ®û[YôLj úRôu±V SpX TXuLû[, SuÏ AàT®dL ûYdÏmT¥VôL AûUkÕs[ £\lTô] AàáXUô]Õm, YN§Vô]ÕUô] RûN BÏm. U¡rf£Vô] ÏÓmT YôrdûLûVÙm, LûXjÕû\«p £\lTô] NôRû]Lû[Ùm ùT\Yônl×iÓ. BrkR £WjûRúVôÓ RôeLs úUtùLôsÞm GpXôd Lô¬VeL°Ûm Øuú]t\m LôQXôm. ùYt± Eß§. U]ÕdÏLkR, SuûU TVdLdá¥V ùLôÓdLp YôeLp ¨Lrf£L°p TeùLÓjÕd ùLôsÞm ãr¨ûX EiPôÏm. TXYûLVô] YôL]eL°u ER®úVôÓ, TX TôûRL°p TVQm ùNnV Yônl×Ls Es[]. ARu êXm, SUdÏ ùSÚe¡VYoLú[ ùTô\ôûU ùLôsYôoLs G] G§oTôodLXôm. ©¬kÕ ùNpYRtLô] ãr¨ûXLû[ G§oùLôs[j RVôWôL CÚdL úYiÓm. CkRdLôX ùLÓÜdÏs U]§p úTôWôhPeLÞm, ÕuTeLÞm EiPôÏm.
+
+{poke}{f7}
+¡Wa¨ûX«p Ñd¡Wu G§¬LÞPu LôQlTÓYRôp, Ñd¡WàûPV ØÝ TXuLÞm ¡ûPdLôUp úTôLXôm.
+
+{poke}{f7}
+ReLs U]§p NX]Uô] ¨ûX CÚdLXôm. RôeLs £ß¿ojRôûW ApXÕ SWm× NmTkRUô] úSônLû[ AàT®dL úYi¥V§ÚdÏm. ùTi E\ÜdLô] Nd§ ApXÕ LYof£ B¡VûYL[ôp ReLÞdÏ Tô§l×Ls EiPôÏm. ×j§d Ïû\®]ôp HtTÓm ùRôPo×L°]ôp ReLÞdÏd ùLhP ùTVÚm, TQ ®WVØm HtTÓm. G§oTôojR SuûULs ¡hPôÕ. ReLÞdÏ JjÕûZl×LÞm ¡ûPdLôÕ.
+
+{s}{f1} 5-10-2066{r}  ØRp
+{header}
+
+{poke}{mgn}{f8}
+ã¬VRûN
+{endheader}
+
+{poke}{blk}{f7}
+B§jV §ûN«û] Nk§dÏm Bt\ÛûPV BiUL]ôL RôeLs ®[eÏ¡uÈoLs. CkR RûN«u úTôÕ, RûPLû[ ALtßYRu êXØm, E«odùLôûX ùNnYRu êXØm, CWdLªpXôd Lô¬VeLs ùNnYRu êXØm áP TQm NmTô§dL úYiÓm Gu\ GiQm EiPôÏm. G§¬Lû[ ùYt± ùLôsÅoLs. ×LûZÙm, NkúRô`jûRÙm, ÏÓmTSXû]Ùm ùTßÅoLs. ªÚLeL°]ôúXô ApXÕ ¾«]ôúXô EiPôLd á¥V £X LxPeLû[ G§oúSôdL úYi¥«ÚdÏm. Ï±lTôL CkRd LôXj§p LiLs, Y«ß, TtLs CûY BúWôd¡Vm Ïû\kRûYL[ôL CÚdÏm. ÏÓmTjûRl Tt± ®úN`Uô] LY]m ùNÛjÕUôß BúXôNû] á\lTÓ¡\Õ. ùTtú\ôoLs, êjRYoLs, ©\ Ød¡VUô]YoLs B¡VYoL°PªÚkÕ, ©¬Vdá¥V A±Ï±Ls Es[]. CkR B§jVu R]Õ LôXj§p, ReLÞdÏd ¸r úYûX ùNnTYoL°]ôp LxPeLs EiPôdÏYÕPu LÓûUVô] ùTôÚ[ôRôW ùSÚdL¥Lû[Ùm EiPôdLXôm.
+
+{poke}{f7}
+¡Wa¨ûX«p ã¬Vu YodLTXjÕPu LôQlTÓYRôp, CkR RûN ùTôÕYôL SpX LôXUôÏm.
+
+{poke}{f7}
+CkRd LôXj§p RôeLs U]m NmTkRlThP YûL«Ûm, BuUô NmTkRl ThP YûL«Ûm SpX TXjûR EûPVYWôL CÚlTûR EQoÅoLs. ªL A§L A[®p ©WVôQeLû[ úUtùLôsÅoLs. G§¬Lû[ ùYt± ùLôsÅoLs. EeLs RLlT]ôo Yôr®p EVoYûPYôo. G]úY ReL[Õ ùTtú\ô¬PªÚkÕ SpX XôTeLû[ AûPÅoLs. ReLÞûPV Ej§úVôL ¨ûX, AkRvÕ B¡VYt±p Øuú]t\ØiPôÏm. RôeLs EPp Y­ûUûVÙm, Uú]ôY­ûUûVÙm ùTt±ÚlÀoLs. UWdLhûPLs, Õ¦Ls, UÚkÕlùTôÚhLs úTôu\Ytú\ôÓ ùRôPo×ûPV ®VôTôW SPY¥dûLLs ReLÞdÏ SuûUTVdLd á¥VRôL«ÚdÏm.
+
+{s}{f1} 5-10-2072{r}  ØRp
+{header}
+
+{poke}{mgn}{f8}
+Nk§WRûN
+{endheader}
+
+{poke}{blk}{f7}
+GjRûLV ¨ûX«Ûm YôrdûL«û] ARu úTôd¡p Nk§d¡u\ ùSgÑWm ùLôiP JÚ Bi UL]ôL ¿eLs ®[eÏ¡uÈoLs. NkúRô`Øm, U] AûU§Ùm ùTßYRtLôL BuÁLd Lô¬VeL°Ûm, Td§ éoYUô] Lô¬VeL°Ûm RôeLs ØuûT®P A§L SôhPm Es[YWôL CÚd¡ÈoLs. ReLû[®P YV§p êjRYoL°Pj§p, YZdLj§tÏ Uô\ôL A§LUô] LY]m ùNÛjÕÅoLs. CÕ ReLÞdÏ NkúRô`jûRÙm, EVoûYÙm RÚm. CkRd LôXj§p, ùTiL°Pj§p ReLÞdÏs[ ùRôPo×Ls ùTÚÏm. EeLÞûPV EQÜl TZdLeLs úUÛm JÝeÏ TÓjRlTÓm. EeLÞûPV úRL BúWôd¡VjûRl Tt± A§L LY]m ùNÛjÕeLs. CpûXùV²p ¿eLs ªLÜm úNôoYûPÅoLs. Nd§ SxPm HtTÓm; AR]ôp êhÓ Y­Ls EiPôL Yônl×iÓ.
+
+
+{poke}{f7}
+_ôRLj§p Nk§Wu TXYô]ôL LôQlTÓ¡\Õ.
+
+{poke}{f7}
+RôeLs ªLf ÑßÑßlTô] U]m EûPVYWôLÜm, NkúRô`UôLÜm CÚlÀoLs. ØuûT®P ClúTôÕ LYof£LWUôLÜm, U¡Zf£LWUôLÜm úRôußÅoLs. ¿eLs JÚ ÑLYô£. UXoLs, YôNû] §W®VeLs, BûP A¦LXuLs B¡VûYL°]ôp RôeLs CuTeLû[ AàT®lÀoLs. ReLs TR®«Ûm, YÚUô]j§Ûm EVoÜiPôÏm. ùTiL°PªÚkÕ ReLÞdÏ SuûULÞm, YN§LÞm EiPôL Yônl×iÓ. ùYs°, ØjÕdLs, Wj§]dLtLs, LÚm×, Ri½o B¡VûY NmTkRlThP ùNnùTôÚhLs, ùYiûU ¨\Øs[ ùTôÚhLs B¡VûY NmTkRlThP ®VôTôWeL°Ûm, YPúUtÏj §ûN«­ÚkÕ YÚm ®VôTôWeL°Ûm RôeLs XôTeLû[l ùTßÅoLs.
+
+{s}{f1} 5-10-2082{r}  ØRp
+{header}
+
+{poke}{mgn}{f8}
+Ï_ RûN
+{endheader}
+
+{poke}{blk}{f7}
+BiULàdÏ AZÏ ùTôÚs DhÓRp GiTRtúLtT ¿eLs A§LUô] ùNpYjûR NmTô§dLXôm. SUdÏd LÓûUVô] ÕuTm RWd LôWQUô] GpXôd Lô¬VeL°Ûm ùYt±úVô, ApXÕ ùYt±LWUôL NUô°dLd á¥V YônlúTô EiÓ. ªÚLeLs, T\ûYLs, B¡VYt\ôp £\l×m, úUuûUÙm EiPôÏm. ÏZkûRLÞd¡ûPúVÙm, NúLôRo¬oLÞd¡ûPúVÙm, NiûPLs ¨LZd á¥V NkúRô`ªpXôR Lôh£Lû[d LôQ úS¬PXôm. T¬ÑjRªpXôR U²RoLs, ApXÕ ãr¨ûXLs, Ï±lTôLl ùTiLs NmTkRUô] AjRûLV ãr¨ûXLû[f NUô°dL úYi¥ CÚdÏm. CjRûLV úSWj§p SûPùTßm TQ ®`VjûRd Ï±jÕl TôÕLôl× SPY¥dûLLs úUtùLôs[ úYi¥V úSWm CÕ. ¾ ®TjÕdLÞdÏ G§Wô] TôÕLôl× Øuù]fN¬dûL SPY¥dûLLû[ GÓjÕd ùLôsÞeLs. CkR RûN«uúTôÕ, £X úSWj§p ¿eLs ªLÜm úNôoYôLÜm, úNôûLÙPàm CÚdL úYi¥V ãr¨ûX CÚlTRôp RôeLs SpX JÚ ûYj§VûWd LXkÕ BúXôNû] ùTßYúRô, ApXÕ CWjRl T¬úNôRû] ùNnÕ ùLôsYúRô ªL SpXÕ G] £Tô¬Ñ ùNnVlTÓ¡\Õ. ùTôÕYôL U¡rf£ûVÙm ®ÚlTeLs ¨û\úYßRûXÙm RôeLs AàT®lÀoLs.
+
+{s}{f1} 5-10-2089{r}  ØRp
+{header}
+
+{poke}{mgn}{f8}
+WôÏRûN
+{endheader}
+
+{poke}{blk}{f7}
+EûZl©u± ùTôÚs ÑXTUôL DhPjRdL GiQ EQoÜLû[ RWjRdL WôÏ Uaô §ûN«û] Nk§dÏm Bi UL]ôL RôeLs ®[eÏ¡uÈoLs. ãRôÓRp, ëLj§u A¥lTûP«Xô] Õ¦LWdLô¬VeLs ùNnRp, B¡VYt±p B§dLm ùNÛjÕm RûN. CkRd LôX LhPj§p, YZdLªpXôR Øû\«p SPjûR«p UôßRpLs HtTÓm Guß CRuêXm GfN¬dLlTÓ¡\Õ. CRu LôWQUôL, EeL[Õ ÏÓmTjRôÚm, EeLÞdÏ ùSÚe¡VYoLÞm, EeL°PU NfNWÜ EiPôdLXôm.. LÓûUVô] ®Vô§Ls áP EiPôLXôm G] G§oTôodLXôm. ùSÚe¡V E\®]oLs, ÏÓmTj§p Es[YoL°PªÚkÕ ©¬Ü HtTÓYRtÏm áP Nôj§Vd áßLs Es[]. GpXô Lô¬VeL°Ûm GfN¬dûL úYiÓm. CkRd LôXUô]Õ, G§¬Ls RôdÏRp SPjR HÕYô] LôXUôLj úRôußm. ùSÚe¡V E\®]oLs áP EeLs G§o ØLôªp úNWXôm. EeLû[®P YV§p á¥VYoLÞm, úUp Ej§úVôLvRoLÞm EeL°Pj§p Øu× ùLôi¥ÚkR T¬Üm, Au×m RtlúTôÕ LôhPô§ÚdLXôm. EeLs EP­p SXªpXôR Eßl×dLs LÝjÕ, ùRôiûP, LiLs ØR­V] BÏm. G]úY LôÕ, êdÏ, ùRôiûP ûYj§V ¨×Q¬Pm Øu]RôLúY Lôh¥ BúXôNû] ùTtßd ùLôsÞeLs. WôÏRûN, GpúXôÚdÏm ùLÓRp ùNnYRpX. ARàûPV SpX Ti×L[ôp §ÚUQm, ULu ©\l×, ùNpY ®Új§, Cuàm CûY NmTkRUô] SuûULû[ G§oTôodLXôm. RôeLs BuÁL NmTkRUô] SPY¥dûLL°p DÓTôÓ ùLôsYÕ ªL SpXÕ.
+
+{poke}{f7}
+¡Wav§§«p WôÏ®u ¨ûX §Úl§LWUôL CÚd¡\Õ.
+
+{poke}{f7}
+WôÏ ¡WLUô]Õ SpX YÛYô] CPj§p CÚlTRôp, £X SpX TXuLû[j RôeLs AûPÅoLs. RôeLs ùTônûU, ãrf£Ls, Rk§WeLs B¡V ETôVeLs êXm A§LôWm, TR® úUXô§dLm B¡VûYL°p EVoÜ AûPÅoLs. RôeLs Ls[fNkûR, L[ÜLs, Y¬ Hnl×Ls B¡VYt±p DÓTôÓ ùLôs[ Yônl×Ls EiÓ. úYiPôR E\ÜLs HtTP Yônl×iÓ. úSoûUVt\ ùNVpL°p DÓTP úYiPôm. CkRd LôXj§p ùTÚmTôÛm RôeLs Ï¥«ÚdÏm CPjûR UôtßÅoLs. ReLû[l ùTôßjRYûW, WôÏ ReLÞdÏl ùTÚgùNpYjûRd ùLôÓdÏm.
+{PageBreak}
+
+{"}{blu}{f8}úLôNôW TXm{f7}{gry}
+{=}{l0}{blk}
+{header}
+{tab}
+{f7}ùTVo	{f1} : ram{f7} (Bi){blk}
+{f7}úLôNôW ¨ûX	{f1} : 10-{f8}_÷u{f1}-2015
+{f7}©\kR Wô£	{f1} : {f8}LPLm{f7}
+
+{endtab}
+{endheader}
+{header}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f7}éWhPô§${f0}10-{f7}_÷u{f0}-2015${f0}03.20.00 pm${f8}úLôNôW ¨ûX${f7}¾oLômNm{f0}   -077.35${f7}AbômNm{f0}   +12.59" Moo =  12  Sun =  2  Mer =  2  Ven =  4  Mar =  2  Jup =  4  Sat =  8  Rah =  6  Ket =  12  Lag =  5  Gul =  5  }
+{endheader}
+
+{poke}{f7}
+¡WLeL°u ClùTôÝûRV ¨ûXûVÙm, _ôRLj§p CÚdÏm ¨ûXûVÙm ùTôßjÕ, úLôNôWl TXu ùNôpXlTÓ¡\Õ. ã¬Vu, ÏÚ, N² B¡VûYL°u SPUôhPm EeLs YôrdûLûV A§LUôLl Tô§dÏm. £XNUVm, AûYL°u TXuLs JußdùLôuß G§WôLúYô ApXÕ Juû\ùVôuß ¿dÏYRôLúYô ApXÕ TXlTÓjÕYRôLúYô CÚdÏm. EeLÞûPV ùSÚe¡V G§oLôXm ¸rdLiPYôß CÚdÏm.
+{header}
+
+{poke}{mgn}{f8}
+ã¬V²u NôWTXu
+{endheader}
+
+{poke}{blk}{f7}
+ã¬Vu JÚ UôRj§tÏ JÚ Wô£«p CÚd¡\ôo.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 10-{s}{f8}_÷u{r}-2015  >>  15-{s}{f8}_÷u{r}-2015 ){f7}
+{endheader}
+
+{poke}{f7}
+BiÏZkûRVô] RôeLs GûRÙm úNôRû] ùNnÕ TôodL úYiÓm Guß ®Úm×ÅoLs. RôeLs ªÏkR ATôVm ®û[®dLd á¥V Lô¬VeL°p DÓThPôÛm, Cû\Y²u ûL«p RôeLs ªÏkR Tj§WUôL CÚlÀoLs. ReLÞûPV ùTtú\ôoLs ùNnÙm ®VôTôWeL°p ªÏkR CXôTm AûPYôoLs GuT§p NkúRLm CpûX. ReLs Åh¥tÏ YÚm ®Úk§]Úm E\®]Úm ReLÞdÏ SpX T¬Ñl ùTôÚsLû[Ùm, BTWQeLû[Ùm ùLôiÓ YÚYôoLs. RôeLs ÏÓmTj§p VôúWàm T¬Ñf ºhÓL°p T¬Ñ ùTt\ôp, AÕ ReL°u A§oxPj§]ôpRôu. ¿eLs N¬YW EQÜ EiÔYÕ CpûX. CÕ EeLs ùTtú\ôÚdÏ U]fNeLPjûR EiPôdÏm.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 15-{s}{f8}_÷u{r}-2015  >>  15-{s}{f8}_øûX{r}-2015 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+BiÏZkûRVô] ReLÞdÏ CkRd LôXj§u ã¬V²u ùTVof£ NôRLUô]RôL CpûX. ùTtú\ôoLÞdÏ HtThÓs[ ©Wf£û]Ls, U]jÕuTeLs B¡VYt±u ¨ZpLs ReLs ÁÕm áP ®ZXôm. A]ôY£VUô] ©WVôQeLs HtTÓm, ¿eLÞm A§p áPfùNpX úYi¥«ÚdÏm. LônfNp, Tp úSônLs B¡V ÕuTeLs R®odLlTP Ø¥VôRûY. ReL°Pj§p LôQlTÓ¡u\ AûU§«uûU, U]fNgNXm ùLôsÞRp, ùTtú\ô¬Pj§Ûm U] CßdLjûR EiPôdÏ¡u\]. CkR SôhL°p R®odL Ø¥VôR £X ®ZôdLs ReLs Åh¥p ¨LÝm.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 15-{s}{f8}_øûX{r}-2015  >>  14-{s}{f8}BLvÓ{r}-2015 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+TôNj§tÏ¬V EeL[Õ ùTtú\ôoL°u Bi UL]ôL ¿eLs CÚd¡uÈoLs. úRôt\j§Ûm, U]lúTôd¡Ûm, §\ûUL°Ûm ReL°Pj§p §¼o Uôt\eLs ¨LrkÕ ùLôi¥Úd¡u\]. EeLs ùTtú\ôoLs CkR Uôt\eLû[ ùYÏ BYÛPu LY²jÕd ùLôi¥Úd¡\ôoLs. RôeLs Ñtßl×\fãr¨ûX, ùTtú\ô¬u Uú]ôTôYeLs B¡VûYL°p UôßRpLs HtTÓYûR G§oùLôs[ úYi¥ CÚdÏm. RôeLs úUtùLôiP Ñtßl TVQeLû[ Ut\Yo AàT®jÕ U¡rkRûRl úTôp W£dL Ø¥VôÕ. RôeLs GûRúVô CZkÕ ®hPûRl úTôX GiQ Yônl×Ls Es[]. ReLÞûPV úRôt\Øm, ÏQô§NVeLÞm, EeLs ÏÓmTj§p Es[ Ut\ Ød¡VUô] SiToLÞPu Jl× úSôdLlTÓ¡u\].
+{header}
+
+{poke}{mgn}{f8}
+ÏÚ®u NôWTXu
+{endheader}
+
+{poke}{blk}{f7}
+ÏÚ JÚ BiÓ JÚ Wô£«p ¨t¡\ôo. ÏÚ®u TôoûY Ød¡VUô]RôL Es[Õ.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 10-{s}{f8}_÷u{r}-2015  >>  23-{s}{f8}BLvÓ{r}-2015 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+BiÏZkûRVô] ¿eLs EeLÞûPV ®û[VôhÓj úRôZoLs £XûW ®ÚmTôUp, AYoLÞPu TûLûU ùLôsÅoLs. CkR UôReL°p, ¿eLs Y[Úm ùTôÝÕ ªLÜm ùU­kÕ LôQlTÓÅoLs. CÕ EeLs RôndÏ ªÏkR U]fNeLPjûR EiPôdÏm. ReLÞdÏj úRûYlTÓm úTôúRô, ApXÕ AYoLû[ G§oTôodÏm úTôúRô ReL[ôp ®ÚmTlTPdá¥VYoLs ApXÕ ùTtú\ôoLs VôûWÙm RôeLs LôQØ¥VôÕ. CÕúY ReLÞdÏ ªÏkR úLÓ ®û[®dÏm AmNUôÏm. ùLüWYªdL TR®L°p CÚkÕ Årf£, ×§RôLj ReLs Åh¥tÏ YÚTYoLs LôWQUôL, Au×, £\kR LY²l× B¡V] HtTP Yônl×iÓ. ReLû[d LY²jÕd ùLôs[ úYß JÚYÚûPV BRW®p ®PlTÓYÕ AY£VUô¡\Õ.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 23-{s}{f8}BLvÓ{r}-2015  >>  18-{s}{f8}BLvÓ{r}-2016 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+BiÏZkûRVô] ReL[Õ ©\kR Sô[ô]Õ ùLôiPôPlThPôÛm, CpXô®hPôÛm AÕ ReLs RôVôÚdÏ ªÏkR U] U¡rf£ûV A°dLd á¥V JÚ ¨Lrf£VôÏm. RôeLsRôu AYÚûPV U]§p NkúRô`jûR EiPôdÏm JÚ ûUVd LÚYôL CÚlÀoLs. ReLs ÏÓmTj§p Es[YoLÞm, ªL ùSÚe¡VYoLÞm ReL°PªÚkÕ ªÏkR NkúRô`jûR AûP¡\ôoLs. ReLs ÏÓmTj§tÏf £\kR BºoYôRjûRÙm, ùTôÚ[ôRôW XôTeLû[Ùm EiPôdÏ¡ÈoLs. ReLs ©\kR §]jûR Jh¥ GlúTôÕm RLlT]ôÚdÏ Ko EVoÜ CÚkÕ ùLôiúP CÚdÏm.
+{header}
+
+{poke}{mgn}{f8}
+N²«u NôWTXu
+{endheader}
+
+{poke}{blk}{f7}
+JÚ Wô£«p N² 2 1/2 BiÓ CÚd¡\ôo.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 10-{s}{f8}_÷u{r}-2015  >>  23-{s}{f8}úU{r}-2017 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+BiÏZkRôVôL ©\k§ÚdÏm EeL[Õ ÏÓmTj§p YkÕ úNÚm ×§V SToLs, ReLÞdÏ JÚ ©Wf£û]VôLúY CÚlTôoLs. RôeLs ùY°úV R²VôL CÚlTûRÙm, çWUôL CÚlTûRÙm ®ÚmT Uôh¼oLs. ReLÞdÏ ùYÏ NÁTj§úXúV A§oxPLWUô], NkúRô`jûRj RWd á¥VÕUô] LôXm Es[Õ GuTÕ U¡rf£dÏ¬VúR. ÏÓmTj§p A¥dL¥ ùY°ëo ùNuß YWYônl×Ls Es[]. RôeLs Ne¸Rj§Ûm, SP]j§Ûm JÚ SpX BoYjûR Y[ojÕd ùLôsÅoLs. RôeLs GkRf NkRolTj§Ûm, ¨Lrf£L°Ûm EPàdÏPu RôURªu± RôUôLúY ©\oçiÓR­u± Lô¬VeLû[f ùNnÅoLs.
+
+{header}
+{c9}{f9}Ñ{f1}{blk}  ( 23-{s}{f8}úU{r}-2017  >>   6-{s}{f8}SYmTo{r}-2019 ){f7}
+{endheader}
+{poke}{=}
+
+{poke}{f7}
+BiÏZkûRVô] ¿eLs CRtÏ EP]¥VôL Øk§V LôXj§p SûPùTt\ AàTYeLÞdÏ Uô\ôLj RôeLs ªLf NkúRô`Uô] JÚ LôX LhPj§p CÚd¡ÈoLs. ReL°Pj§p ªLÜm ®hÓd ùLôÓjÕl TZÏm TX SiToLû[l ùTßÅoLs. Lp®ûVj ÕYdLÜm, Ts°dáPm ùNpXÜm CÕ JÚ SpXLôXm. £ß úRoÜL°Ûm TÃhûNL°Ûm SpX ùYt±Ls ¡ûPdÏm. ®ûX U§l× ªdL T¬Ñl ùTôÚhLû[ AûPÅoLs. ReLs Åh¥tÏ YÚm ®Úk§]oLs U¡rf£ÙûPVYoL[ôLÜm, Au×Pu TZÏTYoL[ôLÜm LôQlTÓ¡\ôoLs. SpX Øû\«p SPkÕ ©\¬PªÚkÕ SuU§lûTl ùTßYÕ GuTÕ ReLs ûL«pRôu CÚd¡\Õ. RôeLs ÑV£kRû]Ùm, ùNVp §\àm EûPVYo. GlúTôÕm ×Wh£LWUô]YWôL CÚd¡ÈoLs GuTRtLô] A±Ï±Ls ReL°Pm LôQlTÓ¡u\].
+
+{poke}{f7}
+SpYôrjÕdLÞPu
+
+{f0}K7 -  COMPUTERS
+Bommidi{f11}
+
+[Predict. 8.7S Tam-1-150610]

@@ -1,0 +1,119 @@
+VTF1.0
+'Predict.     Visual Text Format
+Times New Roman,11,N   00
+Times New Roman,11,B   01
+MS Sans Serif,9,N      02
+MS Sans Serif,9,B      03
+Courier New,11,N       04
+Courier New,11,B       05
+Terminal,9,N           06
+B_279,12,N             07
+B_279,12,B             08
+Symbol,12,B            09
+Times New Roman,10,N   10
+Arial,8,N             11
+
+'
+' Star Chart Object Definitions
+'
+[StarCharts]
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Nk    
+    Sun.Caption     = ã     
+    Mercury.Caption = ×     
+    Venus.Caption   = Ñ     
+    Mars.Caption    = ùN    
+    Jupiter.Caption = ®     
+    Saturn.Caption  = N²    
+    Rahu.Caption    = Wô    
+    Ketu.Caption    = úL    
+    Lagnam.Caption  = X     
+    Gulikan.Caption = Uô    
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle=csSouthIndian
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 11
+    Font.Name   = Times New Roman
+    Font.Style  = N
+    Width       = 50
+    Height      = 50
+    MarkAscendant   = False
+    ShowTwelfth     = True
+    Moon.Color      = clBlack
+    Sun.Color       = clBlack
+    Mercury.Color   = clBlack
+    Venus.Color     = clBlack
+    Mars.Color      = clBlack
+    Jupiter.Color   = clBlack
+    Saturn.Color    = clBlack
+    Rahu.Color      = clBlack
+    Ketu.Color      = clBlack
+    Lagnam.Color    = clBlack
+    Gulikan.Color   = clBlack
+    Twelfth.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Lô    
+    Sun.Caption     = Ao    
+    Mercury.Caption = ªÚ    
+    Venus.Caption   = VU    
+    Mars.Caption    = Ï°    
+    Jupiter.Caption = T¬    
+    Saturn.Caption  = Ck    
+    Rahu.Caption    = qV    
+    Ketu.Caption    = E     
+    Lagnam.Caption  = ç     
+    Gulikan.Caption =  
+    Lagnam.Caption  = X     
+    Gulikan.Caption = ç     
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+#define {blu}      = "{c9}"
+#define {mgn}      = "{c5}"
+#define {dbl}      = "{c1}"
+#define {grn}      = "{c2}"
+#define {red}      = "{c12}"
+#define {blk}      = "{c0}"
+#define {gry}      = "{c7}"
+#define {cyn}      = "{c3}"
+#define {tabchar}  = "	"
+#define {title}    = "{s}{blu}{f8}"
+#define {endtitle} = "{r}"
+

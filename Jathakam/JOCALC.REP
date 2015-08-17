@@ -1,0 +1,728 @@
+VTF1.0
+'Predict.     Visual Text Format
+Times New Roman,11,N   00
+Times New Roman,11,B   01
+MS Sans Serif,9,N      02
+MS Sans Serif,9,B      03
+Courier New,11,N       04
+Courier New,11,B       05
+Terminal,9,N           06
+B_279,12,N             07
+B_279,12,B             08
+Symbol,12,B            09
+Times New Roman,10,N   10
+Arial,8,N             11
+
+'
+' Star Chart Object Definitions
+'
+[StarCharts]
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Nk    
+    Sun.Caption     = ã     
+    Mercury.Caption = ×     
+    Venus.Caption   = Ñ     
+    Mars.Caption    = ùN    
+    Jupiter.Caption = ®     
+    Saturn.Caption  = N²    
+    Rahu.Caption    = Wô    
+    Ketu.Caption    = úL    
+    Lagnam.Caption  = X     
+    Gulikan.Caption = Uô    
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle=csSouthIndian
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 11
+    Font.Name   = Times New Roman
+    Font.Style  = N
+    Width       = 50
+    Height      = 50
+    MarkAscendant   = False
+    ShowTwelfth     = True
+    Moon.Color      = clBlack
+    Sun.Color       = clBlack
+    Mercury.Color   = clBlack
+    Venus.Color     = clBlack
+    Mars.Color      = clBlack
+    Jupiter.Color   = clBlack
+    Saturn.Color    = clBlack
+    Rahu.Color      = clBlack
+    Ketu.Color      = clBlack
+    Lagnam.Color    = clBlack
+    Gulikan.Color   = clBlack
+    Twelfth.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Lô    
+    Sun.Caption     = Ao    
+    Mercury.Caption = ªÚ    
+    Venus.Caption   = VU    
+    Mars.Caption    = Ï°    
+    Jupiter.Caption = T¬    
+    Saturn.Caption  = Ck    
+    Rahu.Caption    = qV    
+    Ketu.Caption    = E     
+    Lagnam.Caption  = ç     
+    Gulikan.Caption =  
+    Lagnam.Caption  = X     
+    Gulikan.Caption = ç     
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+#define {blu}      = "{c9}"
+#define {mgn}      = "{c5}"
+#define {dbl}      = "{c1}"
+#define {grn}      = "{c2}"
+#define {red}      = "{c12}"
+#define {blk}      = "{c0}"
+#define {gry}      = "{c7}"
+#define {cyn}      = "{c3}"
+#define {tabchar}  = "	"
+#define {title}    = "{s}{blu}{f8}"
+#define {endtitle} = "{r}"
+
+
+{"}{f1}{blu}Predict. Astrology,            {gry}
+{=}{l0}
+{tab sectiongap = 0.5 }
+{f7}{blk}ùTVo{f0}	: ram nandhakumar
+{f7}Tôp{f0}	: {f7}Bi{f0}
+{f7}©\kR úR§{f0}	: 12 {f7}ùNlPmTo{f0}, 2012  {f7}×Ru{f0}
+{f7}©\kR úSWm{f0} (Hr.Min.Sec)	: 03.20.00 PM; Standard Time
+{f7}úSW UiPXm{f0} (Hrs.Mins)	: 05.30 {f7}dÃu®f£tÏ ¡ZdúL{f0}
+{f7}úSWm N¬ùNnV{f0}	: Standard Time
+{f7}©\kR CPm{f0}	: Bangalore
+{f7}¾oLômNm{f0}{f0} (Deg.Mins)	: 077.35 {f7}¡ZdÏ{f0}
+{f7}AbômNm{f0} (Deg.Mins)	: 12.59 {f7}YPdÏ{f0}
+{f7}AV]ômN{f0}	: {f7}£jW Tb
+{f7}RNô Øû\{f0}	: {f7}®múNôjR¬, YÚPm{f0} = 365.25 {f7}SôhLs{f0}
+{f7}©\kR ShNj§Wm	{f0}: {red}{f8}éNm{blk}
+{f7}ShNj§W TôRm{f0}	: 2 
+{f7}ShNj§Wô§Tu	{f0}: {f7}N²
+{f7}©\kR Wô£	{f0}: {f7}LPLm
+{f7}Wô£ A§T§	{f0}: {f7}Nk§Wu
+{f7}Xd¡]m	{f0}: {f7}ULWm
+{f7}Xd¡]ô§T§	{f0}: {f7}N²
+{f7}§§	{f0}: {f7}ÕYôR£, ¡ÚxQ Tbm (úRn©û\)
+{f7}LWQm	{f0}: {f7}Tu±
+{f7}¨j§V úVôLm	{f0}: {f7}T¬L
+{f7}ã¬V ERVm{f0} (Hrs.Mins)	: 06.09AM Standard Time
+{f7}ã¬V AvRU]m{f0} (Hrs.Mins)	: 06.23PM      ''    '' 
+{f7}ú_ô§PlT¥ ©\kR úR§	{f0}: {f7}×Ru
+{f7}ÑúRN úSWm{f0}	: Standard Time - 20 Mins
+
+{f7}Ck§V ú_ô§PlT¥{f0}
+
+{endtab}
+{'}{f11}[Predict. 8.7S Tam-1-150610]
+
+{poke}{=}
+{header}
+{blu}{f8}NV] v×PeLs{f7}{blk}
+{endheader}
+
+ÙúW]v, ùSl¥ëu, ×ğhúPô B¡V ¡WaeLû[Ùm úNojÕ
+
+úUpSôhÓlT¥ EeLŞûPV Wô£ Lu²
+{header}
+{tab sectiongap = 0.65 }
+{l5}
+{mgn}{f8}¡Wam	¾oLômNm	¡Wam	¾oLômNm
+{f7}	Tô. L. ®.		Tô. L. ®.
+{blk}{l3}{dbl}
+{endheader}
+Xd¡]m	{f0}299:51:06{f7}	ÏÚ	{f0}75:25:42 {f7} 
+Nk§Wu	{f0}123:38:35{f7}	N²	{f0}207:18:52 {f7} 
+ã¬Vu	{f0}170:02:44{f7}	ÙúW]v	{f0}7:13:08 {f7}YdWm
+×Ru	{f0}171:44:49{f7} 	ùSl¥ëu	{f0}331:13:11 {f7}YdWm
+Ñd¡Wu	{f0}126:19:54{f7} 	×ğhúPô	{f0}276:56:01 {f7}YdWm
+ùNqYôn	{f0}222:57:18{f7} 	ÕÚYm	{f0}239:26:54{f7}
+{endtab}
+{blk}
+Ck§V ú_ô§Pj§p A¥lTûPVô] ¨WV] Ã§Vô] ¡Wa ¨ûXLs úUtÏ±dLlThP NôV] Øû\«­ÚkÕ ùT\lThP]. _ôRLeLs, LQdÏLs, TXuLs VôÜm Ck§V ú_ô§P Øû\lT¥Rôu LQd¡PlThÓs[Õ.
+
+{header}
+{blu}{f8}¨WôV] v×PeLs{f7}{blk}
+{endheader}
+
+Ck§V ú_ô§Pm ¡WaeL°u ¨WôV] Øû\ûV ©uTtß¡\Õ. AÕ úUpSôhÓ Øû\lT¥ L¦dLlThP NôV] ¨ûX«­ÚkÕ AV]ômNjûR L¯jÕ ùT\lThPÕ.
+
+AV]ômNjûR L¦lT§p TX Øû\Ls Es[]. CkR _ôRLm £jW Tb AV]ômNjûR ©uTt±VÕ.
+£jW Tb = {f0} 24 {f7}TôûL.{f0} 2 {f7}LûX.{f0} 19 {f7}®LûX.
+{tab SectionGap = 0.2}
+{header}
+{l5}
+{mgn}{f8}¡Wam	¾oLômNm	Wô£	Wô£ v×Pm	ShNj§Wm	TôRm
+{f7}	Tô. L. ®.		Tô. L. ®.	 	 
+{blk}{l3}
+{endheader}
+{dbl}{f7}Xd]m	{f0}275:48:47	{f7}ULWm	{f0}5:48:47{f7}	Ej§WôPm	{f0} 3 
+{f7}Nk§Wu	{f0}99:36:17	{f7}LPLm	{f0}9:36:17{f7}  	éNm	{f0} 2 
+{f7}ã¬Vu	{f0}146:00:26	{f7}£mUm	{f0}26:00:26{f7}  	éWm	{f0} 4 
+{f7}×Ru	{f0}147:42:30	{f7}£mUm	{f0}27:42:30{f7}  	Ej§Wm	{f0} 1 
+{f7}Ñd¡Wu	{f0}102:17:36	{f7}LPLm	{f0}12:17:36{f7}  	éNm	{f0} 3 
+{f7}ùNqYôn	{f0}198:55:00	{f7}ÕXôm	{f0}18:55:00{f7}  	vYô§	{f0} 4 
+{f7}®VôZu	{f0}51:23:23	{f7}¬`Tm	{f0}21:23:23{f7}  	úWô¶¦	{f0} 4 
+{f7}N²	{f0}183:16:34	{f7}ÕXôm	{f0}3:16:34{f7}  	£j§ûW	{f0} 3 
+{f7}WôÏ	{f0}215:24:36	{f7}®Úf£Lm	{f0}5:24:36{f7}  	Aà`m	{f0} 1 
+{f7}úLÕ	{f0}35:24:36	{f7}¬`Tm	{f0}5:24:36{f7}  	Lôoj§ûL	{f0} 3 
+{f7}Ï°Lu	{f0}226:48:26	{f7}®Úf£Lm	{f0}16:48:26{f7}  	úLhûP	{f0} 1 
+{blk}
+{endtab}
+{tab}
+{header}
+{blu}{f8}ShNj§Wô§T§ / ET ShNj§Wô§T§ / ET ET ShNj§Wô§T§
+{blk}{l5}
+{mgn}¡Wam	ShNj§Wm	ShNj§Wô§Tu	ET	ET ET
+ 	 	 	ShNj§Wô§T§	ShNj§Wô§T§
+{blk}{l3}
+{endheader}
+{dbl}{f7}Xd]m	Ej§WôPm	ã¬Vu	×Ru	ã¬Vu
+Nk§Wu	éNm	N²	Ñd¡Wu	N²
+ã¬Vu	éWm	Ñd¡Wu	úLÕ	Ñd¡Wu
+×Ru	Ej§Wm	ã¬Vu	Nk§Wu	®VôZu
+Ñd¡Wu	éNm	N²	ùNqYôn	®VôZu
+ùNqYôn	vYô§	WôÏ	Nk§Wu	úLÕ
+®VôZu	úWô¶¦	Nk§Wu	Ñd¡Wu	WôÏ
+N²	£j§ûW	ùNqYôn	Ñd¡Wu	Nk§Wu
+WôÏ	Aà`m	N²	N²	®VôZu
+úLÕ	Lôoj§ûL	ã¬Vu	×Ru	úLÕ
+Ï°Lu	úLhûP	×Ru	×Ru	×Ru
+{blk}
+{endtab}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f7}éNm${f0}12-{f7}ùNlPmTo{f0}-2012${f0}03.20.00 pm${f8}Wô£${f7}¾oLômNm{f0}   -077.35${f7}AbômNm{f0}   +12.59{f7}{blk}" Moo =  4  Sun =  5  Mer =  5  Ven =  4  Mar =  7  Jup =  2  Sat =  7  Rah =  8  Ket =  2  Lag =  10  Gul =  8  }
+{endheader}
+{f7}RNô CÚl×{f0} = {f7}N²{f0} {f0}10 {f7}YÚPm{f0}, 0 {f7}UôRm{f0}, 23 {f7}úR§
+
+{header}
+{blu}{f8}ET¡Wam{f7}{blk}
+
+JqùYôÚ ¡Waj§tÏm JÚ ET¡Wam Es[Õ. Nk§Wu, Ñd¡Wu, WôÏ, úLÕ B¡V ¡Waj§u ET¡WaeLs ã¬VàûPV v×Pj§­ÚkÕ L¦dLlTÓ¡\Õ.
+{endheader}
+
+{header}
+{blu}{f8}ÕUô§ ET¡WaeLs
+{tab}
+{blk}{l5}
+{mgn}¡Wam	ET¡Wam	L¦dÏm Øû\{f7}
+{blk}{l3}{dbl}
+{endheader}
+ùNqYôn	çUu	ã¬VàûPV v×Pm{f0} + 133 {f7}TôûL{f0}. 20 {f7}LûX.
+WôÏ	®V§TôRu	{f0}360 - {f7}çUu
+Nk§Wu	T¬úYPu	{f0}180 + {f7}®V§TôRu
+Ñd¡Wu	Ck§W RàÑ	{f0}360 - {f7}T¬úYPu
+úLÕ	ETúLÕ	Ck§W RàÑ{f0} + 16 {f7}TôûL{f0}. 40 {f7}LûX.
+{endtab}
+{blk}
+ã¬Vu, ×Ru, ÏÚ, N² ET¡WaeLŞPu áP ùNqYô«u ET¡WaØm Aa£u ApXÕ CWô Aa£u A¥lTP«p LQd¡PlTÓm. Aav ApXÕ CW ALv GhÓ NU A[®p ©¬dLlTÓm.
+
+ØRp ©¬Ü Auû\V A§T§«u ©¬Ü Ut\ûY ARtÏ©u ùRôPokÕYÚm. GhPôYÕ ©¬ÜdÏ GkR A§T§Ùm CpûX.CW®p ©\kRYoLŞdÏ GhÓ TÏ§«p ØRp Hİ IkRôYÕ YôW A§T§«­ÚkÕ LQd¡PlTÓm.
+
+ET ¡Waj§u ¨ûXLs LQd¡ÓYRtÏ TX Y¯Ls Es[]JÚ Øû\«p ¡WaeLs Bh£ ùNnÙm TÏ§«p BWmTj§­ÚkÕ Xd¡]m LQd¡PlTÓm. Cuù]ôÚ Øû\«p Ø¥®­ÚkÕ Xd¡]m LQd¡PlTÓm.
+
+N²«u ET¡WaUô] Ï°Lû] LQd¡ÓYRtÏ êu\ôYÕ Øû\Ùm EiÓ. A§p ERVUôÏm úSWj§p ¨ûXVô] U§l×L°u A¥lTûP«p LQd¡PlTÓm.BvhúWô®`²p AÕ Uôk§ùVuß á\lTÓm. AÕ Ut\ ¡WaeLŞPu áP _ôRLj§p CPm ùTßm.
+{header}
+{tab}
+{l5}
+{mgn}{f8}¡ZûU	TL­p ©\l×	CW®p ©\l×{f7}
+{blk}{l3}{dbl}
+{endheader}
+Oô«ß	{f0}26 {f7}L¥ûL (Sô¯ûL)	{f0}10 {f7}L¥ûL (Sô¯ûL)
+§eLs	{f0}22	6{f7}
+ùNqYôn	{f0}18	2{f7}
+×Ru	{f0}14	26{f7}
+®VôZu	{f0}10	22{f7}
+ùYs°	{f0}6	18{f7}
+N²	{f0}2	14{f7}
+{endtab}
+{blk}
+{header}
+{blu}{f8}Ï°Lô§Vo v×PeLs{f7}
+{blk}
+AàLlThP Øû\ : ùRôPdLj§Ûs[ Xd¡]m
+{tab}
+{l5}
+{mgn}{f8}¡Wam	ET¡Wam	ùRôPdLm	Ø¥Ü{f7}
+{blk}{l3}{dbl}
+{endheader}
+{f7}ã¬Vu	LôXu	{f0}12:16:00	13:47:44
+{f7}×Ru	AojR©WLWu	{f0}06:09:00	07:40:45
+{f7}ùNqYôn	ªÚjÙ	{f0}15:19:29	16:51:15
+{f7}ÏÚ	VULiPu	{f0}07:40:45	09:12:29
+{f7}N²	Ï°Lu	{f0}10:44:15	12:16:00
+{endtab}
+{blk}
+{header}
+{blu}{f8}ET¡Wa v×PeLs
+{tab SectionGap = 0.2}
+{blk}{l5}
+{mgn}ET¡Wam	¾oLômNm	Wô£	Wô£ v×Pm	ShNj§Wm	TôRm
+{f7}	Tô. L. ®.		Tô. L. ®.		
+{blk}{l3}{dbl}
+{endheader}
+{f7}LôX	{f0}232:20:59	{f7}®Úf£Lm	{f0}22:20:59{f7} 	úLhûP	{f0} 2 
+{f7}AoR lWaW	{f0}144:50:28	{f7}£mUm	{f0}24:50:28{f7} 	éWm	{f0} 4 
+{f7}ªÚj§Ù	{f0}275:41:10	{f7}ULWm	{f0}5:41:10{f7} 	Ej§WôPm	{f0} 3 
+{f7}VULiPL	{f0}167:35:45	{f7}Lu²	{f0}17:35:45{f7} 	avRm	{f0} 3 
+{f7}Ï°Lu	{f0}211:28:12	{f7}®Úf£Lm	{f0}1:28:12{f7} 	®NôLm	{f0} 4 
+{f7}T¬úY`m	{f0}260:39:33	{f7}RàÑ	{f0}20:39:33{f7} 	éWôPm	{f0} 3 
+{f7}Ck§WNôTm	{f0}99:20:26	{f7}LPLm	{f0}9:20:26{f7} 	éNm	{f0} 2 
+{f7}qV§TôR	{f0}80:39:33	{f7}ªÕ]m	{f0}20:39:33{f7} 	×]oéNm	{f0} 1 
+{f7}ETúLÕ	{f0}116:00:26	{f7}LPLm	{f0}26:00:26{f7} 	B«pVm	{f0} 3 
+{f7}çUúLÕ	{f0}279:20:26	{f7}ULWm	{f0}9:20:26{f7} 	Ej§WôPm	{f0} 4 
+{endtab}
+{blk}
+{header}
+{blu}{f8}ET ¡Wa A§T§Ls
+{tab}
+{blk}{l5}
+{mgn}¡Wam	ShNj§Wm	ShNj§Wô§Tu	ET	ET ET
+ 	 	 	ShNj§Wô§T§	ShNj§Wô§T§{f7}
+{blk}{l3}{dbl}
+{endheader}
+LôX	úLhûP	×Ru	Nk§Wu	ùNqYôn
+AoR lWaW	éWm	Ñd¡Wu	×Ru	Nk§Wu
+ªÚj§Ù	Ej§WôPm	ã¬Vu	×Ru	Ñd¡Wu
+VULiPL	avRm	Nk§Wu	N²	®VôZu
+Ï°Lu	®NôLm	®VôZu	WôÏ	WôÏ
+T¬úY`m	éWôPm	Ñd¡Wu	®VôZu	×Ru
+Ck§WNôTm	éNm	N²	Ñd¡Wu	®VôZu
+qV§TôR	×]oéNm	®VôZu	®VôZu	×Ru
+ETúLÕ	B«pVm	×Ru	WôÏ	ùNqYôn
+çUúLÕ	Ej§WôPm	ã¬Vu	Ñd¡Wu	N²
+{endtab}
+{blk}
+{header standalone}
+{chart Template = 2 MarkAscendant = False  Leading = 15  Caption = "{dbl}{f8}ET¡Wam$Wô£{blk}" Moo =  8  Sun =  5  Mer =  10  Ven =  6  Mar =  8  Jup =  9  Sat =  4  Rah =  3  Ket =  4  Lag =  10  Gul =  10  }
+{endheader}
+{header}
+{blu}{f8}TôY AhPYûQ
+{tab}
+{blk}{l5}
+{mgn}TôYm	ùRôPdLm	SÓ	Ø¥Ü	¡WaeLs{f7}
+	Tô. L. ®.	Tô. L. ®.	Tô. L. ®.	TôYj§p
+{blk}{l3}{dbl}
+{endheader}
+{f0} 1	262:23:06	275:48:47	292:23:06	{f7}
+{f0} 2	292:23:06	308:57:24	325:31:42	{f7}
+{f0} 3	325:31:42	342:06:01	358:40:19	{f7}
+{f0} 4	358:40:19	15:14:37	28:40:19	{f7}
+{f0} 5	28:40:19	42:06:01	55:31:42	{f7} ®   úL 
+{f0} 6	55:31:42	68:57:24	82:23:06	{f7}
+{f0} 7	82:23:06	95:48:47	112:23:06	{f7} Nk  Ñ  
+{f0} 8	112:23:06	128:57:24	145:31:42	{f7}
+{f0} 9	145:31:42	162:06:01	178:40:19	{f7} ã   ×  
+{f0}10	178:40:19	195:14:37	208:40:19	{f7} ùN  N² 
+{f0}11	208:40:19	222:06:01	235:31:42	{f7} Wô  Uô 
+{f0}12	235:31:42	248:57:24	262:23:06	{f7}
+{endtab}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}TôYm{f7}{blk}" Moo =  4  Sun =  6  Mer =  6  Ven =  4  Mar =  7  Jup =  2  Sat =  7  Rah =  8  Ket =  2  Lag =  10  Gul =  8  }
+{endheader}
+{header}
+{blu}{f8}YoLô§T§
+{tab SectionGap = 0.1}
+{blk}{l5}{mgn}
+	X  	Nk 	ã  	×  	Ñ  	ùN 	®  	N² 	Wô 	úL 	Uô 
+{blk}{l3}
+{endheader}
+{dbl}{f7}Wô£	N² 	Nk 	ã  	ã  	Nk 	Ñ  	Ñ  	Ñ  	ùN 	Ñ  	ùN 
+úaôûW	Nk 	Nk 	Nk 	Nk 	Nk 	Nk 	ã  	ã  	Nk 	Nk 	ã  
+§úWdúLôQm	N² 	Nk 	ùN 	ùN 	ùN 	N² 	N² 	Ñ  	ùN 	Ñ  	®  
+NÕojRômNm	N² 	Ñ  	Ñ  	Ñ  	Ñ  	ùN 	ùN 	Ñ  	ùN 	Ñ  	Ñ  
+NlRômNm	ã  	®  	N² 	N² 	®  	N² 	®  	Ñ  	×  	®  	ã  
+SYômNm	N² 	×  	ùN 	®  	Ñ  	®  	Nk 	Ñ  	ã  	N² 	®  
+RNômNm	Ñ  	×  	ùN 	Ñ  	Nk 	ùN 	ã  	ùN 	ã  	N² 	®  
+ÕYôRNômNm	®  	Ñ  	×  	Nk 	ùN 	Ñ  	N² 	ùN 	N² 	Nk 	Ñ  
+ú`ôPNômNm	Nk 	×  	×  	Ñ  	Ñ  	N² 	Nk 	Ñ  	Ñ  	Ñ  	ùN 
+§¬mNômNm	×  	×  	Ñ  	Ñ  	®  	×  	N² 	ùN 	×  	×  	®  
+{endtab}
+{blk}
+{header}
+{tab SectionGap = 0.25 }
+{blu}{f8}úaôûW ( ©¬Ü - 2 ) : NmTjÕ{f0}
+{blk}{l5}
+{red}{f8}ã¬V úaôûW	{mgn}Nk§W úaôûW{f7}
+{blk}{l3}
+{endheader}
+{red}{f1}-{f7}	{mgn}Nk§Wu
+{red}{f1}-{f7}	{mgn}ã¬Vu
+{red}{f1}-{f7}	{mgn}×Ru
+{red}{f1}-{f7}	{mgn}Ñd¡Wu
+{red}{f1}-{f7}	{mgn}ùNqYôn
+{red}®VôZu	{mgn}{f1}-{f7}
+{red}N²	{mgn}{f1}-{f7}
+{red}{f1}-{f7}	{mgn}WôÏ
+{red}{f1}-{f7}	{mgn}úLÕ
+{red}{f1}-{f7}	{mgn}Xd]m
+{red}Ï°Lu	{mgn}{f1}-{f7}
+{blk}
+{endtab}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}§úWdúLôQm${f7}NúLôRWm{blk}{f7}" Moo =  4  Sun =  1  Mer =  1  Ven =  8  Mar =  11  Jup =  10  Sat =  7  Rah =  8  Ket =  2  Lag =  10  Gul =  12  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}NÕojRômNm${f7}Bv§{blk}{f7}" Moo =  7  Sun =  2  Mer =  2  Ven =  7  Mar =  1  Jup =  8  Sat =  7  Rah =  8  Ket =  2  Lag =  10  Gul =  2  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}NlRômNm${f7}ÏZkûRLs{blk}{f7}" Moo =  12  Sun =  11  Mer =  11  Ven =  12  Mar =  11  Jup =  12  Sat =  7  Rah =  3  Ket =  9  Lag =  5  Gul =  5  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}SYômNm${f7}§ÚUQ YôrdûL{blk}{f7}" Moo =  6  Sun =  8  Mer =  9  Ven =  7  Mar =  12  Jup =  4  Sat =  7  Rah =  5  Ket =  11  Lag =  11  Gul =  9  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}RNômNm${f7}ùRô¯p{blk}{f7}" Moo =  3  Sun =  1  Mer =  2  Ven =  4  Mar =  1  Jup =  5  Sat =  8  Rah =  5  Ket =  11  Lag =  7  Gul =  9  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}ÕYôRNômNm${f7}RônRLlTu{blk}{f7}" Moo =  7  Sun =  3  Mer =  4  Ven =  8  Mar =  2  Jup =  10  Sat =  8  Rah =  10  Ket =  4  Lag =  12  Gul =  2  }
+{endheader}
+{header standalone}
+{chart Template = 0  Leading = 15  Caption = "{dbl}{f8}ú`ôPNômNm${f7}U¡rf£{blk}{f7}" Moo =  6  Sun =  6  Mer =  7  Ven =  7  Mar =  11  Jup =  4  Sat =  2  Rah =  7  Ket =  7  Lag =  4  Gul =  1  }
+{endheader}
+{header}
+
+{blu}{f8}AxPLYodLm
+{tab SectionGap = 0.2}
+{blk}{l5}
+	{mgn}Nk 	ã  	×  	Ñ  	ùN 	®  	N² 	ùUôjRm
+{blk}{f7}{l3}{dbl}
+{f7}úU`m	{f0} 3 	 6 	 7 	 3 	 3 	 5 	 3 	 30 
+{f7}¬`Tm	{f0} 5 	 5 	 5 	 4 	 5 	 7 	 4 	 35 
+{f7}ªÕ]m	{f0} 4 	 6 	 5 	 5 	 5 	 4 	 4 	 33 
+{f7}LPLm	{f0} 2 	 3 	 5 	 4 	 2 	 3 	 2 	 21 
+{f7}£mUm	{f0} 4 	 3 	 6 	 5 	 2 	 6 	 3 	 29 
+{f7}Lu²	{f0} 2 	 3 	 1 	 5 	 1 	 4 	 4 	 20 
+{f7}ÕXôm	{f0} 4 	 5 	 7 	 3 	 6 	 3 	 2 	 30 
+{f7}®Úf£Lm	{f0} 5 	 4 	 4 	 3 	 2 	 7 	 2 	 27 
+{f7}RàÑ	{f0} 5 	 4 	 4 	 4 	 4 	 4 	 4 	 29 
+{f7}ULWm	{f0} 3 	 5 	 5 	 4 	 5 	 4 	 2 	 28 
+{f7}ÏmTm	{f0} 5 	 1 	 3 	 6 	 2 	 4 	 3 	 24 
+{f7}Á]m	{f0} 7 	 3 	 2 	 6 	 2 	 5 	 6 	 31 
+{blk}{l5}{dbl}
+	 49 	 48 	 54 	 52 	 39 	 56 	 39 	 337 
+{blk}{l3}
+{endtab}
+{endheader}
+{header}
+{blu}{f8}AxPLYodLm AhPYûQLs{f7}{blk}
+{endheader}
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Nk§Wu$AxPLYodLm${f0} 49" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  5  Mercury.Caption =  4  Venus.Caption =  2  Mars.Caption =  4  Jupiter.Caption =  2  Saturn.Caption =  4  Rahu.Caption =  5  Ketu.Caption =  5  Lagnam.Caption =  3  Gulikan.Caption =  5  Twelfth.Caption =  7  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ã¬Vu$AxPLYodLm${f0} 48" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  6  Sun.Caption =  5  Mercury.Caption =  6  Venus.Caption =  3  Mars.Caption =  3  Jupiter.Caption =  3  Saturn.Caption =  5  Rahu.Caption =  4  Ketu.Caption =  4  Lagnam.Caption =  5  Gulikan.Caption =  1  Twelfth.Caption =  3  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}×Ru$AxPLYodLm${f0} 54" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  7  Sun.Caption =  5  Mercury.Caption =  5  Venus.Caption =  5  Mars.Caption =  6  Jupiter.Caption =  1  Saturn.Caption =  7  Rahu.Caption =  4  Ketu.Caption =  4  Lagnam.Caption =  5  Gulikan.Caption =  3  Twelfth.Caption =  2  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Ñd¡Wu$AxPLYodLm${f0} 52" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  4  Mercury.Caption =  5  Venus.Caption =  4  Mars.Caption =  5  Jupiter.Caption =  5  Saturn.Caption =  3  Rahu.Caption =  3  Ketu.Caption =  4  Lagnam.Caption =  4  Gulikan.Caption =  6  Twelfth.Caption =  6  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ùNqYôn$AxPLYodLm${f0} 39" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  5  Mercury.Caption =  5  Venus.Caption =  2  Mars.Caption =  2  Jupiter.Caption =  1  Saturn.Caption =  6  Rahu.Caption =  2  Ketu.Caption =  4  Lagnam.Caption =  5  Gulikan.Caption =  2  Twelfth.Caption =  2  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}®VôZu$AxPLYodLm${f0} 56" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  5  Sun.Caption =  7  Mercury.Caption =  4  Venus.Caption =  3  Mars.Caption =  6  Jupiter.Caption =  4  Saturn.Caption =  3  Rahu.Caption =  7  Ketu.Caption =  4  Lagnam.Caption =  4  Gulikan.Caption =  4  Twelfth.Caption =  5  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}N²$AxPLYodLm${f0} 39" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  4  Mercury.Caption =  4  Venus.Caption =  2  Mars.Caption =  3  Jupiter.Caption =  4  Saturn.Caption =  2  Rahu.Caption =  2  Ketu.Caption =  4  Lagnam.Caption =  2  Gulikan.Caption =  3  Twelfth.Caption =  6  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}NoY$AxPLYodLm${f0} 337" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  30  Sun.Caption =  35  Mercury.Caption =  33  Venus.Caption =  21  Mars.Caption =  29  Jupiter.Caption =  20  Saturn.Caption =  30  Rahu.Caption =  27  Ketu.Caption =  29  Lagnam.Caption =  28  Gulikan.Caption =  24  Twelfth.Caption =  31  }
+{header}
+{blu}{f8}AxPLYodLm - §¬úLôQm úNôRû]{f7}{blk}
+{endheader}
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Nk§Wu$AxPLYodLm${f0} 16" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  3  Mercury.Caption =  0  Venus.Caption =  0  Mars.Caption =  1  Jupiter.Caption =  0  Saturn.Caption =  0  Rahu.Caption =  3  Ketu.Caption =  2  Lagnam.Caption =  1  Gulikan.Caption =  1  Twelfth.Caption =  5  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ã¬Vu$AxPLYodLm${f0} 18" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  2  Mercury.Caption =  5  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  1  Ketu.Caption =  1  Lagnam.Caption =  2  Gulikan.Caption =  0  Twelfth.Caption =  0  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}×Ru$AxPLYodLm${f0} 24" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  3  Sun.Caption =  4  Mercury.Caption =  2  Venus.Caption =  3  Mars.Caption =  2  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  2  Ketu.Caption =  0  Lagnam.Caption =  4  Gulikan.Caption =  0  Twelfth.Caption =  0  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Ñd¡Wu$AxPLYodLm${f0} 13" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  0  Mercury.Caption =  2  Venus.Caption =  1  Mars.Caption =  2  Jupiter.Caption =  1  Saturn.Caption =  0  Rahu.Caption =  0  Ketu.Caption =  1  Lagnam.Caption =  0  Gulikan.Caption =  3  Twelfth.Caption =  3  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ùNqYôn$AxPLYodLm${f0} 18" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  1  Sun.Caption =  4  Mercury.Caption =  3  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  0  Ketu.Caption =  2  Lagnam.Caption =  4  Gulikan.Caption =  0  Twelfth.Caption =  0  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}®VôZu$AxPLYodLm${f0} 14" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  1  Sun.Caption =  3  Mercury.Caption =  1  Venus.Caption =  0  Mars.Caption =  2  Jupiter.Caption =  0  Saturn.Caption =  0  Rahu.Caption =  4  Ketu.Caption =  0  Lagnam.Caption =  0  Gulikan.Caption =  1  Twelfth.Caption =  2  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}N²$AxPLYodLm${f0} 12" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  2  Mercury.Caption =  2  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  2  Saturn.Caption =  0  Rahu.Caption =  0  Ketu.Caption =  1  Lagnam.Caption =  0  Gulikan.Caption =  1  Twelfth.Caption =  4  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}NoY$AxPLYodLm${f0} 115" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  8  Sun.Caption =  18  Mercury.Caption =  15  Venus.Caption =  4  Mars.Caption =  7  Jupiter.Caption =  3  Saturn.Caption =  12  Rahu.Caption =  10  Ketu.Caption =  7  Lagnam.Caption =  11  Gulikan.Caption =  6  Twelfth.Caption =  14  }
+{header}
+{blu}{f8}AxPLYodLm - HLô§Tj§Vm úNôRû]{f7}{blk}
+{endheader}
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Nk§Wu$AxPLYodLm${f0} 11" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  3  Mercury.Caption =  0  Venus.Caption =  0  Mars.Caption =  1  Jupiter.Caption =  0  Saturn.Caption =  0  Rahu.Caption =  3  Ketu.Caption =  2  Lagnam.Caption =  0  Gulikan.Caption =  0  Twelfth.Caption =  2  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ã¬Vu$AxPLYodLm${f0} 16" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  1  Sun.Caption =  2  Mercury.Caption =  5  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  1  Ketu.Caption =  1  Lagnam.Caption =  2  Gulikan.Caption =  0  Twelfth.Caption =  0  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}×Ru$AxPLYodLm${f0} 23" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  2  Sun.Caption =  4  Mercury.Caption =  2  Venus.Caption =  3  Mars.Caption =  2  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  2  Ketu.Caption =  0  Lagnam.Caption =  4  Gulikan.Caption =  0  Twelfth.Caption =  0  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}Ñd¡Wu$AxPLYodLm${f0} 11" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  0  Mercury.Caption =  2  Venus.Caption =  1  Mars.Caption =  2  Jupiter.Caption =  1  Saturn.Caption =  0  Rahu.Caption =  0  Ketu.Caption =  1  Lagnam.Caption =  0  Gulikan.Caption =  3  Twelfth.Caption =  1  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}ùNqYôn$AxPLYodLm${f0} 18" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  1  Sun.Caption =  4  Mercury.Caption =  3  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  0  Saturn.Caption =  4  Rahu.Caption =  0  Ketu.Caption =  2  Lagnam.Caption =  4  Gulikan.Caption =  0  Twelfth.Caption =  0  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}®VôZu$AxPLYodLm${f0} 11" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  1  Sun.Caption =  3  Mercury.Caption =  1  Venus.Caption =  0  Mars.Caption =  2  Jupiter.Caption =  0  Saturn.Caption =  0  Rahu.Caption =  1  Ketu.Caption =  0  Lagnam.Caption =  0  Gulikan.Caption =  1  Twelfth.Caption =  2  }
+{chart Template = 1  Leading = 15  Caption = "{dbl}{f7}N²$AxPLYodLm${f0} 9" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  0  Sun.Caption =  2  Mercury.Caption =  2  Venus.Caption =  0  Mars.Caption =  0  Jupiter.Caption =  2  Saturn.Caption =  0  Rahu.Caption =  0  Ketu.Caption =  1  Lagnam.Caption =  0  Gulikan.Caption =  1  Twelfth.Caption =  1  }       {chart Template = 1  Leading = 15  Caption = "{dbl}{f7}NoY$AxPLYodLm${f0} 99" Width  = 200 Height = 150 Moo = 1 Sun = 2 Mer = 3 Ven = 4 Mar = 5 Jup = 6 Sat = 7 Rah = 8 Ket = 9 Lag = 10 Gul = 11 Twe = 12 Moon.Caption =  5  Sun.Caption =  18  Mercury.Caption =  15  Venus.Caption =  4  Mars.Caption =  7  Jupiter.Caption =  3  Saturn.Caption =  12  Rahu.Caption =  7  Ketu.Caption =  7  Lagnam.Caption =  10  Gulikan.Caption =  5  Twelfth.Caption =  6  }
+{header}
+{blu}{f8}®múNôjR¬ §ûN«u ®YWm{f7}{blk}
+{endheader}
+{tab}
+
+{f7}RNô CÚl×{f0} = {f7}N² {f0}10 {f7}YÚPm{f0}, 0 {f7}UôRm{f0}, 23 {f7}úR§
+
+{header}
+{blu}{f7}§ûN Uôß¡u\ YÚPm {f0}{blk}
+{l5}
+{mgn}{f8}§ûN	BWmT YVÕ{f0}
+{blk}{l3}
+{endheader}
+{dbl}{f7}×Ru	{f0}10{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}úLÕ	{f0}27{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}Ñd¡Wu	{f0}34{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}ã¬Vu	{f0}54{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}Nk§Wu	{f0}60{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}ùNqYôn	{f0}70{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{dbl}{f7}WôÏ	{f0}77{f7} YÚPm{f0},	00 {f7}UôRm{f0}, 	23 {f7}úR§
+{endtab}
+{blk}
+{header}
+{blu}{f8}RNô×d§LŞûPV ®YWeLs
+{tab}
+{blk}{l5}
+{mgn}{f8}§ûN	×d§	ùRôPdLm	Ø¥Ü
+{blk}{l3}{dbl}
+{endheader}
+{f7}N²	Ñ	{f0}12-09-2012	26-09-2013
+{f7}"	ã	{f0}26-09-2013	08-09-2014
+{f7}"	Nk	{f0}08-09-2014	08-04-2016
+{f7}"	ùN	{f0}08-04-2016	18-05-2017
+{f7}"	Wô	{f0}18-05-2017	24-03-2020
+{f7}"	®	{f0}24-03-2020	05-10-2022
+{f7} 	 	{f0} 	 
+{f7}×	×	{f0}05-10-2022	03-03-2025
+{f7}"	úL	{f0}03-03-2025	28-02-2026
+{f7}"	Ñ	{f0}28-02-2026	29-12-2028
+{f7}"	ã	{f0}29-12-2028	04-11-2029
+{f7}"	Nk	{f0}04-11-2029	06-04-2031
+{f7}"	ùN	{f0}06-04-2031	02-04-2032
+{f7}"	Wô	{f0}02-04-2032	20-10-2034
+{f7}"	®	{f0}20-10-2034	25-01-2037
+{f7}"	N²	{f0}25-01-2037	05-10-2039
+{f7} 	 	{f0} 	 
+{f7}úL	úL	{f0}05-10-2039	02-03-2040
+{f7}"	Ñ	{f0}02-03-2040	03-05-2041
+{f7}"	ã	{f0}03-05-2041	07-09-2041
+{f7}"	Nk	{f0}07-09-2041	08-04-2042
+{f7}"	ùN	{f0}08-04-2042	05-09-2042
+{f7}"	Wô	{f0}05-09-2042	23-09-2043
+{f7}"	®	{f0}23-09-2043	29-08-2044
+{f7}"	N²	{f0}29-08-2044	08-10-2045
+{f7}"	×	{f0}08-10-2045	05-10-2046
+{f7} 	 	{f0} 	 
+{f7}Ñ	Ñ	{f0}05-10-2046	04-02-2050
+{f7}"	ã	{f0}04-02-2050	04-02-2051
+{f7}"	Nk	{f0}04-02-2051	05-10-2052
+{f7}"	ùN	{f0}05-10-2052	05-12-2053
+{f7}"	Wô	{f0}05-12-2053	04-12-2056
+{f7}"	®	{f0}04-12-2056	05-08-2059
+{f7}"	N²	{f0}05-08-2059	05-10-2062
+{f7}"	×	{f0}05-10-2062	05-08-2065
+{f7}"	úL	{f0}05-08-2065	05-10-2066
+{f7} 	 	{f0} 	 
+{f7}ã	ã	{f0}05-10-2066	23-01-2067
+{f7}"	Nk	{f0}23-01-2067	24-07-2067
+{f7}"	ùN	{f0}24-07-2067	29-11-2067
+{f7}"	Wô	{f0}29-11-2067	23-10-2068
+{f7}"	®	{f0}23-10-2068	11-08-2069
+{f7}"	N²	{f0}11-08-2069	24-07-2070
+{f7}"	×	{f0}24-07-2070	30-05-2071
+{f7}"	úL	{f0}30-05-2071	05-10-2071
+{f7}"	Ñ	{f0}05-10-2071	05-10-2072
+{f7} 	 	{f0} 	 
+{f7}Nk	Nk	{f0}05-10-2072	05-08-2073
+{f7}"	ùN	{f0}05-08-2073	06-03-2074
+{f7}"	Wô	{f0}06-03-2074	05-09-2075
+{f7}"	®	{f0}05-09-2075	04-01-2077
+{f7}"	N²	{f0}04-01-2077	05-08-2078
+{f7}"	×	{f0}05-08-2078	05-01-2080
+{f7}"	úL	{f0}05-01-2080	05-08-2080
+{f7}"	Ñ	{f0}05-08-2080	05-04-2082
+{f7}"	ã	{f0}05-04-2082	05-10-2082
+{f7} 	 	{f0} 	 
+{f7}ùN	ùN	{f0}05-10-2082	03-03-2083
+{f7}"	Wô	{f0}03-03-2083	21-03-2084
+{f7}"	®	{f0}21-03-2084	25-02-2085
+{f7}"	N²	{f0}25-02-2085	05-04-2086
+{f7}"	×	{f0}05-04-2086	03-04-2087
+{f7}"	úL	{f0}03-04-2087	30-08-2087
+{f7}"	Ñ	{f0}30-08-2087	29-10-2088
+{f7}"	ã	{f0}29-10-2088	06-03-2089
+{f7}"	Nk	{f0}06-03-2089	05-10-2089
+{f7} 	 	{f0} 	 
+{f7}Wô	Wô	{f0}05-10-2089	17-06-2092
+{f7}"	®	{f0}17-06-2092	11-11-2094
+{f7}"	N²	{f0}11-11-2094	17-09-2097
+{f7}"	×	{f0}17-09-2097	06-04-2100
+{f7}"	úL	{f0}06-04-2100	24-04-2101
+{f7}"	Ñ	{f0}24-04-2101	24-04-2104
+{f7}"	ã	{f0}24-04-2104	19-03-2105
+{f7}"	Nk	{f0}19-03-2105	18-09-2106
+{f7}"	ùN	{f0}18-09-2106	06-10-2107
+
+{endtab}
+{blk}{f7}BÙs
+
+{header}
+{blu}{f8}RNô ×d§Ls ®YWj§p LûP£VôL ùLôÓdLlThP YÚPm EeLs BÙû[ Ï±dLôÕ.{f7}
+{endheader}
+
+{tab SectionGap = 0.1 }
+{header}
+{mgn}{f8}N²{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : Nk§Wu{dbl}
+{endheader}
+
+{f1}1.{f8}Nk{f0}{f0}	08-09-2014	>>	26-10-2014	  	{f0}{f1}2.{f8}ùN{f0}{f0}	26-10-2014	>>	29-11-2014
+{f1}3.{f8}Wô{f0}{f0}	29-11-2014	>>	23-02-2015	  	{f0}{f1}4.{f8}®{f0}{f0}	23-02-2015	>>	11-05-2015
+{f1}5.{f8}N²{f0}{f0}	11-05-2015	>>	11-08-2015	  	{f0}{f1}6.{f8}×{f0}{f0}	11-08-2015	>>	01-11-2015
+{f1}7.{f8}úL{f0}{f0}	01-11-2015	>>	05-12-2015	  	{f0}{f1}8.{f8}Ñ{f0}{f0}	05-12-2015	>>	10-03-2016
+{f1}9.{f8}ã{f0}{f0}	10-03-2016	>>	08-04-2016	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}N²{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ùNqYôn{dbl}
+{endheader}
+
+{f1}1.{f8}ùN{f0}{f0}	08-04-2016	>>	02-05-2016	  	{f0}{f1}2.{f8}Wô{f0}{f0}	02-05-2016	>>	01-07-2016
+{f1}3.{f8}®{f0}{f0}	01-07-2016	>>	24-08-2016	  	{f0}{f1}4.{f8}N²{f0}{f0}	24-08-2016	>>	27-10-2016
+{f1}5.{f8}×{f0}{f0}	27-10-2016	>>	24-12-2016	  	{f0}{f1}6.{f8}úL{f0}{f0}	24-12-2016	>>	16-01-2017
+{f1}7.{f8}Ñ{f0}{f0}	16-01-2017	>>	25-03-2017	  	{f0}{f1}8.{f8}ã{f0}{f0}	25-03-2017	>>	14-04-2017
+{f1}9.{f8}Nk{f0}{f0}	14-04-2017	>>	18-05-2017	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}N²{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : WôÏ{dbl}
+{endheader}
+
+{f1}1.{f8}Wô{f0}{f0}	18-05-2017	>>	21-10-2017	  	{f0}{f1}2.{f8}®{f0}{f0}	21-10-2017	>>	09-03-2018
+{f1}3.{f8}N²{f0}{f0}	09-03-2018	>>	21-08-2018	  	{f0}{f1}4.{f8}×{f0}{f0}	21-08-2018	>>	15-01-2019
+{f1}5.{f8}úL{f0}{f0}	15-01-2019	>>	17-03-2019	  	{f0}{f1}6.{f8}Ñ{f0}{f0}	17-03-2019	>>	06-09-2019
+{f1}7.{f8}ã{f0}{f0}	06-09-2019	>>	28-10-2019	  	{f0}{f1}8.{f8}Nk{f0}{f0}	28-10-2019	>>	23-01-2020
+{f1}9.{f8}ùN{f0}{f0}	23-01-2020	>>	24-03-2020	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}N²{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ®VôZu{dbl}
+{endheader}
+
+{f1}1.{f8}®{f0}{f0}	24-03-2020	>>	25-07-2020	  	{f0}{f1}2.{f8}N²{f0}{f0}	25-07-2020	>>	19-12-2020
+{f1}3.{f8}×{f0}{f0}	19-12-2020	>>	29-04-2021	  	{f0}{f1}4.{f8}úL{f0}{f0}	29-04-2021	>>	22-06-2021
+{f1}5.{f8}Ñ{f0}{f0}	22-06-2021	>>	23-11-2021	  	{f0}{f1}6.{f8}ã{f0}{f0}	23-11-2021	>>	08-01-2022
+{f1}7.{f8}Nk{f0}{f0}	08-01-2022	>>	26-03-2022	  	{f0}{f1}8.{f8}ùN{f0}{f0}	26-03-2022	>>	19-05-2022
+{f1}9.{f8}Wô{f0}{f0}	19-05-2022	>>	05-10-2022	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ×Ru{dbl}
+{endheader}
+
+{f1}1.{f8}×{f0}{f0}	05-10-2022	>>	07-02-2023	  	{f0}{f1}2.{f8}úL{f0}{f0}	07-02-2023	>>	30-03-2023
+{f1}3.{f8}Ñ{f0}{f0}	30-03-2023	>>	24-08-2023	  	{f0}{f1}4.{f8}ã{f0}{f0}	24-08-2023	>>	07-10-2023
+{f1}5.{f8}Nk{f0}{f0}	07-10-2023	>>	19-12-2023	  	{f0}{f1}6.{f8}ùN{f0}{f0}	19-12-2023	>>	08-02-2024
+{f1}7.{f8}Wô{f0}{f0}	08-02-2024	>>	19-06-2024	  	{f0}{f1}8.{f8}®{f0}{f0}	19-06-2024	>>	14-10-2024
+{f1}9.{f8}N²{f0}{f0}	14-10-2024	>>	03-03-2025	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : úLÕ{dbl}
+{endheader}
+
+{f1}1.{f8}úL{f0}{f0}	03-03-2025	>>	24-03-2025	  	{f0}{f1}2.{f8}Ñ{f0}{f0}	24-03-2025	>>	23-05-2025
+{f1}3.{f8}ã{f0}{f0}	23-05-2025	>>	10-06-2025	  	{f0}{f1}4.{f8}Nk{f0}{f0}	10-06-2025	>>	11-07-2025
+{f1}5.{f8}ùN{f0}{f0}	11-07-2025	>>	01-08-2025	  	{f0}{f1}6.{f8}Wô{f0}{f0}	01-08-2025	>>	24-09-2025
+{f1}7.{f8}®{f0}{f0}	24-09-2025	>>	11-11-2025	  	{f0}{f1}8.{f8}N²{f0}{f0}	11-11-2025	>>	08-01-2026
+{f1}9.{f8}×{f0}{f0}	08-01-2026	>>	28-02-2026	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : Ñd¡Wu{dbl}
+{endheader}
+
+{f1}1.{f8}Ñ{f0}{f0}	28-02-2026	>>	19-08-2026	  	{f0}{f1}2.{f8}ã{f0}{f0}	19-08-2026	>>	10-10-2026
+{f1}3.{f8}Nk{f0}{f0}	10-10-2026	>>	04-01-2027	  	{f0}{f1}4.{f8}ùN{f0}{f0}	04-01-2027	>>	06-03-2027
+{f1}5.{f8}Wô{f0}{f0}	06-03-2027	>>	08-08-2027	  	{f0}{f1}6.{f8}®{f0}{f0}	08-08-2027	>>	24-12-2027
+{f1}7.{f8}N²{f0}{f0}	24-12-2027	>>	05-06-2028	  	{f0}{f1}8.{f8}×{f0}{f0}	05-06-2028	>>	29-10-2028
+{f1}9.{f8}úL{f0}{f0}	29-10-2028	>>	29-12-2028	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ã¬Vu{dbl}
+{endheader}
+
+{f1}1.{f8}ã{f0}{f0}	29-12-2028	>>	13-01-2029	  	{f0}{f1}2.{f8}Nk{f0}{f0}	13-01-2029	>>	08-02-2029
+{f1}3.{f8}ùN{f0}{f0}	08-02-2029	>>	26-02-2029	  	{f0}{f1}4.{f8}Wô{f0}{f0}	26-02-2029	>>	14-04-2029
+{f1}5.{f8}®{f0}{f0}	14-04-2029	>>	25-05-2029	  	{f0}{f1}6.{f8}N²{f0}{f0}	25-05-2029	>>	13-07-2029
+{f1}7.{f8}×{f0}{f0}	13-07-2029	>>	26-08-2029	  	{f0}{f1}8.{f8}úL{f0}{f0}	26-08-2029	>>	14-09-2029
+{f1}9.{f8}Ñ{f0}{f0}	14-09-2029	>>	04-11-2029	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : Nk§Wu{dbl}
+{endheader}
+
+{f1}1.{f8}Nk{f0}{f0}	04-11-2029	>>	17-12-2029	  	{f0}{f1}2.{f8}ùN{f0}{f0}	17-12-2029	>>	17-01-2030
+{f1}3.{f8}Wô{f0}{f0}	17-01-2030	>>	04-04-2030	  	{f0}{f1}4.{f8}®{f0}{f0}	04-04-2030	>>	12-06-2030
+{f1}5.{f8}N²{f0}{f0}	12-06-2030	>>	02-09-2030	  	{f0}{f1}6.{f8}×{f0}{f0}	02-09-2030	>>	14-11-2030
+{f1}7.{f8}úL{f0}{f0}	14-11-2030	>>	15-12-2030	  	{f0}{f1}8.{f8}Ñ{f0}{f0}	15-12-2030	>>	11-03-2031
+{f1}9.{f8}ã{f0}{f0}	11-03-2031	>>	06-04-2031	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ùNqYôn{dbl}
+{endheader}
+
+{f1}1.{f8}ùN{f0}{f0}	06-04-2031	>>	27-04-2031	  	{f0}{f1}2.{f8}Wô{f0}{f0}	27-04-2031	>>	20-06-2031
+{f1}3.{f8}®{f0}{f0}	20-06-2031	>>	07-08-2031	  	{f0}{f1}4.{f8}N²{f0}{f0}	07-08-2031	>>	04-10-2031
+{f1}5.{f8}×{f0}{f0}	04-10-2031	>>	24-11-2031	  	{f0}{f1}6.{f8}úL{f0}{f0}	24-11-2031	>>	15-12-2031
+{f1}7.{f8}Ñ{f0}{f0}	15-12-2031	>>	14-02-2032	  	{f0}{f1}8.{f8}ã{f0}{f0}	14-02-2032	>>	03-03-2032
+{f1}9.{f8}Nk{f0}{f0}	03-03-2032	>>	02-04-2032	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : WôÏ{dbl}
+{endheader}
+
+{f1}1.{f8}Wô{f0}{f0}	02-04-2032	>>	20-08-2032	  	{f0}{f1}2.{f8}®{f0}{f0}	20-08-2032	>>	22-12-2032
+{f1}3.{f8}N²{f0}{f0}	22-12-2032	>>	18-05-2033	  	{f0}{f1}4.{f8}×{f0}{f0}	18-05-2033	>>	27-09-2033
+{f1}5.{f8}úL{f0}{f0}	27-09-2033	>>	21-11-2033	  	{f0}{f1}6.{f8}Ñ{f0}{f0}	21-11-2033	>>	25-04-2034
+{f1}7.{f8}ã{f0}{f0}	25-04-2034	>>	10-06-2034	  	{f0}{f1}8.{f8}Nk{f0}{f0}	10-06-2034	>>	27-08-2034
+{f1}9.{f8}ùN{f0}{f0}	27-08-2034	>>	20-10-2034	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : ®VôZu{dbl}
+{endheader}
+
+{f1}1.{f8}®{f0}{f0}	20-10-2034	>>	08-02-2035	  	{f0}{f1}2.{f8}N²{f0}{f0}	08-02-2035	>>	19-06-2035
+{f1}3.{f8}×{f0}{f0}	19-06-2035	>>	14-10-2035	  	{f0}{f1}4.{f8}úL{f0}{f0}	14-10-2035	>>	01-12-2035
+{f1}5.{f8}Ñ{f0}{f0}	01-12-2035	>>	17-04-2036	  	{f0}{f1}6.{f8}ã{f0}{f0}	17-04-2036	>>	29-05-2036
+{f1}7.{f8}Nk{f0}{f0}	29-05-2036	>>	06-08-2036	  	{f0}{f1}8.{f8}ùN{f0}{f0}	06-08-2036	>>	23-09-2036
+{f1}9.{f8}Wô{f0}{f0}	23-09-2036	>>	25-01-2037	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}×Ru{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : N²{dbl}
+{endheader}
+
+{f1}1.{f8}N²{f0}{f0}	25-01-2037	>>	30-06-2037	  	{f0}{f1}2.{f8}×{f0}{f0}	30-06-2037	>>	16-11-2037
+{f1}3.{f8}úL{f0}{f0}	16-11-2037	>>	12-01-2038	  	{f0}{f1}4.{f8}Ñ{f0}{f0}	12-01-2038	>>	25-06-2038
+{f1}5.{f8}ã{f0}{f0}	25-06-2038	>>	13-08-2038	  	{f0}{f1}6.{f8}Nk{f0}{f0}	13-08-2038	>>	03-11-2038
+{f1}7.{f8}ùN{f0}{f0}	03-11-2038	>>	31-12-2038	  	{f0}{f1}8.{f8}Wô{f0}{f0}	31-12-2038	>>	27-05-2039
+{f1}9.{f8}®{f0}{f0}	27-05-2039	>>	05-10-2039	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}úLÕ{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : úLÕ{dbl}
+{endheader}
+
+{f1}1.{f8}úL{f0}{f0}	05-10-2039	>>	14-10-2039	  	{f0}{f1}2.{f8}Ñ{f0}{f0}	14-10-2039	>>	08-11-2039
+{f1}3.{f8}ã{f0}{f0}	08-11-2039	>>	15-11-2039	  	{f0}{f1}4.{f8}Nk{f0}{f0}	15-11-2039	>>	28-11-2039
+{f1}5.{f8}ùN{f0}{f0}	28-11-2039	>>	06-12-2039	  	{f0}{f1}6.{f8}Wô{f0}{f0}	06-12-2039	>>	29-12-2039
+{f1}7.{f8}®{f0}{f0}	29-12-2039	>>	18-01-2040	  	{f0}{f1}8.{f8}N²{f0}{f0}	18-01-2040	>>	10-02-2040
+{f1}9.{f8}×{f0}{f0}	10-02-2040	>>	02-03-2040	  	{f0}{f0}			
+
+{header}
+{mgn}{f8}úLÕ{f7} Uaô RûNL°p Es ®YWeLs.{f8} AkRWm : Ñd¡Wu{dbl}
+{endheader}
+
+{f1}1.{f8}Ñ{f0}{f0}	02-03-2040	>>	12-05-2040	  	{f0}{f1}2.{f8}ã{f0}{f0}	12-05-2040	>>	03-06-2040
+{f1}3.{f8}Nk{f0}{f0}	03-06-2040	>>	08-07-2040	  	{f0}{f1}4.{f8}ùN{f0}{f0}	08-07-2040	>>	02-08-2040
+{f1}5.{f8}Wô{f0}{f0}	02-08-2040	>>	05-10-2040	  	{f0}{f1}6.{f8}®{f0}{f0}	05-10-2040	>>	01-12-2040
+{f1}7.{f8}N²{f0}{f0}	01-12-2040	>>	06-02-2041	  	{f0}{f1}8.{f8}×{f0}{f0}	06-02-2041	>>	08-04-2041
+{f1}9.{f8}úL{f0}{f0}	08-04-2041	>>	03-05-2041	  	{f0}{f0}			
+
+{endtab}

@@ -1,0 +1,333 @@
+VTF1.0
+'Predict.     Visual Text Format
+Times New Roman,11,N   00
+Times New Roman,11,B   01
+MS Sans Serif,9,N      02
+MS Sans Serif,9,B      03
+Courier New,11,N       04
+Courier New,11,B       05
+Terminal,9,N           06
+B_279,12,N             07
+B_279,12,B             08
+Symbol,12,B            09
+Times New Roman,10,N   10
+Arial,8,N             11
+
+'
+' Star Chart Object Definitions
+'
+[StarCharts]
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Nk    
+    Sun.Caption     = ã     
+    Mercury.Caption = ×     
+    Venus.Caption   = Ñ     
+    Mars.Caption    = ùN    
+    Jupiter.Caption = ®     
+    Saturn.Caption  = N²    
+    Rahu.Caption    = Wô    
+    Ketu.Caption    = úL    
+    Lagnam.Caption  = X     
+    Gulikan.Caption = Uô    
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle=csSouthIndian
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 11
+    Font.Name   = Times New Roman
+    Font.Style  = N
+    Width       = 50
+    Height      = 50
+    MarkAscendant   = False
+    ShowTwelfth     = True
+    Moon.Color      = clBlack
+    Sun.Color       = clBlack
+    Mercury.Color   = clBlack
+    Venus.Color     = clBlack
+    Mars.Color      = clBlack
+    Jupiter.Color   = clBlack
+    Saturn.Color    = clBlack
+    Rahu.Color      = clBlack
+    Ketu.Color      = clBlack
+    Lagnam.Color    = clBlack
+    Gulikan.Color   = clBlack
+    Twelfth.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Lô    
+    Sun.Caption     = Ao    
+    Mercury.Caption = ªÚ    
+    Venus.Caption   = VU    
+    Mars.Caption    = Ï°    
+    Jupiter.Caption = T¬    
+    Saturn.Caption  = Ck    
+    Rahu.Caption    = qV    
+    Ketu.Caption    = E     
+    Lagnam.Caption  = ç     
+    Gulikan.Caption =  
+    Lagnam.Caption  = X     
+    Gulikan.Caption = ç     
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+#define {blu}      = "{c9}"
+#define {mgn}      = "{c5}"
+#define {dbl}      = "{c1}"
+#define {grn}      = "{c2}"
+#define {red}      = "{c12}"
+#define {blk}      = "{c0}"
+#define {gry}      = "{c7}"
+#define {cyn}      = "{c3}"
+#define {tabchar}  = "	"
+#define {title}    = "{s}{blu}{f8}"
+#define {endtitle} = "{r}"
+
+{PageBreak}
+
+{"}{blu}{f8}RNô ×d§ TXuLs{f7}{gry}
+{=}{l0}{blk}
+{poke}{blk}{f7}
+Ck§V _ôRLd L¦l©p, RNô AûUlTô]Õ, EeLs YôrdûLûV TX ¡WLeL°u Tô§l×dÏ EhThP TÏ§Ls, ETTÏ§L[ôLl ©¬d¡\Õ.
+
+NôRôWQUôL G§oTôodLdá¥V TXôTXuLs ¸úZ ùLôÓdLlThÓs[]. TXôTXuL°u Nd§. ¡WLeL°u ¨ûXûVÙm SPUôhPjûRÙm ùTôßjÕ úYßTÓm. CûR N¬VôL A±YRtÏ úUÛm BrkR BWônf£ úRûY.
+
+£ß ÏZkûRLÞdÏl ùTôÚkRôR TXuLs, AYoL°u ùTtú\ôoLÞdÏl ùTôÚkÕYRôLd ùLôs[ úYiÓm. AÕúTôp, LQYu Uû]®«u TXuLû[Ùm AûYLÞdÏ Ht\ÕúTôX GÓjÕd ùLôs[ úYiÓm.
+
+(RNô NUVeLÞdÏ, RNô AhPYûQûVl TôodLÜm. TXuLs, ClùTôÝÕ SPdÏm RûN«­ÚkÕ ùLôÓdLlTh¥Úd¡u\]. ^lRYoLj§p, ¡WLeL°u ¨ûXûVl ùTôßjÕ, AR]Ru Nd§ LQd¡PlThÓs[Õ.)
+{header}
+
+{poke}{mgn}{f8}
+N²RûN
+{endheader}
+
+{poke}{blk}{f7}
+EûZl©u TXû] RhPôUp ùLôÓdLdá¥V U§ë¡Vô] c N² TLYô²u Bt\ÛûPV §ûN«û] Nk§dÏm Eß§TûPjR BiUL]ôL RôeLs ®[eÏ¡uÈoLs. N²TLYôuRôu, ÕuTm, UWQm, Eßl× ØPeLp, úSônLs, U]f NgNXeLs, úSônLs Utßm ©\ Årf£LÞdÏm LôWQUô]Yo. CkRd LôXj§p, EVoÜ, RôrÜ, NkúRô`m, LYûXLs B¡VYt±p E¬V TeÏLû[ G§oúSôdL úYi¥«ÚdÏm. CkRd LôXj§p NmTô§dÏm TQm, AWNôeLm, ApXÕ A§LôWj§p Es[YoLs êXUôLd ¡ûPdÏm. EeLÞdÏ ERÜTYoLs, HYXô[oLs B¡V TpúYß ÏÝ®]o EeLû[ GlúTôÕm ãrkÕ CÚlTôoLs. XôTeLû[l ùTßÅoLs. EeLs Uû]®, UdLs B¡úVôo NmTkRlThP ®Rj§p, CkRd LôXm EeLÞdÏ ªLf £\kRRôL CÚdLôÕ. T§XôL, AYoL[ôp ¿eLs TX ©Wf£û]Lû[ G§oúSôdL úYi¥«ÚdÏm. CkRd LôXj§p EeLs EP­p LôpLs, ûLLs B¡VûYL°p EiPôÏm êhÓ Y­Ls LôWQUôL EP­u BúWôd¡Vm Tô§dLlTÓm.
+
+{poke}{f7}
+NNUaôúVôLm## Es[R]ôp, G§oTôodLôR £X SpX Lô¬VeLs SPdÏm.
+
+{poke}{f7}
+_ôRLj§p N² ¡WLm JÚ SpX YÛYô] CPjûRl ùTt±ÚlTRôp, CkR RNôLôXj§p ReL°u L¥]Uô] EûZl©u LôWQUôLj ReLs úNûY«p SpX EVoÜ AûPÅoLs. RôeLs ®YNôV EtTj§ Utßm CRW EtTj§Ls êXm XôTm ùTßÅoLs. ReL°u êRôûRVoL°u ùNôjÕdLû[l ùTtßdùLôs[ SpX Yônl×Ls EiÓ.
+
+{poke}{f7}
+¡Wa¨ûX«p N²«u ¨ûX §Úl§LWUpX.
+
+{poke}{f7}
+FhPfNjÕ ªdL BLôW YN§Ls CuûU«]ôúXô, ApXÕ HrûU«]ôúXô, RôeLs ¿§Uu\ YZdÏLû[úVô ApXÕ úSônLû[úVô AàT®dL úYi¥«ÚdÏm. Ø§VYoLÞPu NiûPfNfNWÜLÞm U]jRôeLpLÞm, HtTÓm. ÏÓmTj§úXô ApXÕ ReLÞdÏ ªL ùSÚe¡VYoLs ÏÓmTj §úXô UWQeLs NmT®lTûR G§oTôodLXôm. ùUôjRj§p ÕuTeLû[ G§oTôodL úYi¥«ÚdÏm. Øuú]t\j§tLô] EeLs TôûR«p TX®Rd LxPeLÞm, RûPLÞm HtTP Yônl×Ls EiÓ.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  8-04-2016  >>  18-05-2017 ){f7}
+{endheader}
+
+{poke}{f7}
+N² RûN«p ùNqYôn ×j§«p ©WVôQeLs A§LUôÏm. Ts° ¨oYô¡Ls HtTÓjÕm Lp® NmTkRUô] ©WVôQeLÞm, ùTtú\ôoLs HtTôÓ ùNnÙm ¿iP çW ©WVôQeL°Ûm TeÏùLôsÅoLs. £ßYV§p çeLdá¥V ®Vô§«u A±Ï±Lû[ GdLôWQjûRd ùLôiÓm AXh£Vl TÓjRdáPôÕ. CdLôXLhPj§u Ø¥Ü SuûU TVlTRôL CÚdÏm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 18-05-2017  >>  24-03-2020 ){f7}
+{endheader}
+
+{poke}{f7}
+N² RûN«p WôÏ ×j§«p Ï¯Lú[ô, ¡Qt±úXô RÓUô± ®Ým Nôj§VdáßLs ùRuTÓ¡\Õ. ®û[VôÓmúTôÕm ©WVôQm ùNnÙmúTôÕm Ut\T¥ úYûX ùNnÙmúTôÕm _ôd¡WûRVôL CÚdLúYiÓm. £X NLUôQYoLs EeLs Tôp ùTô\ôûUÙm G§ol×m ùLôi¥Úd¡\ôoLs. AYoLû[l Tt± LYûX ùLôs[ úYiPôm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 24-03-2020  >>   5-10-2022 ){f7}
+{endheader}
+
+{poke}{f7}
+N² RûN«p ®VôZ ×j§dLôXj§p SuûULs EiÓ. ÅhÓlTôPjûR Ø¥jÕdùLôÓdLÜm Ts°dÏ ùNuß YW ÕûQVôLÜm ©\o EeLÞdÏ ER® ×¬YôoLs. ùTôÕYôL GpXôúU Su\ôL AûUÙm. YÏl× EVoÜ §\ûUûV Jl×dùLôs[p úTôh¥, TÃhûNL°Ûm ùYt± LôQlTÓ¡\Õ. §ÚUQ ¨Lrf£L°p TeÏ ùLôsÅoLs.
+{header}
+
+{poke}{mgn}{f8}
+×RuRûN
+{endheader}
+
+{poke}{blk}{f7}
+A±ÜéoYUôL ùNVpThÓ ùRô¯p Utßm T¦Ls BtßYRu êXUôL ùTôÚ[ôRôVm AûPVúYiÓm Gu\ Ï±dúLôÞs[ JÚ BiUL]ôL RôeLs ®[e¡ CkR ×Ru Uaô §ûNûV RôeLs Nk##§d¡uÈoLs. ×Ru RûN LôXj§p ùTôÕYôL, YV§p êjRYoLÞm, ReLÞdÏ úUúX T¦×¬TYoLÞm ReLÞdÏ ªÏkR ER® ùNnTYoL[ôL CÚlTôoLs. ¨Xm, ªÚLeLs, T\ûYLs, SpX SiToLs B¡VYoLs êXm U]U¡rf£ ¡ûPdÏm. RôeLs úUt ùLôsÞm Td§éoYUô] Lô¬VeL°]ôÛm, ùNnÙm TX®R SuùLôûP ER®L°]ôÛm, U]§Úl§Ùm, Yôr®p EVoÜm EiPôÏm. CkRd LôXj§Ûm, EPp SXm NmTkRUô] £dLpLÞm EiPôÏm. A±Ü éoYUô] Y[of£LÞm CXd¡V NmTkRUô] ØVt£LÞm HtTP Yônl×iÓ.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  5-10-2022  >>   3-03-2025 ){f7}
+{endheader}
+
+{poke}{f7}
+×R Uaô RûN ×R ×j§ SûPùTßm LôXm EeLs YVÕûPV NL UôQYoL°p## ¿eLs GÓjÕdLôhPôL úTôt\lTÓÅoLs. EeLs ×j§Nô­jR]Øm U] KoûUÙm Y[of£ùTßm. Ts° UôQY UôQ®L°ûPúV áhÓ ùNVpLÞdÏ DodLlTÓÅoLs. ùTôÕ A±Ü Y[of£ LôQ Ø¥¡\Õ. B£¬VoLs Utßm êjR UôQYoLú[ôÓm ùSÚe¡V Sh×\Ü ùLôsÅoLs. ÏÓmTYhPôWj§p §ÚUQ¨Lrf£Ls SûPùTßm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  3-03-2025  >>  28-02-2026 ){f7}
+{endheader}
+
+{poke}{f7}
+×Ru RûN«p úLÕ ×j§«p U]fúNôoÜ ¨XÜm. ÕdLWUô] LûRLs, TôhÓ EeLÞdÏ ùTôÚkÕm. ¨û]lTRtÏ Uô\ôL TX ¨Lrf£Ls úSÚm. CÚl©àm ¿eLs GÕùYpXôm SPkÕ ®ÓúUô Guß TVlTÓ¡ÈoLú[ô AûYùVpXôúU SPkÕ®PôÕ. EeLs ùRôiûP NlRj§Ûm EPp úRôt\j§Ûm Uôt\ØiPôLXôm. A[®tÏ ªg£ úNôoÜPu LôQlTÓÅoLs. UÚjÕY T¬úNôRû] ùNnÕùLôsYÕ SXm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 28-02-2026  >>  29-12-2028 ){f7}
+{endheader}
+
+{poke}{f7}
+×RRûN«p Ñd¡W ×j§«p GpXôúU SpX T¥VôL SPkÕ Øuú]t\m AûPÙm. EeLs R²lThP §\ûU Y[of£ ùTßm. EPu ¿eLs BúUô§d##LlTÓÅoLs. ùTtú\ôoLs EeLs Uú]ôY[of£ûVd LiÓ U¡rYôoLs. Ut\YoLÞdÏ ERÜm GiQm EeLÞdÏ EÚYôÏm. Es AXeLôWeLs EeLû[jùRôÓm. UeL[LWUô] ¨Lrf£L°Ûm CRW ®ZôdL°Ûm LXkÕùLôsÞm Yônl× EiPôÏm. ØuûT®P A§LUô] A[®p ¿eLs AûPVô[m LiÓ ùLôs[lTÓÅoLs.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 29-12-2028  >>   4-11-2029 ){f7}
+{endheader}
+
+{poke}{f7}
+×Ru RûN«p ã¬V ×j§«p EeLs £kRû]Lû[ JÚûUlTÓj§]ôp CXh£VjûR AûPV Ø¥Ùm. ¿eLs ØÝ BoYm ùLôiP ®`VeL°p NôRLUô] T§pLû[ AûPÅoLs. CÚl©àm EeLs AmUôuúNnLÞd Ïm úRôZoLÞdÏm £\kR úSWªpûX G]Xôm. NêL ®ZôdL°p ÑßÑßlTôL TeÏ ùLôsÅoLs. ©WVôQm U¡rf£ RWdá¥VRôL AûUÙm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  4-11-2029  >>   6-04-2031 ){f7}
+{endheader}
+
+{poke}{f7}
+×Ru RûN«p Nk§W ×j§«p NÚUúSônLs HtTPXôm. EeLs EûPLs ûLVôÞm NôUôuLs ØR­VYtû\ ÑjRUôL ûYjÕdùLôs[ A§L LY]m ùNÛjR úYiÓm. Th£Ls, ©Wô¦Ls EeLû[ DodÏm. B]ôp, AûYLú[ôÓ NoY_ôd¡WûRVôL CpXô®¥p BTjÕ HtTPdáÓm. CúRúTôp YôL]eLs ®`Vj§Ûm LY]m úRûY. Li ©WfNû]Ls ùRuTÓm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  6-04-2031  >>   2-04-2032 ){f7}
+{endheader}
+
+{poke}{f7}
+×RRûN ùNqYôn ×j§ LôXj§p RûX NmTkRUô] ©WfNû]Ls ùTôÕYôL EÚYôLXôm. Ø¥ E§ÚRp, RûXY­ ØR­V] LYûXûVd ùLôÓdÏm. EeLs Lp® ¨ûXVjûR Ïß¡V LôX A±®l©p Uôt\ úSWXôm. ÕxPoLs EeLû[úVô, EeLs EûPûULû[úVô, A¯dL ØVt£dLXôm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  2-04-2032  >>  20-10-2034 ){f7}
+{endheader}
+
+{poke}{f7}
+×R§ûN«p WôÏ×j§«p G§¬Ls ªLªL Rk§WUô] Øû\«p EeLÞdÏ G§WôL §hPªÓYôoLs. ¾, NûUVp YôÙ, ªuNôWm ØR­VûYLÞPu A§L _ôd¡WûRVôL CÚdLúYiÓm. Lôtú\ôhPØm ùY°fNØm CpXôR CPjûR AÔLô§ÚjRp SXm. Lp® NmTkRj§p Øuú]t\m EiPôÏm. YÚUô]m EVoYûR Sm©dûLúVôÓ G§oTôodLXôm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 20-10-2034  >>  25-01-2037 ){f7}
+{endheader}
+
+{poke}{f7}
+×RRûN ®VôZ ×d§«p SuûUVô]Õm Øuú]t\Uô]Õm G]Xôm. EPp BúWôd¡VØm Uú]ôTXØm EVÚm. RÏ§ EûPVYoLÞdÏ¬V U¬VôûRûV ùNÛjÕÅoLs. Cß§VôL EeLÞdÏ TVàiPôL Y¯YÏdÏm. EeLÞdÏ ùSÚdLUô]YoLÞûPV §ÚUQ NmTkRUô] Lô¬VeLû[ LY²dÏm ùTôßl× EeLs úRôsL°p ÑUjRlTÓm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  ( 25-01-2037  >>   5-10-2039 ){f7}
+{endheader}
+
+{poke}{f7}
+×Ru §ûN«p N² ×d§«p G§oTôWôR Ï±l©PjRdL UôßRpLs EeLs Uú]ôTôYj§Ûm SPjûR«Ûm EiPôÏm. úTWôûNdLôWWôLj §LrÅoLs. L¥] EûZl©tÏ BoYm Ïû\YôL CÚdÏm. L¥RlúTôdÏYWjÕ A§L A[®p ûLVô[ úYi¥YÚm.
+{header}
+
+{poke}{mgn}{f8}
+úLÕRûN
+{endheader}
+
+{poke}{blk}{f7}
+EXLjÕuTeL°­ÚkÕ ®ÓTPjRdL A[®tÏ U]§²p Oô]UôodLj§û] Nk§d¡u\ BiUL]ôL RôeLs ®[eÏ¡uÈoLs. CkR RNôLôXj§p, RôeLs, ©Wf£û]Ls, ÕuTeLs, AûY NmTkRUô] U]f NgNXeLs B¡VYt±­ÚkÕ G°§p RlT Ø¥VôÕ. N¬Vô] úSWj§p, EeLs ÕuTeLû[ LhÓlTôhÓdÏs ûYj§ÚlTRtÏ¬V LY]m ùNÛjRô®hPôp, ARu ®û[YôL U]¨mU§ CZjRp, úUÛm U]m EûPkÕ úTôYÕ B¡V NeLPeLs HtTPXôm. G]úY RÏ§Vô] E¬V §Vô]Øû\Lû[úVô ApXÕ Uú]ôRjÕY Øû\«Xô] UôtßLû[úVô ûL ùLôsÞeLs. RôeLs Nk§dL úYi¥V ©Wf£û]Ls ¸rdLiP GÕYôLÜm CÚdLXôm. ùTiLs ®`Vj§p ReLs úUXô[oL°u ®úWôRm, HtùL]úY NmTô§jÕs[Ytû\ CZkÕ ®ÓRp, ùLhP ùTVo ùTßRp, AYç\ô] ùNn§Ls, TtL°u ETôûRLs B¡VûYLs £X CdLôXj§p ReLs EP­p RôûPÙm, TtLÞm ªLÜm TXÅ]Uô] TôLeLs. BûLVôp JÚ SpX Tp ûYj§VûW AÔ¡, BúXôNû] ùTtßdùLôsYÕ SpXÕ. úLÕ, EeLÞdÏl TQm, A§LôWm, NkúRô`m úUÛm CRW TX SuûULû[Ùm A°dLXôm.
+
+{header}
+{c9}{f9}Ñ{blk}{f1}  (  5-10-2039  >>   2-03-2040 ){f7}
+{endheader}
+
+{poke}{f7}
+úLÕ RûN úLÕ ×d§ LôXm ùNüL¬VUô] LôXUpX. úLs®LÞdÏm ®NôWûQdÏm Es[ôdLlTÓÅoLs. Y¬Yã­lTYoLÞdÏm Utßm AWNôeL A§Lô¬LÞdÏm ¿eLs T§p ùNôpX úYi¥ YÚm. CkR úNôRû]Vô] LôXeL°p EeLs Ru]m©dûLûV ûL®PôÕ TôojÕdùLôsÞeLs.
+
+{s}{f1} 5-10-2046{r}  ØRp
+{header}
+
+{poke}{mgn}{f8}
+ÑdWRûN
+{endheader}
+
+{poke}{blk}{f7}
+YôrdûLûV Ñ©hNLWUôL AàT®jÕ YôZjÕ¥dÏm BiUL]ô] EeLÞdÏ CkR Ñd¡W RûNVô]Õ SuûULû[úV RÚm. CkR §ûNVô]Õ, ReL[Õ ØkûRV ØVt£L°u ®û[YôLj úRôu±V SpX TXuLû[, SuÏ AàT®dL ûYdÏmT¥VôL AûUkÕs[ £\lTô] AàáXUô]Õm, YN§Vô]ÕUô] RûN BÏm. U¡rf£Vô] ÏÓmT YôrdûLûVÙm, LûXjÕû\«p £\lTô] NôRû]Lû[Ùm ùT\Yônl×iÓ. BrkR £WjûRúVôÓ RôeLs úUtùLôsÞm GpXôd Lô¬VeL°Ûm Øuú]t\m LôQXôm. ùYt± Eß§. U]ÕdÏLkR, SuûU TVdLdá¥V ùLôÓdLp YôeLp ¨Lrf£L°p TeùLÓjÕd ùLôsÞm ãr¨ûX EiPôÏm. TXYûLVô] YôL]eL°u ER®úVôÓ, TX TôûRL°p TVQm ùNnV Yônl×Ls Es[]. ARu êXm, SUdÏ ùSÚe¡VYoLú[ ùTô\ôûU ùLôsYôoLs G] G§oTôodLXôm. ©¬kÕ ùNpYRtLô] ãr¨ûXLû[ G§oùLôs[j RVôWôL CÚdL úYiÓm. CkRdLôX ùLÓÜdÏs U]§p úTôWôhPeLÞm, ÕuTeLÞm EiPôÏm.
+
+{poke}{f7}
+¡Wa¨ûX«p Ñd¡Wu G§¬LÞPu LôQlTÓYRôp, Ñd¡WàûPV ØÝ TXuLÞm ¡ûPdLôUp úTôLXôm.
+
+{poke}{f7}
+ReLs U]§p NX]Uô] ¨ûX CÚdLXôm. RôeLs £ß¿ojRôûW ApXÕ SWm× NmTkRUô] úSônLû[ AàT®dL úYi¥V§ÚdÏm. ùTi E\ÜdLô] Nd§ ApXÕ LYof£ B¡VûYL[ôp ReLÞdÏ Tô§l×Ls EiPôÏm. ×j§d Ïû\®]ôp HtTÓm ùRôPo×L°]ôp ReLÞdÏd ùLhP ùTVÚm, TQ ®WVØm HtTÓm. G§oTôojR SuûULs ¡hPôÕ. ReLÞdÏ JjÕûZl×LÞm ¡ûPdLôÕ.
+
+{s}{f1} 5-10-2066{r}  ØRp
+{header}
+
+{poke}{mgn}{f8}
+ã¬VRûN
+{endheader}
+
+{poke}{blk}{f7}
+B§jV §ûN«û] Nk§dÏm Bt\ÛûPV BiUL]ôL RôeLs ®[eÏ¡uÈoLs. CkR RûN«u úTôÕ, RûPLû[ ALtßYRu êXØm, E«odùLôûX ùNnYRu êXØm, CWdLªpXôd Lô¬VeLs ùNnYRu êXØm áP TQm NmTô§dL úYiÓm Gu\ GiQm EiPôÏm. G§¬Lû[ ùYt± ùLôsÅoLs. ×LûZÙm, NkúRô`jûRÙm, ÏÓmTSXû]Ùm ùTßÅoLs. ªÚLeL°]ôúXô ApXÕ ¾«]ôúXô EiPôLd á¥V £X LxPeLû[ G§oúSôdL úYi¥«ÚdÏm. Ï±lTôL CkRd LôXj§p LiLs, Y«ß, TtLs CûY BúWôd¡Vm Ïû\kRûYL[ôL CÚdÏm. ÏÓmTjûRl Tt± ®úN`Uô] LY]m ùNÛjÕUôß BúXôNû] á\lTÓ¡\Õ. ùTtú\ôoLs, êjRYoLs, ©\ Ød¡VUô]YoLs B¡VYoL°PªÚkÕ, ©¬Vdá¥V A±Ï±Ls Es[]. CkR B§jVu R]Õ LôXj§p, ReLÞdÏd ¸r úYûX ùNnTYoL°]ôp LxPeLs EiPôdÏYÕPu LÓûUVô] ùTôÚ[ôRôW ùSÚdL¥Lû[Ùm EiPôdLXôm.
+
+{poke}{f7}
+¡Wa¨ûX«p ã¬Vu YodLTXjÕPu LôQlTÓYRôp, CkR RûN ùTôÕYôL SpX LôXUôÏm.
+
+{poke}{f7}
+CkRd LôXj§p RôeLs U]m NmTkRlThP YûL«Ûm, BuUô NmTkRl ThP YûL«Ûm SpX TXjûR EûPVYWôL CÚlTûR EQoÅoLs. ªL A§L A[®p ©WVôQeLû[ úUtùLôsÅoLs. G§¬Lû[ ùYt± ùLôsÅoLs. EeLs RLlT]ôo Yôr®p EVoYûPYôo. G]úY ReL[Õ ùTtú\ô¬PªÚkÕ SpX XôTeLû[ AûPÅoLs. ReLÞûPV Ej§úVôL ¨ûX, AkRvÕ B¡VYt±p Øuú]t\ØiPôÏm. RôeLs EPp Y­ûUûVÙm, Uú]ôY­ûUûVÙm ùTt±ÚlÀoLs. UWdLhûPLs, Õ¦Ls, UÚkÕlùTôÚhLs úTôu\Ytú\ôÓ ùRôPo×ûPV ®VôTôW SPY¥dûLLs ReLÞdÏ SuûUTVdLd á¥VRôL«ÚdÏm.
+
+{s}{f1} 5-10-2072{r}  ØRp
+{header}
+
+{poke}{mgn}{f8}
+Nk§WRûN
+{endheader}
+
+{poke}{blk}{f7}
+GjRûLV ¨ûX«Ûm YôrdûL«û] ARu úTôd¡p Nk§d¡u\ ùSgÑWm ùLôiP JÚ Bi UL]ôL ¿eLs ®[eÏ¡uÈoLs. NkúRô`Øm, U] AûU§Ùm ùTßYRtLôL BuÁLd Lô¬VeL°Ûm, Td§ éoYUô] Lô¬VeL°Ûm RôeLs ØuûT®P A§L SôhPm Es[YWôL CÚd¡ÈoLs. ReLû[®P YV§p êjRYoL°Pj§p, YZdLj§tÏ Uô\ôL A§LUô] LY]m ùNÛjÕÅoLs. CÕ ReLÞdÏ NkúRô`jûRÙm, EVoûYÙm RÚm. CkRd LôXj§p, ùTiL°Pj§p ReLÞdÏs[ ùRôPo×Ls ùTÚÏm. EeLÞûPV EQÜl TZdLeLs úUÛm JÝeÏ TÓjRlTÓm. EeLÞûPV úRL BúWôd¡VjûRl Tt± A§L LY]m ùNÛjÕeLs. CpûXùV²p ¿eLs ªLÜm úNôoYûPÅoLs. Nd§ SxPm HtTÓm; AR]ôp êhÓ Y­Ls EiPôL Yônl×iÓ.
+
+
+{poke}{f7}
+_ôRLj§p Nk§Wu TXYô]ôL LôQlTÓ¡\Õ.
+
+{poke}{f7}
+RôeLs ªLf ÑßÑßlTô] U]m EûPVYWôLÜm, NkúRô`UôLÜm CÚlÀoLs. ØuûT®P ClúTôÕ LYof£LWUôLÜm, U¡Zf£LWUôLÜm úRôußÅoLs. ¿eLs JÚ ÑLYô£. UXoLs, YôNû] §W®VeLs, BûP A¦LXuLs B¡VûYL°]ôp RôeLs CuTeLû[ AàT®lÀoLs. ReLs TR®«Ûm, YÚUô]j§Ûm EVoÜiPôÏm. ùTiL°PªÚkÕ ReLÞdÏ SuûULÞm, YN§LÞm EiPôL Yônl×iÓ. ùYs°, ØjÕdLs, Wj§]dLtLs, LÚm×, Ri½o B¡VûY NmTkRlThP ùNnùTôÚhLs, ùYiûU ¨\Øs[ ùTôÚhLs B¡VûY NmTkRlThP ®VôTôWeL°Ûm, YPúUtÏj §ûN«­ÚkÕ YÚm ®VôTôWeL°Ûm RôeLs XôTeLû[l ùTßÅoLs.
+
+{s}{f1} 5-10-2082{r}  ØRp
+{header}
+
+{poke}{mgn}{f8}
+Ï_ RûN
+{endheader}
+
+{poke}{blk}{f7}
+BiULàdÏ AZÏ ùTôÚs DhÓRp GiTRtúLtT ¿eLs A§LUô] ùNpYjûR NmTô§dLXôm. SUdÏd LÓûUVô] ÕuTm RWd LôWQUô] GpXôd Lô¬VeL°Ûm ùYt±úVô, ApXÕ ùYt±LWUôL NUô°dLd á¥V YônlúTô EiÓ. ªÚLeLs, T\ûYLs, B¡VYt\ôp £\l×m, úUuûUÙm EiPôÏm. ÏZkûRLÞd¡ûPúVÙm, NúLôRo¬oLÞd¡ûPúVÙm, NiûPLs ¨LZd á¥V NkúRô`ªpXôR Lôh£Lû[d LôQ úS¬PXôm. T¬ÑjRªpXôR U²RoLs, ApXÕ ãr¨ûXLs, Ï±lTôLl ùTiLs NmTkRUô] AjRûLV ãr¨ûXLû[f NUô°dL úYi¥ CÚdÏm. CjRûLV úSWj§p SûPùTßm TQ ®`VjûRd Ï±jÕl TôÕLôl× SPY¥dûLLs úUtùLôs[ úYi¥V úSWm CÕ. ¾ ®TjÕdLÞdÏ G§Wô] TôÕLôl× Øuù]fN¬dûL SPY¥dûLLû[ GÓjÕd ùLôsÞeLs. CkR RûN«uúTôÕ, £X úSWj§p ¿eLs ªLÜm úNôoYôLÜm, úNôûLÙPàm CÚdL úYi¥V ãr¨ûX CÚlTRôp RôeLs SpX JÚ ûYj§VûWd LXkÕ BúXôNû] ùTßYúRô, ApXÕ CWjRl T¬úNôRû] ùNnÕ ùLôsYúRô ªL SpXÕ G] £Tô¬Ñ ùNnVlTÓ¡\Õ. ùTôÕYôL U¡rf£ûVÙm ®ÚlTeLs ¨û\úYßRûXÙm RôeLs AàT®lÀoLs.
+
+{s}{f1} 5-10-2089{r}  ØRp
+{header}
+
+{poke}{mgn}{f8}
+WôÏRûN
+{endheader}
+
+{poke}{blk}{f7}
+EûZl©u± ùTôÚs ÑXTUôL DhPjRdL GiQ EQoÜLû[ RWjRdL WôÏ Uaô §ûN«û] Nk§dÏm Bi UL]ôL RôeLs ®[eÏ¡uÈoLs. ãRôÓRp, ëLj§u A¥lTûP«Xô] Õ¦LWdLô¬VeLs ùNnRp, B¡VYt±p B§dLm ùNÛjÕm RûN. CkRd LôX LhPj§p, YZdLªpXôR Øû\«p SPjûR«p UôßRpLs HtTÓm Guß CRuêXm GfN¬dLlTÓ¡\Õ. CRu LôWQUôL, EeL[Õ ÏÓmTjRôÚm, EeLÞdÏ ùSÚe¡VYoLÞm, EeL°PU NfNWÜ EiPôdLXôm.. LÓûUVô] ®Vô§Ls áP EiPôLXôm G] G§oTôodLXôm. ùSÚe¡V E\®]oLs, ÏÓmTj§p Es[YoL°PªÚkÕ ©¬Ü HtTÓYRtÏm áP Nôj§Vd áßLs Es[]. GpXô Lô¬VeL°Ûm GfN¬dûL úYiÓm. CkRd LôXUô]Õ, G§¬Ls RôdÏRp SPjR HÕYô] LôXUôLj úRôußm. ùSÚe¡V E\®]oLs áP EeLs G§o ØLôªp úNWXôm. EeLû[®P YV§p á¥VYoLÞm, úUp Ej§úVôLvRoLÞm EeL°Pj§p Øu× ùLôi¥ÚkR T¬Üm, Au×m RtlúTôÕ LôhPô§ÚdLXôm. EeLs EP­p SXªpXôR Eßl×dLs LÝjÕ, ùRôiûP, LiLs ØR­V] BÏm. G]úY LôÕ, êdÏ, ùRôiûP ûYj§V ¨×Q¬Pm Øu]RôLúY Lôh¥ BúXôNû] ùTtßd ùLôsÞeLs. WôÏRûN, GpúXôÚdÏm ùLÓRp ùNnYRpX. ARàûPV SpX Ti×L[ôp §ÚUQm, ULu ©\l×, ùNpY ®Új§, Cuàm CûY NmTkRUô] SuûULû[ G§oTôodLXôm. RôeLs BuÁL NmTkRUô] SPY¥dûLL°p DÓTôÓ ùLôsYÕ ªL SpXÕ.
+
+{poke}{f7}
+¡Wav§§«p WôÏ®u ¨ûX §Úl§LWUôL CÚd¡\Õ.
+
+{poke}{f7}
+WôÏ ¡WLUô]Õ SpX YÛYô] CPj§p CÚlTRôp, £X SpX TXuLû[j RôeLs AûPÅoLs. RôeLs ùTônûU, ãrf£Ls, Rk§WeLs B¡V ETôVeLs êXm A§LôWm, TR® úUXô§dLm B¡VûYL°p EVoÜ AûPÅoLs. RôeLs Ls[fNkûR, L[ÜLs, Y¬ Hnl×Ls B¡VYt±p DÓTôÓ ùLôs[ Yônl×Ls EiÓ. úYiPôR E\ÜLs HtTP Yônl×iÓ. úSoûUVt\ ùNVpL°p DÓTP úYiPôm. CkRd LôXj§p ùTÚmTôÛm RôeLs Ï¥«ÚdÏm CPjûR UôtßÅoLs. ReLû[l ùTôßjRYûW, WôÏ ReLÞdÏl ùTÚgùNpYjûRd ùLôÓdÏm.

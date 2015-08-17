@@ -1,0 +1,579 @@
+VTF1.0
+'Predict.     Visual Text Format
+Times New Roman,11,N   00
+Times New Roman,11,B   01
+MS Sans Serif,9,N      02
+MS Sans Serif,9,B      03
+Courier New,11,N       04
+Courier New,11,B       05
+Terminal,9,N           06
+B_279,12,N             07
+B_279,12,B             08
+Symbol,12,B            09
+Times New Roman,10,N   10
+Arial,8,N             11
+
+'
+' Star Chart Object Definitions
+'
+[StarCharts]
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Nk    
+    Sun.Caption     = ã     
+    Mercury.Caption = ×     
+    Venus.Caption   = Ñ     
+    Mars.Caption    = ùN    
+    Jupiter.Caption = ®     
+    Saturn.Caption  = N²    
+    Rahu.Caption    = Wô    
+    Ketu.Caption    = úL    
+    Lagnam.Caption  = X     
+    Gulikan.Caption = Uô    
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle=csSouthIndian
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 11
+    Font.Name   = Times New Roman
+    Font.Style  = N
+    Width       = 50
+    Height      = 50
+    MarkAscendant   = False
+    ShowTwelfth     = True
+    Moon.Color      = clBlack
+    Sun.Color       = clBlack
+    Mercury.Color   = clBlack
+    Venus.Color     = clBlack
+    Mars.Color      = clBlack
+    Jupiter.Color   = clBlack
+    Saturn.Color    = clBlack
+    Rahu.Color      = clBlack
+    Ketu.Color      = clBlack
+    Lagnam.Color    = clBlack
+    Gulikan.Color   = clBlack
+    Twelfth.Color   = clBlack
+{enddef}
+{chartdef}
+    ChartStyle= csSouthIndian 
+    Color       = 15269887
+    Font.Color  = clGreen
+    Font.Size   = 12
+    Font.Name   = B_279       
+    Font.Style  = N
+    MarkAscendant   = True
+    Moon.Caption    = Lô    
+    Sun.Caption     = Ao    
+    Mercury.Caption = ªÚ    
+    Venus.Caption   = VU    
+    Mars.Caption    = Ï°    
+    Jupiter.Caption = T¬    
+    Saturn.Caption  = Ck    
+    Rahu.Caption    = qV    
+    Ketu.Caption    = E     
+    Lagnam.Caption  = ç     
+    Gulikan.Caption =  
+    Lagnam.Caption  = X     
+    Gulikan.Caption = ç     
+    Moon.Color      = clBlue
+    Sun.Color       = clTeal
+    Mercury.Color   = clNavy
+    Venus.Color     = clMaroon
+    Mars.Color      = clRed
+    Jupiter.Color   = clFuchsia
+    Saturn.Color    = clPurple
+    Rahu.Color      = clGreen
+    Ketu.Color      = clGreen
+    Lagnam.Color    = clPurple
+    Gulikan.Color   = clBlack
+{enddef}
+#define {blu}      = "{c9}"
+#define {mgn}      = "{c5}"
+#define {dbl}      = "{c1}"
+#define {grn}      = "{c2}"
+#define {red}      = "{c12}"
+#define {blk}      = "{c0}"
+#define {gry}      = "{c7}"
+#define {cyn}      = "{c3}"
+#define {tabchar}  = "	"
+#define {title}    = "{s}{blu}{f8}"
+#define {endtitle} = "{r}"
+
+{PageBreak}
+
+{"}{blu}{f8}¡Wa¨ûX BWônf£{f7}{gry}
+{=}{l0}{blk}
+{header}
+{tab}
+{blu}{f8}TôYô§T§Ls{f7}
+{blk}
+{endheader}
+{blk}Ju\ôm	TôYô§T§	(úLk§Wm)	: {mgn}N²
+{blk}CWiPôm	     ,,	(TQTWm)	: {mgn}N²
+{blk}êu\ôm	     ,,	(BúTôd­Um)	: {mgn}®VôZu
+{blk}SôuLôm	     ,,	(úLk§Wm)	: {mgn}ùNqYôn
+{blk}IkRôm	     ,,	(§¬úLôQm)	: {mgn}Ñd¡Wu
+{blk}B\ôm	     ,,	(BúTôd­Um)	: {mgn}×Ru
+{blk}HZôm	     ,,	(úLk§Wm)	: {mgn}Nk§Wu
+{blk}GhPôm	     ,,	(TQTWm)	: {mgn}ã¬Vu
+{blk}JuTRôm	     ,,	(§¬úLôQm)	: {mgn}×Ru
+{blk}TjRôm	     ,,	(úLk§Wm)	: {mgn}Ñd¡Wu
+{blk}T§ù]ôu\ôm	     ,,	(TQTWm)	: {mgn}ùNqYôn
+{blk}Tu²WiPôm	     ,,	(BúTôd­Um)	: {mgn}®VôZu
+{blk}
+{endtab}
+{header}
+{blu}{f8}¡Wa úNodûLLs{f7}{blk}
+{endheader}
+{tab}
+
+Nk§Wu	úNodûL  Ñd¡Wu   
+ã¬Vu	úNodûL  ×Ru   
+×Ru	úNodûL  ã¬Vu   
+Ñd¡Wu	úNodûL  Nk§Wu   
+ùNqYôn	úNodûL  N²   
+®VôZu	úNodûL  úLÕ   
+N²	úNodûL  ùNqYôn   
+{endtab}
+
+{header}
+{blu}{f8}¡WaeLŞûPV TôoûYLs{f7}{blk}
+{endheader}
+
+{tab}
+Nk§Wu	TôoûYÙs[ Xd]m   
+Ñd¡Wu	TôoûYÙs[ Xd]m   
+ùNqYôn	TôoûYÙs[ ®VôZu   úLÕ   Xd]m   
+®VôZu	TôoûYÙs[ WôÏ   Xd]m   
+N²	TôoûYÙs[ Nk§Wu   Ñd¡Wu   
+{endtab}
+
+{header}
+{blu}{f8}vRô]eLŞdÏs[ ¡Wa TôoûYLs{f7}{blk}
+{endheader}
+
+{tab}
+Nk§Wu	TôoûY Ju\ôm   
+ã¬Vu	TôoûY CWiPôm   
+×Ru	TôoûY CWiPôm   
+Ñd¡Wu	TôoûY Ju\ôm   
+ùNqYôn	TôoûY Ju\ôm   SôuLôm   IkRôm   
+®VôZu	TôoûY Ju\ôm   JuTRôm   T§ù]ôu\ôm   
+N²	TôoûY SôuLôm   HZôm   Tu²WiPôm   
+{endtab}
+
+{header}
+{blu}{f8}ÑT AÑT ¡WaeLs{f7}{blk}
+{endheader}
+
+ÏÚ Ñd¡Wu Y[o©û\ Nk§Wu B¡V ¡WaeLŞdÏ ÑTôY ÑT TXm Es[Õ.ÑdXTb `x¥ §§ ØRp ¡ÚxQTb `x¥ §§ YûW Es[ Y[o©û\ Nk§Wu ÑT TXØs[Õ.
+
+CkR _ôRLj§p úRn©û\ Nk§Wu B]§]ôp Nk§WàdÏ ÑT TXªpûX.
+
+TôY ¡WaeLŞPu ×Ru úNÚmúTôÕ ×Ru TôT ¡WaUôL UôÚ¡\Õ.
+
+EeLŞûPV _ôRLj§p ×Ru TôT ¡WLeLŞPu úNokÕs[Rôp AÕ TôT¡WaUôL ¨t¡\Õ.
+
+{tab}
+	Nk§Wu	-	{red}TôY ¡Wam{blk}
+	ã¬Vu	-	{red}TôY ¡Wam{blk}
+	×Ru	-	{red}TôY ¡Wam{blk}
+	Ñd¡Wu	-	{grn}ÑT ¡Wam{blk}
+	ùNqYôn	-	{red}TôY ¡Wam{blk}
+	®VôZu	-	{grn}ÑT ¡Wam{blk}
+	N²	-	{red}TôY ¡Wam{blk}
+	WôÏ	-	{red}TôY ¡Wam{blk}
+	úLÕ	-	{red}TôY ¡Wam{blk}
+{endtab}
+
+{header}
+{blu}{f8}¡WaeLŞûPV B§Tj§Vm ùLôiÓs[ vRô] TXeLs{f7}
+
+{endheader}
+{blk}¡WaeLû[ ÑT ¡WaeLs AÑT ¡WaeLs Guß ©¬j§ÚkRôÛm ARàûPV vRô] TXm ûYjúR _ôRLj§àûPV TXm ¨oQ«dLúYiÓm.
+
+Juß, IkÕ Utßm JuTRôm vRô] ¡WaeLs GlùTôİÕm ÑT ¡WaeL[ôL LÚRlTPúYiÓm.
+
+ÑTôY AÑT ¡WaeLs Juß, SôuÏ Utßm TjRôm vRô]eLŞdÏ A§T§L[ôL YÚmùTôİÕ ÑT ¡WaeL[ôL Uôß¡u\].
+
+êuß, Bß Utßm T§ù]ôu\ôm vRô] A§T§Ls AÑT ¡WaeL[ôL LÚRlTÓ¡u\].
+
+ÑTôY ÑT ¡WaeLs SôuÏ, Hİ Utßm T§ù]ôu\ôm vRô] A§T§L[ôL YÚmùTôİÕ úLk§Wô§Tj§V úRô`j§]ôp AÑT ¡WaeL[ôL Uôß¡u\].
+
+CWiÓ, GhÓ Utßm Tu²WiPôm vRô] A§T§Ls ÑT RuûUÙm AÑT RuûUÙm CpXôR NU ¡WaeL[ôÏm.
+
+ã¬Vàm, Nk§Wàm R®W Ut\ IkÕ ¡WaeLs GpXôm JqùYôußm CWiÓ vRô]eLŞdÏ A§T§L[ô¡\ôoLs.
+
+£X ú_ô§PoLs GhPôm vRô] A§T§ûV GlùTôİÕm AÑT ¡WaUôLúY LQd¡Ó¡\ôoLs. B]ôÛm BRôWéoYUô] ú_ô§P èpLs GhPôm vRô] A§T§ûV ARàûPV Utû\V vRô] B§Tj§Vm ûYjúR LQd¡PúYiÓm Guß áß¡\Õ.
+
+AàLlThP Øû\ : {f0}Nature of Mercury determined by association
+
+{tab}
+{header}
+{l5}
+{mgn}{f8}¡Wam	B§Tj§Vm	ÑTôY ¨ûX{f7}
+{blk}{l3}
+{endheader}
+{blk}Nk§Wu	{f0} 7   {f7}	{red}TôY ¡Wam
+{blk}ã¬Vu	{f0} 8   {f7}	{cyn}NU ¨ûX
+{blk}×Ru	{f0} 6   {f7}{f0} 9   {f7}	{grn}ÑT ¡Wam
+{blk}Ñd¡Wu	{f0} 5   {f7}{f0}10   {f7}	{grn}ÑT ¡Wam
+{blk}ùNqYôn	{f0} 4   {f7}{f0}11   {f7}	{red}TôY ¡Wam
+{blk}®VôZu	{f0} 3   {f7}{f0}12   {f7}	{red}TôY ¡Wam
+{blk}N²	{f0} 1   {f7}{f0} 2   {f7}	{grn}ÑT ¡Wam
+{endtab}
+{blk}
+{tab SectionGap = 0.2 }
+{PageBreak}
+{header}
+{blu}{f8}ûSNo¡L Sh× ®YWeLs
+{blk}{l5}{mgn}
+	Nk 	ã  	×  	Ñ  	ùN 	®  	N² 
+{blk}{f7}{l3}
+{endheader}
+{mgn}{f8}Nk {f7}	{blk} ...	{grn}Sh×	{grn}Sh×	{cyn}NUm	{cyn}NUm	{cyn}NUm	{cyn}NUm
+{mgn}{f8}ã  {f7}	{grn}Sh×	{blk} ...	{cyn}NUm	{red}®úWô§	{grn}Sh×	{grn}Sh×	{red}®úWô§
+{mgn}{f8}×  {f7}	{red}®úWô§	{grn}Sh×	{blk} ...	{grn}Sh×	{cyn}NUm	{cyn}NUm	{cyn}NUm
+{mgn}{f8}Ñ  {f7}	{red}®úWô§	{red}®úWô§	{grn}Sh×	{blk} ...	{cyn}NUm	{cyn}NUm	{grn}Sh×
+{mgn}{f8}ùN {f7}	{grn}Sh×	{grn}Sh×	{red}®úWô§	{cyn}NUm	{blk} ...	{grn}Sh×	{cyn}NUm
+{mgn}{f8}®  {f7}	{grn}Sh×	{grn}Sh×	{red}®úWô§	{red}®úWô§	{grn}Sh×	{blk} ...	{cyn}NUm
+{mgn}{f8}N² {f7}	{red}®úWô§	{red}®úWô§	{grn}Sh×	{grn}Sh×	{red}®úWô§	{cyn}NUm	{blk} ...
+{blk}
+{header}
+{blu}{f8}RôtLô­L Sh× ®YWeLs
+{blk}{l5}{mgn}
+{f8}	Nk {f8}	ã  {f8}	×  {f8}	Ñ  {f8}	ùN {f8}	®  {f8}	N² 
+{blk}{f7}{l3}
+{endheader}
+{mgn}{f8}Nk {f7}	{blk} ...	{grn}Sh×	{grn}Sh×	{red}®úWô§	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}ã  {f7}	{grn}Sh×	{blk} ...	{red}®úWô§	{grn}Sh×	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}×  {f7}	{grn}Sh×	{red}®úWô§	{blk} ...	{grn}Sh×	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}Ñ  {f7}	{red}®úWô§	{grn}Sh×	{grn}Sh×	{blk} ...	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}ùN {f7}	{grn}Sh×	{grn}Sh×	{grn}Sh×	{grn}Sh×	{blk} ...	{red}®úWô§	{red}®úWô§
+{mgn}{f8}®  {f7}	{grn}Sh×	{grn}Sh×	{grn}Sh×	{grn}Sh×	{red}®úWô§	{blk} ...	{red}®úWô§
+{mgn}{f8}N² {f7}	{grn}Sh×	{grn}Sh×	{grn}Sh×	{grn}Sh×	{red}®úWô§	{red}®úWô§	{blk} ...
+{blk}
+{header}
+{blu}{f8}ImUPeÏ Sh× ®YWeLs
+{blk}{l5}{mgn}
+	Nk 	ã  	×  	Ñ  	ùN 	®  	N² 
+{blk}{f7}{l3}{mgn}
+{endheader}
+{mgn}{f8}Nk {f7}	{blk} ...	{blu}A§ ®.	{blu}A§ ®.	{red}®úWô§	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}ã  {f7}	{blu}A§ ®.	{blk} ...	{red}®úWô§	{cyn}NUm	{blu}A§ ®.	{blu}A§ ®.	{cyn}NUm
+{mgn}{f8}×  {f7}	{cyn}NUm	{cyn}NUm	{blk} ...	{blu}A§ ®.	{grn}Sh×	{grn}Sh×	{grn}Sh×
+{mgn}{f8}Ñ  {f7}	{mgn}A§ S.	{cyn}NUm	{blu}A§ ®.	{blk} ...	{grn}Sh×	{grn}Sh×	{blu}A§ ®.
+{mgn}{f8}ùN {f7}	{blu}A§ ®.	{blu}A§ ®.	{cyn}NUm	{grn}Sh×	{blk} ...	{cyn}NUm	{red}®úWô§
+{mgn}{f8}®  {f7}	{blu}A§ ®.	{blu}A§ ®.	{cyn}NUm	{cyn}NUm	{cyn}NUm	{blk} ...	{red}®úWô§
+{mgn}{f8}N² {f7}	{cyn}NUm	{cyn}NUm	{blu}A§ ®.	{blu}A§ ®.	{mgn}A§ S.	{red}®úWô§	{blk} ...
+{blk}
+{endtab}
+{mgn}®. = ®úWô§, S.  = Sh×
+{blk}
+{PageBreak}
+{header}
+{blu}{f8}`x¥ AmNj§p §¬dTXm
+
+{tab SectionGap = 1 }
+{mgn}{f7}TôodÏm ¡Wam	TôodLlTÓm ¡Wam
+{endtab}
+{tab SectionGap = 0.2}
+{blk}{f8}{l5}{mgn}
+	Nk 	ã  	×  	Ñ  	ùN 	®  	N² 
+{blk}{f7}{l3}
+{endheader}
+{dbl}{f8}ÑT TôoûY{f7}
+
+{dbl}{f8}Ñd¡Wu{f0}{blk}	    .  	 6.86	 7.71	    .  	 41.69	    .  	 35.98
+	   	   	   	   	   	   	   
+{dbl}{f8}®VôZu{f0}{blk}	 9.11	 42.69	 41.84	 10.45	 2.47	    .  	 18.11
+	   	   	   	   	 30.00	   	 30.00
+{header}
+{blk}{l5}
+{mgn}{f8}ÑT TXm{f0}	 9.11	 49.55	 49.55	 10.45	 74.16	    .  	 84.10
+{blk}{l3}
+{endheader}
+{dbl}{f8}AÑT TôoûY{f7}
+
+{dbl}{f8}Nk§Wu{f0}{blk}	    .  	-8.20	-9.05	    .  	-40.34	    .  	-38.67
+	 	 	 	 	 	 	 
+{dbl}{f8}ã¬Vu{f0}{blk}	    .  	    .  	    .  	    .  	-11.45	-17.31	-3.63
+	 	 	 	 	 	 	 
+{dbl}{f8}×Ru{f0}{blk}	    .  	    .  	    .  	    .  	-10.60	-18.16	-2.78
+	 	 	 	 	 	 	 
+{dbl}{f8}ùNqYôn{f0}{blk}	-19.66	    .  	    .  	-18.31	    .  	-43.76	    .  
+	 	 	 	 	 	-15.00	 
+{dbl}{f8}N²{f0}{blk}	-11.84	    .  	    .  	-10.49	    .  	-35.94	    .  
+	-45.00	 	 	-45.00	 	 	 
+{header}
+{blk}{l5}
+{mgn}{f8}AÑT TXm{f0}	-76.49	-8.20	-9.05	-73.80	-62.40	-130.17	-45.09
+{blk}{l3}
+{endheader}
+{dbl}{f8}§Úx¥ ©iPm{f0}{blk}	-67.38	 41.35	 40.50	-63.35	 11.76	-130.17	 39.01
+
+{dbl}{f8}§ÚdTXm{f0}{blk}	-16.85	 10.34	 10.12	-15.84	 2.94	-32.54	 9.75
+{f7}{l3}
+
+{header}
+{tab}
+{PageBreak}
+{blu}{f8}`hTX AhPYû]
+{blk}{l5}{mgn}
+	Nk 	ã  	×  	Ñ  	ùN 	®  	N² 
+{blk}{l3}
+{endheader}
+{dbl}{f8}EfN TXm{f0}{blk}
+	 37.80	 14.66	 54.24	 24.90	 26.97	 45.46	 54.43
+{dbl}{f8}NlRYoL_ TXm{f0}{blk}
+	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+{dbl}{f8}K_ÙdUWô£ TXm{f0}{blk}
+	 30.00	 15.00	 30.00	 15.00	 15.00	 0 	 30.00
+{dbl}{f8}úLk§W TXm{f0}{blk}
+	 60.00	 30.00	 30.00	 60.00	 60.00	 30.00	 60.00
+{dbl}{f8}§úWdLôQ TXm{f0}{blk}
+	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+{dbl}{f8}ùUôjR vRô] TXm{f0}{blk}
+	 281.55	 175.91	 204.24	 193.65	 176.97	 169.21	 245.68
+{dbl}{f8}ùUôjR §dTXm{f0}{blk}
+	 31.88	 43.59	 17.30	 30.98	 58.78	 14.81	 30.85
+{dbl}{f8}SR Eu]R TXm{f0}{blk}
+	 15.33	 44.67	 60.00	 44.67	 15.33	 44.67	 15.33
+{dbl}{f8}Tb TXm{f0}{blk}
+	 89.07	 44.53	 44.53	 15.47	 44.53	 15.47	 44.53
+{dbl}{f8}§¬TôL TXm{f0}{blk}
+	 0 	 0 	 0 	 0 	 0 	 60.00	 60.00
+{dbl}{f8}YÚP TXm{f0}{blk}
+	 0 	 15.00	 0 	 0 	 0 	 0 	 0 
+{dbl}{f8}UôR TXm{f0}{blk}
+	 0 	 30.00	 0 	 0 	 0 	 0 	 0 
+{dbl}{f8}YôW TXm{f0}{blk}
+	 0 	 0 	 45.00	 0 	 0 	 0 	 0 
+{dbl}{f8}úaôW TXm{f0}{blk}
+	 0 	 0 	 0 	 0 	 0 	 0 	 60.00
+{dbl}{f8}AV] TXm{f0}{blk}
+	 5.40	 70.01	 34.15	 53.72	 9.97	 58.95	 43.37
+{dbl}{f8}ÙjR TXm{f0}{blk}
+	 0 	 0 	 0 	 0 	 0 	 0 	 0 
+{dbl}{f8}ùUôjR LôX TXm{f0}{blk}
+	 109.80	 204.21	 183.68	 113.85	 69.84	 179.08	 223.24
+{dbl}{f8}ùUôjR úNxP TXm{f0}{blk}
+	 0 	 0 	 2.17	 30.97	 24.04	 34.51	 11.11
+{dbl}{f8}ùUôjR ûS^o¡L TXm{f0}{blk}
+	 51.43	 60.00	 25.70	 42.85	 17.14	 34.28	 8.57
+{dbl}{f8}ùUôjR §ÚdTXm{f0}{blk}
+	-16.85	 10.34	 10.12	-15.84	 2.94	-32.54	 9.75
+{dbl}{f8}ùUôjR `hTXm{f0}{blk}
+	 457.81	 494.05	 443.21	 396.47	 349.71	 399.35	 529.20
+{dbl}{f8}ùUôjR `hTXm (ìTô){f0}{blk}
+	 7.63	 8.23	 7.39	 6.61	 5.83	 6.66	 8.82
+{dbl}{f8}Ïû\kR A[Ü{f0}{blk}
+	 6.00	 5.00	 7.00	 5.50	 5.00	 6.50	 5.00
+{dbl}{f8}`hTXj§u ®¡R TeÏ{f0}{blk}
+	 1.27	 1.65	 1.06	 1.20	 1.17	 1.02	 1.76
+{dbl}{f8}ARu Y¬ûN{f0}{blk}
+	 3	 2	 6	 4	 5	 7	 1
+{l3}
+
+{header}
+{blu}{f8}CxP TX / LxP TX AhPYû]
+{endheader}
+{blk}{l5}
+{dbl}{f8}CxP TXm{f0}{blk}	 24.18	 22.10	 10.85	 27.77	 25.47	 39.61	 24.60
+{dbl}{f8}LxP TXm{f0}{blk}	 31.44	 34.78	 18.26	 31.92	 34.46	 19.25	 16.51
+{l3}
+{endtab}
+
+{PageBreak}
+{header}
+{tab}
+{blu}{f8}`x¥ AmNj§p TôY §ÚdTXm
+
+{mgn}{f7}TôodÏm ¡Wam	§ÚxV TôYm{f8}
+{endtab}
+{tab SectionGap = 0.09}
+{blk}{l5}{mgn}{f1}
+1	2	3	4	5	6	7	8	9	10	11	12
+{blk}{l3}
+{mgn}{f8}ÑT TôoûY{f7}
+
+{dbl}{f8}Nk§Wu{f0}{blk}
+13.10	11.33	7.19	3.05	.	.	.	.	4.37	10.55	6.88	0.16
+ 	 	 	 	 	 	 	 	 	 	 	 
+{dbl}{f8}Ñd¡Wu{f0}{blk}
+11.76	11.67	7.52	3.38	0.02	.	.	.	3.73	10.88	7.52	0.83
+ 	 	 	 	 	 	 	 	 	 	 	 
+{dbl}{f8}®VôZu{f0}{blk}
+37.79	21.22	4.64	.	.	.	7.21	32.57	34.64	6.15	41.42	51.22
+ 	30.00	 	 	 	 	 	 	 	30.00	 	 
+
+{header}
+{dbl}{f8}ÑT TXm{f0}{blk}
+{l5}
+62.65	74.21	19.36	6.43	0.02	.	7.21	32.57	42.74	57.57	55.82	52.21
+{l3}
+{endheader}
+{mgn}{f8}AÑT TôoûY{f7}
+
+{dbl}{f8}ã¬Vu{f0}{blk}
+-5.05	-6.47	-12.99	-8.85	-5.49	-2.13	.	.	.	-2.40	-7.77	-9.63
+ 	 	 	 	 	 	 	 	 	 	 	 
+{dbl}{f8}×Ru{f0}{blk}
+-21.90	-22.50	-52.80	-36.23	-22.80	-9.38	.	.	.	-8.77	-29.39	-39.38
+ 	 	 	 	 	 	 	 	 	 	 	 
+{dbl}{f8}ùNqYôn{f0}{blk}
+-7.97	-8.74	-1.70	-13.16	-12.10	-8.74	-5.39	-1.24	.	.	.	-2.51
+ 	-3.75	 	 	 	-3.75	 	 	 	 	 	 
+{dbl}{f8}N²{f0}{blk}
+-10.93	-6.08	-4.41	-13.50	-10.15	-6.79	-3.43	.	.	.	-1.10	-5.17
+ 	 	 	 	 	 	-11.25	 	 	 	 	-11.25
+{header}
+{dbl}{f8}AÑT TXm{f0}{blk}
+{l5}
+-45.85	-47.55	-71.91	-71.75	-50.54	-30.79	-20.07	-1.24	.	-11.17	-38.27	-67.93
+{l3}
+{endheader}
+{header}
+{blu}{f8}§Úx¥ ©iPm / §ÚdTXm{f0}{blk}
+{l5}
+16.80	26.67	-52.55	-65.32	-50.52	-30.79	-12.86	31.32	42.74	46.40	17.55	-15.72
+{l3}
+{endheader}
+{endtab}
+
+{tab SectionGap = 0.12}
+{header}
+{blu}{f8}TôY TX AhPYû]
+{blk}{l5}{mgn}
+1	2	3	4	5	6	7	8	9	10	11	12
+{blk}{l3}
+{dbl}{f8}TôYô§T§ TXm{f10}{blk}
+529.20	529.20	399.35	349.71	396.47	443.21	457.81	494.05	443.21	396.47	349.71	399.35
+{dbl}{f8}TôY §dTXm{f10}{blk}
+30.00	50.00	50.00	0	10.00	10.00	30.00	40.00	20.00	30.00	20.00	50.00
+{dbl}{f8}TôY§Úx¥ TXm{f10}{blk}
+16.80	26.67	-52.55	-65.32	-50.52	-30.79	-12.86	31.32	42.74	46.40	17.55	-15.72
+{dbl}{f8}ùUôjRm TôY TXm{f10}{blk}
+576.00	605.87	396.79	284.39	355.96	422.42	474.95	565.37	505.96	472.87	387.26	433.63
+{dbl}{f8}TôY TXm (ìTô){f10}{blk}
+9.60	10.10	6.61	4.74	5.93	7.04	7.92	9.42	8.43	7.88	6.45	7.23
+{dbl}{f8}ARu Y¬ûN{f10}{blk}
+2	1	9	12	11	8	5	3	4	6	10	7
+{l3}
+{endheader}
+{endtab}
+
+{header}
+{blu}{f8}ùNqYôn úRô` ¨oQVm{f7}{blk}
+{endheader}
+
+JqùYôÚ _ôRLj§Ûm ùNqYôn úRô`j§tÏ ªLÜm Ød¡VjÕYm ùLôÓdLlTPúYiÓm. §ÚUQ ùTôÚjRm TôodÏmùTôİÕ ùNqYôn ¡Waj§àûPV ¨ûX Ød¡VjÕYm ùTß¡\Õ. ùNqYôn HZôm vRô]j§úXô ApXÕ GhPôm Rô]j§úXô Es[§]ôp ùNqYôn úRô`m EiÓ Guß TXÚm ùNôpÛYôoLs. HZôm ApXÕ GhPôm vRô]j§Ûs[ ùNqYôn Rô`j§tÏ TX ®XdÏLs Es[RôL ARôWéoYUô] èpLs áß¡u\]. CkR Øû\«p Es[ ùNqYôn úRô` ¨oQVm ¸úZ ùLôÓdLlThÓs[Õ.
+
+EeLŞûPV _ôRLj§p ùNqYôn TjRôm vRô]j§p Es[Õ.
+
+EeLŞûPV _ôRLj§p Xd¡]j§­ÚkÕ ùNqYôn úRô`m CpûX.
+
+{header}
+{dbl}{f7}Xd¡]j§­ÚkÕ ùNqYôn úRô`jûR N¬ TôodL{f8}{blk}
+{endheader}
+
+{grn}ùNqYôn úRô`m CkR _ôRLj§p CpûX.
+
+{header}
+{blu}{f8}AvReLRjûR N¬ TôodL{f7}{blk}
+{endheader}
+
+¡WaeLs ã¬VàdÏ AÚLôûU«p YÚmùTôİÕ AvReLRUôÏm. AvReLRUûPkR ¡Wam ùLÓ TXû]úV ùNnÙm. ã¬V²­ÚkÕ Nk§Wu Tu²WiÓ, ùNqYôn T§ú]İ, ×Ru T§Øuß, ÏÚ T§ù]ôuß, Ñd¡Wu JuTÕ, N² T§û]kÕ TôûLdÏs YÚmùTôİÕ AvReLRm AûPÙm.
+
+×Ru AvReLRm AûPkÕs[Rô
+
+{header}
+{blu}{f8}¡Wa ÙjRm{f7}{blk}
+{endheader}
+
+ã¬Vu Nk§Wû] R®ojÕ Ut\ ¡WaeLs JußdùLôuß JÚ TôûLdÏs YÚmùTôİÕ ÙjRUûPÙm. ¡Wa ÙjRj§p GkR ¡Wam ùYt±VûPÙm GuTûRl Tt± LÚjÕ úYßTôÓLs CÚkRôÛm ¸úZ ùNôp­VT¥ L¦dLlTPXôm.
+Ut\ ¡WaeL°p YPd¡Ûs[ ¡Wam ùYt± AûPÙm.
+
+{f8}CkR _ôRLj§p JÚ ¡WaØm ÙjRj§p CpûX{f7}
+
+{header}
+{blu}{f8}EfNm, ¿Nm, AvReLRm, ÙjRm, Yd¡Wm B¡VYt±u ùUôjR TXm. {f7}{blk}
+{tab}
+{blk}{l5}{mgn}
+{f8}¡Wam	EfNm{f1}/{f8}	AvReLRm	¡Wa ÙjRm	Yd¡Wm{f7}
+{f8} 	¿Nm	 	 	 {f7}
+{blk}{l3}{dbl}
+{endheader}
+Nk 	            	   	      	     
+ã  	            	   	      	     
+×  	            	AvReLRm	      	     
+Ñ  	            	   	      	     
+ùN 	            	   	      	     
+®  	            	   	      	     
+N² 	EfNm	   	      	     
+{blk}{l3}
+
+{endtab}
+{header}
+{blu}{f8}_ôRLj§p ¡Wa CûQl×L°u £\l×{f7}{blk}
+{endheader}
+
+{poke}{f7}
+úVôLeLs GuTÕ Ï±l©hP vRô]eL°p _ôRL ¡WaeLs úNok§ÚlTRôÏm. CûYúV JÚYÚûPV G§oLôX YôrdûL ¨ûXLû[ Ï±l©Ó¡u\]. £X úVôLeLs, ¡WaeLs NôRôWQ Øû\«p úNok§ÚlTRôÛm, Ut\ £X úVôLeLs AúR ¡WaeLs ©WjúVLUô] vRô] AûUl×LŞPu á¥«ÚlTRôÛm HtTÓ¡u\]. ×WôQ ú_ô§P èpLs ètßdÏ úUtThP ¡Wa úNodûLLû[Ùm ARu TXuLû[Ùm ®Y¬d¡u\]. £XYtû\ SpX úVôLeL[ôLÜm Utßm £XYtû\ ¾V úVôLeL[ôLÜm ùR¬®d¡u\].
+
+EeLŞûPV _ôRLj§p LôQlTÓ¡u\ Ød¡VUô] úVôLeLs ¸úZ RWlThÓs[Õ. AYt±u ÑÚdLUô] TXuLŞm Ï±l©PlThÓs[].
+
+{header}
+{mgn}{f8}NN Uaô úVôLm{blk}{f7}
+{endheader}
+
+úVôLm : N² úLk§Wj§p EfNÅh¥p CÚkRôp
+
+{poke}{f7}
+^^UaôúVôLj§u TX]ôL CWôÔYm, LôYpÕû\, NhPCXôLô ØR­VYt±p Ej§úVôLm ùTßÅoLs. ¿eLs GkR ¨ûX«p CÚkRôÛm BiûU ùRô²dÏm. AWNúRôWûQ EPu ©\kRRôÏm. EeLŞdÏ AúSL T¦VôhLŞm, ER®VôhLŞm CÚlTôoLs. EeL[Õ BÙs GİTÕ YVÕdÏ úU­ÚdÏm. £XNUVeL°p _]eLs EeLû[ ùLhPYo Gußm, EeLs SPY¥dûL úLs®dÏ±Vô]Õ Gußm LÚÕYôoLs. ¿eLs JÚ NeLj§u RûXYWôL CÚlÀoLs. ¿eLs R]YkRoLŞûPV NeLj§p AeLm Y¡lÀoLs.
+
+{header}
+{mgn}{f8}Ñ]Tô úVôLm{blk}{f7}
+{endheader}
+
+úVôLm : ã¬Vû] R®ojÕ Ut\ ¡WaeLs Nk§WàdÏ CWiPôªPj§p CÚkRôp.
+
+{poke}{f7}
+_ôRLj§p Nk§WWô£«­ÚkÕ 2-YÕ CPm ùNqYôn, ×Ru, ®VôZu, Ñd¡Wu ApXÕ N² R²VôLúYô ApXÕ úNokúRô CÚkRôp Ñ]TúVôLm EiPô¡\Õ. Ñ]TúVôLj§p ©\kR BPYoLs CVtûLVôL Bv§Ls ªdLYWôÙm, ×j§dáoûUÙm ×Lİm EûPVYWôÙm CÚlTôoLs. TôoûY«Ûm NlRj§]ôÛm EiPôÏm NkúRô`eLû[ AàT®lTôoLs. ùTôÕYôL RuØVt£Vôp EVoYôoLs.
+
+{header}
+{mgn}{f8}NRô NgNôW úVôLm{blk}{f7}
+{endheader}
+
+úVôLm : Xd¡]ô§T§ NW Wô£«p CÚlTÕ
+
+{poke}{f7}
+EeLŞdÏ A§L AûXfNp CÚdÏm. úYûXÙm, A§LlT¥Vô] TVQeLs EûPVRôL CÚdÏm. ¿eLs ¨fNVUô] ùR°Yô] Ï±dúLôŞPu CpXô®hPôp JÚ SôúPô¥ úTôX YôZúYi¥«ÚdÏm.
+
+{header}
+{mgn}{f8}UôjÚ êXR] úVôLm{blk}{f7}
+{endheader}
+
+úVôLm : CWiPôm ÅhÓ A§T§ SôuLôm ÅhÓ A§T§ÙPu úNok§ÚkRôp.
+
+{poke}{f7}
+EeLŞûPV RôVôÚûPV B£«]ôÛm, ER®«]ôÛm A§L TQm EeLû[ YkÕ úNÚm.
+
